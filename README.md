@@ -4,6 +4,9 @@ A composite political-risk index built entirely from UK Parliament open data
 ([developer.parliament.uk](https://developer.parliament.uk/)) — no scraping,
 no manual data entry, every number traces back to a live API call.
 
+**[Live demo](https://uk-legislative-risk-index-tcdkpz6o3rdvognosbhw4x.streamlit.app)**
+— built by [Alfie Pearson-Rogers](https://github.com/alfierogers1023).
+
 ![Dashboard screenshot](screenshots/dashboard.png)
 
 ## What it measures
@@ -61,7 +64,12 @@ src/data_clients/     Thin wrappers around each Parliament API
 src/indices/          Cohesion, scrutiny, and composite index logic
 src/reporting.py       Shared reporting helpers (used by app.py and the notebook script)
 src/utils/            Shared helpers (caching, retrying transient API errors)
-data/raw/              Cached raw API responses (gitignored, regenerated on first run)
+scripts/refresh_cache.py  Regenerates data/raw/ (see below)
+data/raw/              Committed pre-baked cache — deliberate, not an accident (see
+                       scripts/refresh_cache.py and .github/workflows/refresh-cache.yml).
+                       Streamlit Community Cloud's filesystem is ephemeral, so this
+                       cache is what makes cold starts fast instead of a multi-minute
+                       live refetch.
 data/processed/        Generated chart/CSV output (gitignored, regenerated on run)
 notebooks/             Static PNG/CSV visualisation script
 tests/                 Tests for data clients and index logic (run against the live API)
@@ -79,3 +87,7 @@ pip install -r requirements.txt
 python -m pytest tests/    # optional: runs against the live API
 streamlit run app.py
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
