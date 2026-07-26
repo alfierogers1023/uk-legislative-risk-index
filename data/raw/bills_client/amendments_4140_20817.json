@@ -1,0 +1,967 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 12, at end insert\u2014",
+      "<b>\u201c33AA</b> <b>Conduct relevant to designation</b>"
+    ],
+    "amendmentId": 10035927,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hoc20",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "This amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 42, at end insert\u2014",
+      "<b>\u201c33C</b> <b>Mandatory review following designation</b>"
+    ],
+    "amendmentId": 10035925,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 42,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "hoc19",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 8, leave out from \u201cbody\u201d until end of line 9"
+    ],
+    "amendmentId": 10035935,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hoc7",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 16, leave out from \u201cbody\u201d until end of line 17"
+    ],
+    "amendmentId": 10035936,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hoc8",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 21, leave out from \u201cbody\u201d until end of line 22"
+    ],
+    "amendmentId": 10035937,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hoc9",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, leave out lines 23 to 25"
+    ],
+    "amendmentId": 10035916,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hoc10",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 4, line 23, at end insert\u2014",
+      "\u201c(3A) The conduct specified in subsection (3) includes establishing, administering or maintaining a company, trust, partnership or similar arrangement which conceals, or is intended to conceal, the beneficial ownership of assets connected with a designated body.\u201d"
+    ],
+    "amendmentId": 10035800,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hoc1",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5164,
+        "name": "Steff Aquarone",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5164/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5164/contact",
+        "memberFrom": "North Norfolk"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5327,
+        "name": "Vikki Slade",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5327/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5327/contact",
+        "memberFrom": "Mid Dorset and North Poole"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 5111,
+        "name": "Martin Wrigley",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5111/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5111/contact",
+        "memberFrom": "Newton Abbot"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5066,
+        "name": "Steve Darling",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5066/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5066/contact",
+        "memberFrom": "Torbay"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 5070,
+        "name": "Lisa Smart",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5070/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5070/contact",
+        "memberFrom": "Hazel Grove"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 6,
+        "memberId": 5122,
+        "name": "Manuela Perteghella",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5122/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5122/contact",
+        "memberFrom": "Stratford-on-Avon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 7,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 8,
+        "memberId": 4995,
+        "name": "Sarah Dyke",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4995/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4995/contact",
+        "memberFrom": "Glastonbury and Somerton"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 9,
+        "memberId": 5354,
+        "name": "Cameron Thomas",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5354/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5354/contact",
+        "memberFrom": "Tewkesbury"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 10,
+        "memberId": 5182,
+        "name": "Charlotte Cane",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5182/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5182/contact",
+        "memberFrom": "Ely and East Cambridgeshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 11,
+        "memberId": 5216,
+        "name": "Caroline Voaden",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5216/contact",
+        "memberFrom": "South Devon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 12,
+        "memberId": 4769,
+        "name": "Daisy Cooper",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4769/contact",
+        "memberFrom": "St Albans"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 13,
+        "memberId": 5055,
+        "name": "Max Wilkinson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5055/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5055/contact",
+        "memberFrom": "Cheltenham"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 14,
+        "memberId": 5040,
+        "name": "Liz Jarvis",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5040/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5040/contact",
+        "memberFrom": "Eastleigh"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 15,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 4, line 27, after \u201cUnited Kingdom\u201d insert \u201cor are conducted outside, but were planned from within, the United Kingdom\u201d"
+    ],
+    "amendmentId": 10035918,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hoc12",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 15, leave out \u201c14\u201d and insert \u201c25\u201d"
+    ],
+    "amendmentId": 10035917,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hoc11",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, leave out lines 21 to 23"
+    ],
+    "amendmentId": 10035922,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hoc16",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 38, leave out \u201c(7) or\u201d"
+    ],
+    "amendmentId": 10035923,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 38,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hoc17",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Uniform and publication of images in relation to a designated body</b>"
+    ],
+    "amendmentId": 10035919,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hoc13",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Preparation of acts relating to a designated body</b>"
+    ],
+    "amendmentId": 10035921,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hoc15",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Self-directing acts in support of a designated body</b>"
+    ],
+    "amendmentId": 10035930,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hoc23",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Dissemination of publications relating to a designated body</b>"
+    ],
+    "amendmentId": 10035924,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "hoc18",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 7, line 27, at end insert\u2014",
+      "\u201c(5) Regulations under subsection (3) may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.\u201d"
+    ],
+    "amendmentId": 10035934,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hoc6",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5055,
+        "name": "Max Wilkinson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5055/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5055/contact",
+        "memberFrom": "Cheltenham"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cDesignation of the IRGC</b>"
+    ],
+    "amendmentId": 10035932,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC3",
+    "dNum": "hoc4",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5055,
+        "name": "Max Wilkinson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5055/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5055/contact",
+        "memberFrom": "Cheltenham"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cAssessment of the adequacy of the powers contained in the Act</b>"
+    ],
+    "amendmentId": 10035933,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC4",
+    "dNum": "hoc5",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5055,
+        "name": "Max Wilkinson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5055/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5055/contact",
+        "memberFrom": "Cheltenham"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cSeizure of Passports etc from Person Suspected of Assisting a Designated Body</b>"
+    ],
+    "amendmentId": 10035920,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC5",
+    "dNum": "hoc14",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cPolice powers to apply for serious crime prevention orders in designation cases</b>"
+    ],
+    "amendmentId": 10035928,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC6",
+    "dNum": "hoc21",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cSanctions</b>"
+    ],
+    "amendmentId": 10035929,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC7",
+    "dNum": "hoc22",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4805,
+        "name": "Alicia Kearns",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4805/contact",
+        "memberFrom": "Rutland and Stamford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cForeign power threat activity and involvement in that activity</b>"
+    ],
+    "amendmentId": 10035926,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC1",
+    "dNum": "hoc2",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5356,
+        "name": "Jim Allister",
+        "party": "Traditional Unionist Voice",
+        "partyColour": "0c3a6a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5356/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5356/contact",
+        "memberFrom": "North Antrim"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cMeaning of foreign power</b>"
+    ],
+    "amendmentId": 10035931,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC2",
+    "dNum": "hoc3",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20817,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5356,
+        "name": "Jim Allister",
+        "party": "Traditional Unionist Voice",
+        "partyColour": "0c3a6a",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5356/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5356/contact",
+        "memberFrom": "North Antrim"
+      }
+    ]
+  }
+]

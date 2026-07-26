@@ -38,11 +38,16 @@ from src.reporting import (
     build_comparison_group,
     build_monthly_cohesion_table,
     get_governing_party_and_majority,
+    get_parties_by_seat_count,
 )
 
 # Must match app.py's CURATED_BILLS and its slider's max "Months of history".
-CURATED_BILL_IDS = [3737, 4254, 4030]
+CURATED_BILL_IDS = [3737, 4254, 4030, 4123, 4140]
 DEFAULT_MONTHS_OF_HISTORY = 24
+# app.py lets a viewer pick any party's cohesion trend, not just the
+# governing one. Pre-warming the top few by seat count covers the most
+# likely picks so switching the selector doesn't hit a slow live fetch.
+PARTIES_TO_PREWARM = 3
 
 METADATA_PATH = os.path.join(PROJECT_ROOT, "data", "cache_metadata.json")
 
@@ -52,9 +57,11 @@ def main():
     party, majority_size = get_governing_party_and_majority()
     print(f"  {party}, working majority {majority_size}")
 
-    print(f"Warming {DEFAULT_MONTHS_OF_HISTORY} months of cohesion data "
-          f"(majority computed per-month, not just today's snapshot)...")
-    build_monthly_cohesion_table(party, DEFAULT_MONTHS_OF_HISTORY)
+    parties = get_parties_by_seat_count()
+    for other_party, seats in parties[:PARTIES_TO_PREWARM]:
+        print(f"Warming {DEFAULT_MONTHS_OF_HISTORY} months of cohesion data "
+              f"for {other_party} ({seats} seats)...")
+        build_monthly_cohesion_table(other_party, DEFAULT_MONTHS_OF_HISTORY)
 
     print("Warming current Government Bills list...")
     all_bills = {b["bill_id"]: b for b in get_bills(bill_type_id=GOVERNMENT_BILL)}

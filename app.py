@@ -43,6 +43,7 @@ from src.reporting import (
     build_comparison_group,
     build_monthly_cohesion_table,
     get_governing_party_and_majority,
+    get_parties_by_seat_count,
 )
 
 # Curated shortlist of real, currently-in-progress Government Bills, chosen
@@ -52,6 +53,8 @@ CURATED_BILLS = {
     3737: "Employment Rights Act 2025",
     4254: "Immigration and Asylum Bill",
     4030: "Railways Bill",
+    4123: "Steel Industry (Nationalisation) Act 2026",
+    4140: "National Security (State Threats) Act 2026",
 }
 
 st.set_page_config(page_title="UK Legislative Risk Index", layout="wide")
@@ -71,14 +74,17 @@ def load_cache_metadata():
         return json.load(f)
 
 
+@st.cache_data(ttl=3600, show_spinner="Fetching Commons party seat counts...")
+def load_parties():
+    return get_parties_by_seat_count()
+
+
 @st.cache_data(ttl=3600, show_spinner="Fetching governing party + Commons division data...")
-def load_cohesion_table(months_of_history):
-    party, majority_size = get_governing_party_and_majority()
-    # majority_size here is TODAY's majority (for the "Working majority"
-    # metric tile). The monthly table computes its own majority per month
-    # internally, since that can genuinely differ for older months.
-    table = build_monthly_cohesion_table(party, months_of_history)
-    return party, majority_size, table
+def load_cohesion_table(party, months_of_history):
+    # The monthly table computes its own majority per month internally,
+    # since that can genuinely differ for older months, and can be negative
+    # for a party that doesn't hold a majority (see build_monthly_cohesion_table).
+    return build_monthly_cohesion_table(party, months_of_history)
 
 
 @st.cache_data(ttl=3600, show_spinner="Fetching current Government Bills list...")
@@ -148,17 +154,41 @@ all under the Open Parliament Licence, no API key required.
 
 st.header("1. Government Cohesion")
 
+governing_party, governing_majority = get_governing_party_and_majority()
+
+parties = load_parties()
+party_options = [p for p, _ in parties]
+selected_party = st.selectbox(
+    "Which party's cohesion to track?", options=party_options,
+    index=party_options.index(governing_party),
+    help="Defaults to the governing party. Picking any other party still "
+         "shows its rebellion rate and worst single rebellion, but the "
+         "majority-normalized cohesion score only applies to a party that "
+         "actually holds a majority.",
+)
 months_of_history = st.slider("Months of history", min_value=3, max_value=24, value=24)
-party, majority_size, cohesion_table = load_cohesion_table(months_of_history)
+cohesion_table = load_cohesion_table(selected_party, months_of_history)
 
 latest = cohesion_table.iloc[-1]
 worst_row = cohesion_table.loc[cohesion_table["worst_division_rebel_count"].idxmax()]
+has_majority = cohesion_table["cohesion_score"].notna().any()
 
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Governing party", party)
-col2.metric("Working majority", majority_size)
-col3.metric("Latest month's cohesion score", f"{latest['cohesion_score']:.3f}")
+col1.metric("Party", selected_party)
+col2.metric("Majority (seats above 50%)", int(latest["majority_size"]))
+if has_majority:
+    col3.metric("Latest month's cohesion score", f"{latest['cohesion_score']:.3f}")
+else:
+    col3.metric("Latest month's rebellion rate", f"{latest['rebellion_rate']:.1%}")
 col4.metric("Worst single rebellion (window)", f"{int(worst_row['worst_division_rebel_count'])} MPs")
+
+if not has_majority:
+    st.caption(
+        f"{selected_party} doesn't hold a Commons majority in this window, so "
+        f"the majority-normalized cohesion score isn't a meaningful concept "
+        f"here (see the sidebar methodology). Showing rebellion rate and the "
+        f"worst single rebellion instead, both of which work for any party."
+    )
 
 fig = go.Figure()
 fig.add_trace(go.Bar(
@@ -166,18 +196,28 @@ fig.add_trace(go.Bar(
     name="Worst single-division rebel count", marker_color="indianred",
     yaxis="y2", opacity=0.55,
 ))
-fig.add_trace(go.Scatter(
-    x=cohesion_table["month"], y=cohesion_table["cohesion_score"],
-    name="Cohesion score (1 = fully cohesive)", mode="lines+markers",
-    line=dict(color="royalblue", width=3), yaxis="y1",
-    customdata=cohesion_table["majority_size"],
-    hovertemplate="Cohesion: %{y:.3f}<br>Majority that month: %{customdata}<extra></extra>",
-))
+if has_majority:
+    fig.add_trace(go.Scatter(
+        x=cohesion_table["month"], y=cohesion_table["cohesion_score"],
+        name="Cohesion score (1 = fully cohesive)", mode="lines+markers",
+        line=dict(color="royalblue", width=3), yaxis="y1",
+        customdata=cohesion_table["majority_size"],
+        hovertemplate="Cohesion: %{y:.3f}<br>Majority that month: %{customdata}<extra></extra>",
+    ))
+    yaxis_title = "Cohesion score"
+    yaxis_range = [0, 1.05]
+else:
+    fig.add_trace(go.Scatter(
+        x=cohesion_table["month"], y=cohesion_table["rebellion_rate"],
+        name="Rebellion rate", mode="lines+markers",
+        line=dict(color="royalblue", width=3), yaxis="y1",
+    ))
+    yaxis_title = "Rebellion rate"
+    yaxis_range = None
 fig.update_layout(
-    title=f"{party} cohesion over time (today's working majority: {majority_size}. "
-          f"Hover a point for that month's majority, which can differ due to "
-          f"by-elections/defections)",
-    yaxis=dict(title="Cohesion score", range=[0, 1.05]),
+    title=f"{selected_party} cohesion over time (latest majority: {int(latest['majority_size'])}. "
+          f"Majority can differ month to month due to by-elections/defections)",
+    yaxis=dict(title=yaxis_title, range=yaxis_range),
     yaxis2=dict(title="Worst division rebel count", overlaying="y", side="right"),
     legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
     hovermode="x unified",
@@ -187,7 +227,7 @@ st.plotly_chart(fig, width="stretch")
 
 st.info(
     f"**Biggest single rebellion in this window:** {int(worst_row['worst_division_rebel_count'])} "
-    f"{party} MPs rebelled on *{worst_row['worst_division_title']}* "
+    f"{selected_party} MPs rebelled on *{worst_row['worst_division_title']}* "
     f"({str(worst_row['worst_division_date'])[:10]}). The rolling rebellion "
     f"rate alone would have diluted this into the background."
 )
@@ -292,10 +332,10 @@ if bill:
     bill_risk_score = compute_bill_risk_score(
         bill_id=bill["bill_id"],
         comparison_group=comparison_group,
-        governing_party=party,
+        governing_party=governing_party,
         start_date=cohesion_table.iloc[0]["month"] + "-01",
-        end_date=str(worst_row["worst_division_date"] or latest["month"] + "-28")[:10],
-        majority_size=majority_size,
+        end_date=datetime.date.today().isoformat(),
+        majority_size=governing_majority,
     )
     st.metric("Composite bill risk score (1 = lowest risk)", f"{bill_risk_score:.2f}")
 
@@ -312,10 +352,10 @@ if bill:
 
 st.divider()
 parliament_risk_score = compute_parliament_risk_score(
-    governing_party=party,
+    governing_party=governing_party,
     start_date=cohesion_table.iloc[0]["month"] + "-01",
-    end_date=str(worst_row["worst_division_date"] or latest["month"] + "-28")[:10],
-    majority_size=majority_size,
+    end_date=datetime.date.today().isoformat(),
+    majority_size=governing_majority,
     live_bill_friction_ratios=(
         [relative_friction["contested_proportion_ratio"]]
         if bill and relative_friction.get("contested_proportion_ratio") is not None

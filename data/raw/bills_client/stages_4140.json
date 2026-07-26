@@ -1,0 +1,236 @@
+[
+  {
+    "id": 20789,
+    "stageId": 6,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18161,
+        "stageId": 6,
+        "billStageId": 20789,
+        "billId": 4140,
+        "date": "2026-06-09T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 20832,
+    "stageId": 29,
+    "sessionId": 40,
+    "description": "Allocation of time motion",
+    "abbreviation": "AOTM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18217,
+        "stageId": 29,
+        "billStageId": 20832,
+        "billId": 4140,
+        "date": "2026-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 20816,
+    "stageId": 7,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18200,
+        "stageId": 7,
+        "billStageId": 20816,
+        "billId": 4140,
+        "date": "2026-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 20817,
+    "stageId": 49,
+    "sessionId": 40,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18201,
+        "stageId": 49,
+        "billStageId": 20817,
+        "billId": 4140,
+        "date": "2026-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 20818,
+    "stageId": 10,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18202,
+        "stageId": 10,
+        "billStageId": 20818,
+        "billId": 4140,
+        "date": "2026-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 20878,
+    "stageId": 1,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18258,
+        "stageId": 1,
+        "billStageId": 20878,
+        "billId": 4140,
+        "date": "2026-06-18T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": 20879,
+    "stageId": 2,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18259,
+        "stageId": 2,
+        "billStageId": 20879,
+        "billId": 4140,
+        "date": "2026-06-23T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": 20880,
+    "stageId": 3,
+    "sessionId": 40,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18260,
+        "stageId": 3,
+        "billStageId": 20880,
+        "billId": 4140,
+        "date": "2026-06-30T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": 20881,
+    "stageId": 4,
+    "sessionId": 40,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18261,
+        "stageId": 4,
+        "billStageId": 20881,
+        "billId": 4140,
+        "date": "2026-06-30T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": 20882,
+    "stageId": 5,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18262,
+        "stageId": 5,
+        "billStageId": 20882,
+        "billId": 4140,
+        "date": "2026-06-30T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": 21075,
+    "stageId": 29,
+    "sessionId": 40,
+    "description": "Allocation of time motion",
+    "abbreviation": "AOTM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18463,
+        "stageId": 29,
+        "billStageId": 21075,
+        "billId": 4140,
+        "date": "2026-07-06T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  },
+  {
+    "id": 21055,
+    "stageId": 12,
+    "sessionId": 40,
+    "description": "Consideration of Lords amendments",
+    "abbreviation": "COLA",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18447,
+        "stageId": 12,
+        "billStageId": 21055,
+        "billId": 4140,
+        "date": "2026-07-06T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  },
+  {
+    "id": 21074,
+    "stageId": 11,
+    "sessionId": 40,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 18462,
+        "stageId": 11,
+        "billStageId": 21074,
+        "billId": 4140,
+        "date": "2026-07-08T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+]

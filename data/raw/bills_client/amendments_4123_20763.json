@@ -1,0 +1,2055 @@
+[
+  {
+    "summaryText": [
+      "Clause 52, page 34, line 15, at end insert\u2014",
+      "\u201c(5A) Compensation scheme regulations must include provision which specifies that payment of compensation may be made until any written estimate under section 54 (4A) is laid before Parliament.\u201d"
+    ],
+    "amendmentId": 10035485,
+    "amendmentType": "EditBillBody",
+    "clause": 52,
+    "schedule": null,
+    "pageNumber": 34,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hoc13",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "This amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 54, page 35, line 25, leave out \u201cmay\u2014",
+      "(a) require or permit\u201d"
+    ],
+    "amendmentId": 10035486,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 54,
+    "schedule": null,
+    "pageNumber": 35,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hoc14",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 54, page 35, line 34, at end insert\u2014",
+      "\u201c(4A) The regulations must\u2014"
+    ],
+    "amendmentId": 10035487,
+    "amendmentType": "EditBillBody",
+    "clause": 54,
+    "schedule": null,
+    "pageNumber": 35,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hoc15",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 54, page 35, line 40, at end insert\u2014",
+      "\u201c(c) the anticipated effects of\u2014"
+    ],
+    "amendmentId": 10035484,
+    "amendmentType": "EditBillBody",
+    "clause": 54,
+    "schedule": null,
+    "pageNumber": 35,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hoc12",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 58, page 39, line 7, at end insert\u2014",
+      "\u201c(1A) The Secretary of State may only provide financial assistance under this section if they are satisfied that financial assistance will secure value for money.\u201d"
+    ],
+    "amendmentId": 10035620,
+    "amendmentType": "EditBillBody",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "20",
+    "dNum": "hoc27",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 58, page 39, line 8, at end insert\u2014",
+      "\u201c(1A) The Secretary of State may not in any five-year period provide financial assistance under this section of an amount that exceeds \u00a31 million per employee of the steel undertaking."
+    ],
+    "amendmentId": 10035625,
+    "amendmentType": "EditBillBody",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hoc32",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 58, page 39, line 24, at end insert\u2014",
+      "\u201c(4A) Financial assistance under this section may not include funding provided by the National Wealth Fund.\u201d"
+    ],
+    "amendmentId": 10035630,
+    "amendmentType": "EditBillBody",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 24,
+    "amendmentPosition": "",
+    "marshalledListText": "24",
+    "dNum": "hoc37",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5177,
+        "name": "Ann Davies",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5177/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5177/contact",
+        "memberFrom": "Caerfyrddin"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 59, page 39, line 29, insert at end \u201cand,",
+      "(b) compensation paid under any compensation scheme regulations made under section 52.\u201d"
+    ],
+    "amendmentId": 10035490,
+    "amendmentType": "EditBillBody",
+    "clause": 59,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 29,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hoc4",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 59, page 39, line 29, insert at end \u201cand,",
+      "(b) about the progress the Government has made in negotiating an improved agreement with the European Union for the export of steel produced in the United Kingdom.\u201d"
+    ],
+    "amendmentId": 10035493,
+    "amendmentType": "EditBillBody",
+    "clause": 59,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 29,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hoc7",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotSelected",
+    "decisionExplanation": "This amendment was not chosen for debate by the Chair/Speaker.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 59, page 39, line 31, leave out \u201c12\u201d and insert \u201c3\u201d"
+    ],
+    "amendmentId": 10035610,
+    "amendmentType": "EditBillBody",
+    "clause": 59,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hoc17",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 59, page 39, line 33, leave out \u201c12\u201d and insert \u201c3\u201d"
+    ],
+    "amendmentId": 10035611,
+    "amendmentType": "EditBillBody",
+    "clause": 59,
+    "schedule": null,
+    "pageNumber": 39,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hoc18",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cParliamentary scrutiny of Financial Assistance</b>"
+    ],
+    "amendmentId": 10035483,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC6",
+    "dNum": "hoc11",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cFinancial assistance: limit</b>"
+    ],
+    "amendmentId": 10035627,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC12",
+    "dNum": "hoc34",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cFinancial assistance: England and Wales</b>"
+    ],
+    "amendmentId": 10035629,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC13",
+    "dNum": "hoc36",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5177,
+        "name": "Ann Davies",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5177/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5177/contact",
+        "memberFrom": "Caerfyrddin"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cImpact assessments</b>"
+    ],
+    "amendmentId": 10035609,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC7",
+    "dNum": "hoc16",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cLimit on expenditure on financial assistance and compensation</b>"
+    ],
+    "amendmentId": 10035495,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC4",
+    "dNum": "hoc9",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cDuty to try to find a private sector purchaser for any nationalised steel undertaking</b>"
+    ],
+    "amendmentId": 10035622,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC9",
+    "dNum": "hoc29",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cReport on the impact any nationalisation of steel undertakings has had on inward investment to the United Kingdom</b>"
+    ],
+    "amendmentId": 10035623,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC10",
+    "dNum": "hoc30",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cState aids</b>"
+    ],
+    "amendmentId": 10035626,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC11",
+    "dNum": "hoc33",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 6, leave out \u201cof or including\u201d and insert \u201cpredominantly of\u201d"
+    ],
+    "amendmentId": 10035624,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 6,
+    "amendmentPosition": "",
+    "marshalledListText": "21",
+    "dNum": "hoc31",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "This amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 1, line 14, leave out \u201cincludes (but is not limited to)\u201d and insert \u201cmeans\u201d"
+    ],
+    "amendmentId": 10035614,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "hoc21",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 1, line 20, at end insert\u2014",
+      "\u201c(d) preventing the closure of, or the loss of jobs at, a steel undertaking in Wales.\u201d"
+    ],
+    "amendmentId": 10035628,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "23",
+    "dNum": "hoc35",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5177,
+        "name": "Ann Davies",
+        "party": "Plaid Cymru",
+        "partyColour": "348837",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5177/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5177/contact",
+        "memberFrom": "Caerfyrddin"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 20, at end insert\u2014",
+      "\u201c(2A) The Secretary of State may not exercise a principal transfer power unless they have laid a statement before both Houses of Parliament explaining their reasons for concluding that it is necessary to exercise the power in the public interest.\u201d"
+    ],
+    "amendmentId": 10035481,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hoc1",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 20, at end insert\u2014",
+      "\u201c(2A) The Secretary of State may not exercise a principal transfer power unless he has commissioned an independent assessment of whether the exercise of the power is in the public interest, and that assessment has demonstrated that it is in the public interest."
+    ],
+    "amendmentId": 10035615,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "hoc22",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 20, at end insert\u2014",
+      "\u201c(2A) The exercise of a principal transfer power may only be considered to be in the public interest under subsection (1) if the Secretary of State has is satisfied that the exercise of the power would provide value for money for the taxpayer.\u201d"
+    ],
+    "amendmentId": 10035616,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hoc23",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 20, at end insert\u2014",
+      "\u201c(2A) The Secretary of State may not exercise a principal transfer power under subsection (1) unless they have laid a report before Parliament containing full details of the criteria used to assess whether the exercise of power would be in the public interest.\u201d"
+    ],
+    "amendmentId": 10035617,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "17",
+    "dNum": "hoc24",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 2, line 10, leave out subsections (3) to (5)"
+    ],
+    "amendmentId": 10035612,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 10,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hoc19",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 2, line 30, leave out \"negative\" and insert \"affirmative\""
+    ],
+    "amendmentId": 10035488,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 30,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hoc2",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 15, page 8, line 21, leave out \"negative\" and insert \"affirmative\""
+    ],
+    "amendmentId": 10035489,
+    "amendmentType": "EditBillBody",
+    "clause": 15,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hoc3",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 39, page 25, line 32, leave out \u201cnegative\u201d and insert \u201caffirmative\u201d"
+    ],
+    "amendmentId": 10035618,
+    "amendmentType": "EditBillBody",
+    "clause": 39,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 32,
+    "amendmentPosition": "",
+    "marshalledListText": "18",
+    "dNum": "hoc25",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 45, page 28, line 37, leave out \u201cnegative\u201d and insert \u201caffirmative\u201d"
+    ],
+    "amendmentId": 10035619,
+    "amendmentType": "EditBillBody",
+    "clause": 45,
+    "schedule": null,
+    "pageNumber": 28,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "19",
+    "dNum": "hoc26",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Page 32, line 1, leave out Clause 50"
+    ],
+    "amendmentId": 10035613,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 50,
+    "schedule": null,
+    "pageNumber": 32,
+    "lineNumber": 1,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hoc20",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotSelected",
+    "decisionExplanation": "This amendment was not chosen for debate by the Chair/Speaker.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cLimit on expenditure on financial assistance and compensation</b>"
+    ],
+    "amendmentId": 10035491,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC1",
+    "dNum": "hoc5",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cStakeholder Advisory Committee</b>"
+    ],
+    "amendmentId": 10035492,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC2",
+    "dNum": "hoc6",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cJobs and industrial transition strategy</b>"
+    ],
+    "amendmentId": 10035494,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC3",
+    "dNum": "hoc8",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4591,
+        "name": "Sarah Olney",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4591/contact",
+        "memberFrom": "Richmond Park"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cDuty to report: 10-year strategy for nationalised steel undertakings</b>"
+    ],
+    "amendmentId": 10035482,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC5",
+    "dNum": "hoc10",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NotCalled",
+    "decisionExplanation": "The amendment was debated as part of a group of amendments, but not put to a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5091,
+        "name": "Nigel Farage",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5091/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5091/contact",
+        "memberFrom": "Clacton"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5161,
+        "name": "Richard Tice",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5161/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5161/contact",
+        "memberFrom": "Boston and Skegness"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4743,
+        "name": "Lee Anderson",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4743/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4743/contact",
+        "memberFrom": "Ashfield"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5403,
+        "name": "Sarah Pochin",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5403/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5403/contact",
+        "memberFrom": "Runcorn and Helsby"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 4858,
+        "name": "Danny Kruger",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4858/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4858/contact",
+        "memberFrom": "East Wiltshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 6,
+        "memberId": 4320,
+        "name": "Robert Jenrick",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4320/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4320/contact",
+        "memberFrom": "Newark"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 7,
+        "memberId": 1447,
+        "name": "Andrew Rosindell",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1447/contact",
+        "memberFrom": "Romford"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 8,
+        "memberId": 4475,
+        "name": "Suella Braverman",
+        "party": "Reform UK",
+        "partyColour": "12b6cf",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4475/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4475/contact",
+        "memberFrom": "Fareham and Waterlooville"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cContingent liabilities</b>"
+    ],
+    "amendmentId": 10035621,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC8",
+    "dNum": "hoc28",
+    "id": 0,
+    "billId": 4123,
+    "billStageId": 20763,
+    "statusIndicator": null,
+    "decision": "NegativedOnDivision",
+    "decisionExplanation": "This amendment was debated and rejected, following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4107,
+        "name": "Dame Harriett Baldwin",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4107/contact",
+        "memberFrom": "West Worcestershire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4874,
+        "name": "Andrew Griffith",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4874/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4874/contact",
+        "memberFrom": "Arundel and South Downs"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4850,
+        "name": "Gareth Davies",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4850/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4850/contact",
+        "memberFrom": "Grantham and Bourne"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5203,
+        "name": "Alison Griffiths",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5203/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5203/contact",
+        "memberFrom": "Bognor Regis and Littlehampton"
+      }
+    ]
+  }
+]

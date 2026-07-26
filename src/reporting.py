@@ -48,6 +48,22 @@ def get_governing_party_and_majority():
     return governing_party, majority_size
 
 
+def get_parties_by_seat_count():
+    """
+    Return current Commons parties ordered by seat count, most seats first.
+    Used to populate a party selector, so a viewer isn't limited to just the
+    governing party's cohesion trend.
+
+    Returns:
+        list of (party_name, seat_count) tuples.
+    """
+    members = get_all_members(house=COMMONS)
+    seat_counts = {}
+    for m in members:
+        seat_counts[m["party"]] = seat_counts.get(m["party"], 0) + 1
+    return sorted(seat_counts.items(), key=lambda item: item[1], reverse=True)
+
+
 def _party_as_of(party_history, date):
     """
     Pick whichever entry in a member's party history covers `date`
@@ -149,6 +165,14 @@ def build_monthly_cohesion_table(party, months_of_history):
     defections), and normalizing every month against today's majority
     would silently misjudge older months. See get_majority_as_of.
 
+    Works for any party, not just the governing one. For a party that
+    doesn't hold a majority in a given month, majority_size comes back
+    negative (see get_majority_as_of), and the majority-normalized cohesion
+    score isn't a meaningful concept for a party that was never trying to
+    govern with it, so cohesion_score is None for those months. rebellion_rate
+    and the tail-event tracker (worst_division_rebel_count) still work fine
+    for any party regardless of whether it holds a majority.
+
     Returns:
         pandas.DataFrame with columns: month, majority_size, rebellion_rate,
         cohesion_score, worst_division_rebel_count, worst_division_title,
@@ -158,7 +182,10 @@ def build_monthly_cohesion_table(party, months_of_history):
     for label, start, end in month_windows(months_of_history):
         majority_size = get_majority_as_of(start, party)
         rebellion_rate = compute_rebellion_rate(party, start, end)
-        cohesion_score = compute_cohesion_score(party, start, end, majority_size)
+        try:
+            cohesion_score = compute_cohesion_score(party, start, end, majority_size)
+        except ValueError:
+            cohesion_score = None
         worst = compute_max_single_division_rebellion(party, start, end)
 
         rows.append({

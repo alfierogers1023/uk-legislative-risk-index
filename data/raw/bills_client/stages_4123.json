@@ -1,0 +1,286 @@
+[
+  {
+    "id": 20738,
+    "stageId": 6,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18105,
+        "stageId": 6,
+        "billStageId": 20738,
+        "billId": 4123,
+        "date": "2026-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 20742,
+    "stageId": 7,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18106,
+        "stageId": 7,
+        "billStageId": 20742,
+        "billId": 4123,
+        "date": "2026-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 20749,
+    "stageId": 15,
+    "sessionId": 40,
+    "description": "Money resolution",
+    "abbreviation": "MR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18116,
+        "stageId": 15,
+        "billStageId": 20749,
+        "billId": 4123,
+        "date": "2026-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 20750,
+    "stageId": 36,
+    "sessionId": 40,
+    "description": "Ways and Means resolution",
+    "abbreviation": "WAMR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18117,
+        "stageId": 36,
+        "billStageId": 20750,
+        "billId": 4123,
+        "date": "2026-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 20759,
+    "stageId": 14,
+    "sessionId": 40,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18128,
+        "stageId": 14,
+        "billStageId": 20759,
+        "billId": 4123,
+        "date": "2026-05-21T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 20763,
+    "stageId": 49,
+    "sessionId": 40,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18133,
+        "stageId": 49,
+        "billStageId": 20763,
+        "billId": 4123,
+        "date": "2026-06-08T00:00:00"
+      },
+      {
+        "id": 18134,
+        "stageId": 49,
+        "billStageId": 20763,
+        "billId": 4123,
+        "date": "2026-06-09T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": 20800,
+    "stageId": 10,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18169,
+        "stageId": 10,
+        "billStageId": 20800,
+        "billId": 4123,
+        "date": "2026-06-09T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": 21136,
+    "stageId": 14,
+    "sessionId": 40,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18538,
+        "stageId": 14,
+        "billStageId": 21136,
+        "billId": 4123,
+        "date": "2026-07-14T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": 20801,
+    "stageId": 1,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18170,
+        "stageId": 1,
+        "billStageId": 20801,
+        "billId": 4123,
+        "date": "2026-06-10T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": 20802,
+    "stageId": 2,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18171,
+        "stageId": 2,
+        "billStageId": 20802,
+        "billId": 4123,
+        "date": "2026-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": 20803,
+    "stageId": 3,
+    "sessionId": 40,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18172,
+        "stageId": 3,
+        "billStageId": 20803,
+        "billId": 4123,
+        "date": "2026-06-29T00:00:00"
+      },
+      {
+        "id": 18173,
+        "stageId": 3,
+        "billStageId": 20803,
+        "billId": 4123,
+        "date": "2026-07-01T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  },
+  {
+    "id": 20973,
+    "stageId": 4,
+    "sessionId": 40,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18354,
+        "stageId": 4,
+        "billStageId": 20973,
+        "billId": 4123,
+        "date": "2026-07-08T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  },
+  {
+    "id": 20976,
+    "stageId": 5,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18356,
+        "stageId": 5,
+        "billStageId": 20976,
+        "billId": 4123,
+        "date": "2026-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  },
+  {
+    "id": 21089,
+    "stageId": 12,
+    "sessionId": 40,
+    "description": "Consideration of Lords amendments",
+    "abbreviation": "COLA",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18478,
+        "stageId": 12,
+        "billStageId": 21089,
+        "billId": 4123,
+        "date": "2026-07-14T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  },
+  {
+    "id": 21092,
+    "stageId": 11,
+    "sessionId": 40,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 18484,
+        "stageId": 11,
+        "billStageId": 21092,
+        "billId": 4123,
+        "date": "2026-07-15T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  }
+]

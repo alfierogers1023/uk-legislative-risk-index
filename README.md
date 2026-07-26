@@ -9,6 +9,44 @@ built by [Alfie Pearson-Rogers](https://github.com/alfierogers1023).
 
 ![Dashboard screenshot](screenshots/dashboard.png)
 
+## Why I built this
+
+I wanted to practice the same "combine multiple weak signals into one
+composite" methodology used in quantitative risk modelling, applied
+somewhere with genuinely free, well-documented, live data: UK Parliament's
+open API. Cohesion (backbench rebellion) and scrutiny (bill friction) are
+structurally different signals, one is only interesting around rare events,
+the other is always live, and deciding to combine both rather than picking
+just one was itself a deliberate design choice, not the first idea I had.
+
+It was also a chance to practice things a toy dataset doesn't force on you:
+verifying every endpoint against the live API before writing code against an
+assumed shape, handling a real data quirk that silently broke a seat count
+for the whole build (see Key Findings below), and thinking about deployment
+constraints (Streamlit Community Cloud's ephemeral filesystem resets on
+every redeploy) instead of stopping at "it works on my machine."
+
+## Key findings
+
+Things this project actually turned up, not just a working demo:
+
+- **Found and fixed a real bug in the underlying data model.** The Members
+  API records some Labour MPs as "Labour (Co-op)", a distinction neither the
+  Commons Votes API nor the party-history endpoint makes. Left unhandled,
+  this undercounted the governing party's seats by 43 and reported the
+  working majority as 71 when the real figure is 157. This had been live
+  since the first version of the dashboard until I caught it.
+- **Validated against a well-documented real event.** The tail-event tracker
+  correctly surfaces the 59-MP Conservative rebellion on the Safety of
+  Rwanda Bill (17 January 2024), a real, publicly documented rebellion, not
+  a synthetic test case.
+- **Found a genuine methodological edge case.** With a wider history window,
+  the "biggest rebellion" becomes 160 Labour MPs on the Terminally Ill
+  Adults (End of Life) Bill, the real assisted dying vote. That was a free
+  vote with no official party position, so calling it a "rebellion" is
+  technically wrong. Whip status isn't published data, so this can't be
+  detected automatically, only flagged, which the dashboard now does.
+
 ## What it measures
 
 Two independent signals, combined into one score:

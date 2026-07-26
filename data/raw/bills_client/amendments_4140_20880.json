@@ -1,0 +1,1574 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 10, after \u201cactivity\u201d insert \u201cincluding espionage\u201d"
+    ],
+    "amendmentId": 10036546,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 10,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4159,
+        "name": "Baroness Hayter of Kentish Town",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4159/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4159/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 1867,
+        "name": "Baroness Ludford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1867/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1867/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4969,
+        "name": "Baroness Foster of Aghadrumsee",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4969/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4969/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 12, at end insert\u2014",
+      "\u201c(1A) A body may be designated under this section if it is a media organ which the Secretary of State reasonably believes is\u2014"
+    ],
+    "amendmentId": 10036569,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hol24",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3917,
+        "name": "Lord Walney",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3917/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3917/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4286,
+        "name": "Lord Mendelsohn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4286/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4286/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 12, at end insert\u2014",
+      "<b>\u201c33AA</b> <b>Conduct relevant to designation</b>"
+    ],
+    "amendmentId": 10036518,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cThe foreign power condition: amendment</b>"
+    ],
+    "amendmentId": 10036515,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "4",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cForeign power threat activity: artificial superintelligence systems</b>"
+    ],
+    "amendmentId": 10036517,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "5",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4197,
+        "name": "Baroness Doocey",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4197/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4197/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4206,
+        "name": "Lord Marks of Henley-on-Thames",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4206/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4206/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>Lord Goodman of Wycombe gives notice of his intention to oppose the Question that Clause 1 stand part of the Bill.</i>"
+    ],
+    "amendmentId": 10036559,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "StoodPart",
+    "decisionExplanation": "A member opposed the Clause/Schedule standing part of the Bill. Following debate, the House agreed that the Clause/Schedule should remain part of the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1471,
+        "name": "Lord Goodman of Wycombe",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1471/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1471/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, leave out line 9"
+    ],
+    "amendmentId": 10036548,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5012,
+        "name": "Lord Cameron of Lochiel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5012/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5012/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, leave out lines 23 to 25"
+    ],
+    "amendmentId": 10036549,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5012,
+        "name": "Lord Cameron of Lochiel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5012/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5012/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 32, at end insert\u2014",
+      "\u201c(5A) It is a defence for a person charged under this section to show that the conduct was carried out solely for the purposes of journalism, academic research, diplomacy, legal representation or humanitarian assistance.\u201d"
+    ],
+    "amendmentId": 10036544,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 32,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5012,
+        "name": "Lord Cameron of Lochiel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5012/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5012/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4297,
+        "name": "Baroness Jones of Moulsecoomb",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4297/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4297/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 4, line 23, at end insert\u2014",
+      "\u201c(3A) The conduct specified in subsection (3) includes establishing, administering or maintaining a company, trust, partnership or similar arrangement which conceals, or is intended to conceal, the beneficial ownership of assets connected with a designated body.\u201d"
+    ],
+    "amendmentId": 10036516,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4206,
+        "name": "Lord Marks of Henley-on-Thames",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4206/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4206/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 4, line 23, at end insert\u2014",
+      "\u201c(3A) A person commits an offence if the person\u2014"
+    ],
+    "amendmentId": 10036570,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hol25",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3917,
+        "name": "Lord Walney",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3917/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3917/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4286,
+        "name": "Lord Mendelsohn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4286/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4286/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 4, line 34, at end insert\u2014",
+      "\u201c(5A) Subsections (1) and (2) do not apply to conduct engaged in on behalf of an impartial humanitarian organisation that is necessary to ensure the delivery of humanitarian assistance or to support other activities that support basic human needs.\u201d"
+    ],
+    "amendmentId": 10036560,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 7, at end insert\u2014",
+      "\u201c(e) for the purposes of providing aid of a humanitarian nature.\u201d"
+    ],
+    "amendmentId": 10036562,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 7, at end insert\u2014",
+      "\u201c(e) for the purpose of carrying out humanitarian activities.\u201d"
+    ],
+    "amendmentId": 10036585,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "12A",
+    "dNum": "hol29",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 12, at end insert\u2014",
+      "\u201c(7A) The reference to the provision of aid of a humanitarian nature does not include the provision of aid in contravention of internationally recognised principles and standards applicable to the provision of humanitarian aid.\u201d"
+    ],
+    "amendmentId": 10036563,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hol17",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 12, at end insert\u2014",
+      "\u201c(7A) For the purposes of subsection (6)(e), the reference to the carrying out of humanitarian activities does not include the carrying out of humanitarian activities in contravention of internationally recognised principles and standards applicable to the carrying out of humanitarian activities.\u201d"
+    ],
+    "amendmentId": 10036586,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "13A",
+    "dNum": "hol30",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 13, after \u201csection\u201d insert \u201cother than under subsection (3A)\u201d"
+    ],
+    "amendmentId": 10036571,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "hol26",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3917,
+        "name": "Lord Walney",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3917/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3917/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4286,
+        "name": "Lord Mendelsohn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4286/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4286/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 15, at end insert\u2014",
+      "\u201c(8A) A person who commits an offence under subsection (3A) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years or a fine (or both).\u201d"
+    ],
+    "amendmentId": 10036572,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "hol27",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3917,
+        "name": "Lord Walney",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3917/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3917/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4286,
+        "name": "Lord Mendelsohn",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4286/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4286/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 7, at end insert\u2014",
+      "\u201c(4A) A material benefit is an excluded benefit if it is provided to an impartial humanitarian organisation, or a person acting on behalf of an impartial humanitarian organisation, in order to ensure the delivery of humanitarian assistance or to support other activities that support basic human needs.\u201d"
+    ],
+    "amendmentId": 10036561,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 23, at end insert\u2014",
+      "\u201c(7A) In proceedings for the offences of obtaining and accepting information under subsection (1), and for the offence of agreeing to accept information under subsection (2), it shall be a defence to show that the information relates to activity outside the United Kingdom, and that the person had a reasonable excuse for obtaining, accepting or agreeing to accept the information.\u201d"
+    ],
+    "amendmentId": 10036547,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "17",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4705,
+        "name": "Lord Anderson of Ipswich",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4705/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4705/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4962,
+        "name": "Lord Verdirame",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4962/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4962/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4878,
+        "name": "The Lord Bishop of Manchester",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4878/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4878/contact",
+        "memberFrom": "Bishops"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 23, at end insert\u2014",
+      "\u201c(7A) In proceedings for an offence under subsection (1) or (2) where\u2014"
+    ],
+    "amendmentId": 10036584,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "17A",
+    "dNum": "hol28",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4705,
+        "name": "Lord Anderson of Ipswich",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4705/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4705/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 35, at end insert\u2014",
+      "\u201c(d) for the purpose of providing aid of a humanitarian nature.\u201d"
+    ],
+    "amendmentId": 10036564,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "18",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 35, at end insert\u2014",
+      "\u201c(d) for the purpose of carrying out humanitarian activities.\u201d"
+    ],
+    "amendmentId": 10036587,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "18A",
+    "dNum": "hol31",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 37, after \u201c(7)\u201d insert \u201c, (7A)\u201d"
+    ],
+    "amendmentId": 10036611,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "18B",
+    "dNum": "hol33",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4705,
+        "name": "Lord Anderson of Ipswich",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4705/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4705/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 40, at end insert\u2014",
+      "\u201c(9A) The reference to the provision of aid of a humanitarian nature does not include the provision of aid in contravention of internationally recognised principles and standards applicable to the provision of humanitarian aid.\u201d"
+    ],
+    "amendmentId": 10036565,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "19",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 40, at end insert\u2014",
+      "\u201c(9A) For the purposes of subsection (8)(d), the reference to the carrying out of humanitarian activities does not include the carrying out of humanitarian activities in contravention of internationally recognised principles and standards applicable to the carrying out of humanitarian activities.\u201d"
+    ],
+    "amendmentId": 10036588,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "19A",
+    "dNum": "hol32",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2539,
+        "name": "Baroness Northover",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2539/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2539/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4331,
+        "name": "Baroness Helic",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4331/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4331/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Uniform and publication of images in relation to a designated body</b>"
+    ],
+    "amendmentId": 10036545,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "20",
+    "dNum": "hol11",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "Disagreed",
+    "decisionExplanation": "This amendment was disagreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'disagreed' indicates that the Clause/Schedule remained part of the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5012,
+        "name": "Lord Cameron of Lochiel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5012/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5012/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4962,
+        "name": "Lord Verdirame",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4962/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4962/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 3917,
+        "name": "Lord Walney",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3917/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3917/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Dissemination of publications relating to a designated body</b>"
+    ],
+    "amendmentId": 10036566,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "21",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5012,
+        "name": "Lord Cameron of Lochiel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5012/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5012/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 7, line 8, at end insert\u2014",
+      "<b>\u201c17D</b> <b>Humanitarian activities: exemption</b>"
+    ],
+    "amendmentId": 10036568,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 738,
+        "name": "Lord Alton of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/738/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/738/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3709,
+        "name": "Baroness D'Souza",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3709/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3709/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 2, insert the following new Clause\u2014",
+      "<b>\u201cSeizure of passports</b>"
+    ],
+    "amendmentId": 10036567,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "23",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 4140,
+    "billStageId": 20880,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5012,
+        "name": "Lord Cameron of Lochiel",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5012/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5012/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]
