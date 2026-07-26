@@ -1,0 +1,45 @@
+# UK Parliament API endpoints used by this project.
+# All endpoints below were verified against live responses on 2026-07-26
+# (not guessed from docs) — see the data_clients/ modules for real example
+# payloads pulled during that verification.
+
+members_api:
+  base_url: "https://members-api.parliament.uk"
+  openapi_spec: "https://members-api.parliament.uk/swagger/v1/swagger.json"
+  endpoints:
+    search: "/api/Members/Search"            # params: House(1=Commons,2=Lords), IsCurrentMember, skip/take (take capped at 20)
+    biography: "/api/Members/{id}/Biography"  # value.partyAffiliations = party history
+  notes: >
+    Use for MP identity, party affiliation over time, constituency,
+    membership start/end dates. Party affiliation is time-sensitive —
+    always query with an as-of date, don't assume current party = party at
+    time of a given historical vote. Note: votes_client's per-division vote
+    records already carry each MP's party at the time of that vote, so this
+    API is mainly needed for total-seats-by-party (majority size) and for
+    spot-checking defections, not for per-vote party attribution.
+
+bills_api:
+  base_url: "https://bills-api.parliament.uk"
+  openapi_spec: "https://bills-api.parliament.uk/swagger/v1/swagger.json"
+  endpoints:
+    bill_types: "/api/v1/BillTypes"
+    bills: "/api/v1/Bills"                                              # params: Session (integer sessionId, not "2024-25"), BillType, Skip/Take
+    stages: "/api/v1/Bills/{billId}/Stages"                             # each stage has "house": "Commons"|"Lords"|"Unassigned" — covers both Houses
+    amendments: "/api/v1/Bills/{billId}/Stages/{billStageId}/Amendments" # each has "decision" (NoDecision/Agreed/Withdrawn/NegativedOnDivision/NotCalled/NotSelected) and "sponsors" (with party)
+  notes: >
+    Use for bill stages, dates, amendments, committee activity. Confirmed
+    both Commons and Lords stages are present (incl. ping-pong stages) —
+    do not scope to Commons only, that's where real friction on
+    majority-government bills usually shows up.
+
+commons_votes:
+  base_url: "https://commonsvotes-api.parliament.uk"
+  openapi_spec: "https://commonsvotes-api.parliament.uk/swagger/docs/v1"  # note: older Swashbuckle discovery path, not /swagger/v1/swagger.json
+  endpoints:
+    search: "/data/divisions.{format}/search"    # summary only (no per-member votes); params: queryParameters.skip/take (default take 25), startDate/endDate ("yyyy-MM-dd")
+    division_detail: "/data/division/{divisionId}.{format}"  # full per-member votes: Ayes / Noes / NoVoteRecorded, each with Party as-of that division
+  notes: >
+    Division (vote) records. This is a separate host from Members/Bills,
+    confirmed live. format is "json" or "xml".
+
+open_parliament_licence: "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/"

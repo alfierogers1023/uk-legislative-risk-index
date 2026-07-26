@@ -1,0 +1,12 @@
+# Core
+requests>=2.31
+pandas>=2.0
+pyyaml>=6.0
+
+# Testing
+pytest>=7.4
+
+# Visualisation
+matplotlib>=3.8            # notebooks/visualise_cohesion_score.py (static PNG)
+streamlit>=1.38            # app.py (interactive dashboard)
+plotly>=5.24                # interactive charts inside app.py
