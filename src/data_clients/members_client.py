@@ -32,6 +32,24 @@ COMMONS = 1
 LORDS = 2
 
 
+def _normalize_party_name(name):
+    """
+    Members/Search's "latestParty" field records some Labour MPs as
+    "Labour (Co-op)" (formally joint Labour & Co-operative Party members)
+    — a distinction NEITHER the Commons Votes API's per-vote Party field
+    NOR this same endpoint's own Biography/partyAffiliations history uses
+    (both just say "Labour", confirmed against live data on 2026-07-26).
+    Co-op MPs sit with and take the whip as Labour for every practical
+    purpose. Without normalizing this, get_all_members would undercount
+    the governing party's seats by however many Co-op MPs there are
+    (43 out of 403 Labour seats when this was found) — a large, real error
+    in majority-size calculations, not a cosmetic one.
+    """
+    if name and name.endswith(" (Co-op)"):
+        return name[: -len(" (Co-op)")]
+    return name
+
+
 def get_all_members(house=COMMONS, is_current_member=True, use_cache=True):
     """
     Return all members of the given House.
@@ -73,11 +91,77 @@ def get_all_members(house=COMMONS, is_current_member=True, use_cache=True):
             all_members.append({
                 "id": member["id"],
                 "name": member["nameDisplayAs"],
-                "party": party["name"] if party else None,
+                "party": _normalize_party_name(party["name"]) if party else None,
                 "party_id": party["id"] if party else None,
                 "constituency": house_membership.get("membershipFrom"),
                 "membership_start_date": house_membership.get("membershipStartDate"),
                 "membership_end_date": house_membership.get("membershipEndDate"),
+            })
+
+        if len(data["items"]) < take:
+            break
+        skip += take
+
+    save_response("members_client", cache_key, all_members)
+    return all_members
+
+
+def get_members_as_of_date(date, house=COMMONS, use_cache=True):
+    """
+    Return everyone who was a sitting member of the given House on a
+    specific date — NOT just current members, and NOT excluding people who
+    have since left.
+
+    Uses the API's MembershipInDateRange filter (verified live on
+    2026-07-26: passing the same date as both bounds returns exactly who
+    was sitting that day — confirmed against a known date, returned 650
+    Commons members).
+
+    IMPORTANT: the "party" field returned here is each member's CURRENT
+    (latest) party, not necessarily their party on `date` — a member's
+    party can change after this date via defection/suspension (e.g. Diane
+    Abbott: Labour 2024-05-28 to 2025-07-17, Independent since). Do not use
+    this field for historical seat-counting — combine with
+    get_member_party_history(member_id) and pick whichever affiliation
+    entry actually covers `date` instead.
+
+    Args:
+        date: "yyyy-MM-dd" string.
+        house: COMMONS (1) or LORDS (2).
+        use_cache: if True, reuse a previously cached response instead of
+            hitting the API again.
+
+    Returns:
+        list of dicts: {id, name, constituency} (party deliberately
+        omitted — see warning above).
+    """
+    cache_key = f"members_asof_{date}_house{house}"
+    if use_cache:
+        cached = load_cached_response("members_client", cache_key)
+        if cached is not None:
+            return cached
+
+    all_members = []
+    skip = 0
+    take = 20  # API-enforced maximum per page
+
+    while True:
+        params = {
+            "MembershipInDateRange.WasMemberOnOrAfter": date,
+            "MembershipInDateRange.WasMemberOnOrBefore": date,
+            "MembershipInDateRange.WasMemberOfHouse": house,
+            "skip": skip,
+            "take": take,
+        }
+        data = get_json(f"{BASE_URL}/api/Members/Search", params=params)
+
+        for item in data["items"]:
+            member = item["value"]
+            house_membership = member.get("latestHouseMembership") or {}
+            all_members.append({
+                "id": member["id"],
+                "name": member["nameDisplayAs"],
+                "constituency": house_membership.get("membershipFrom"),
             })
 
         if len(data["items"]) < take:

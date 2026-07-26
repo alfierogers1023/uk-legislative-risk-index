@@ -11,7 +11,7 @@
   {
     "id": 5131,
     "name": "Jack Abbott",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Ipswich",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -74,7 +74,7 @@
   {
     "id": 632,
     "name": "Mr Douglas Alexander",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Lothian East",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -578,7 +578,7 @@
   {
     "id": 5257,
     "name": "Rachel Blake",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Cities of London and Westminster",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -758,7 +758,7 @@
   {
     "id": 1427,
     "name": "Andy Burnham",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Makerfield",
     "membership_start_date": "2026-06-18T00:00:00",
@@ -1226,7 +1226,7 @@
   {
     "id": 4088,
     "name": "Ms Stella Creasy",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Walthamstow",
     "membership_start_date": "2010-05-06T00:00:00",
@@ -1442,7 +1442,7 @@
   {
     "id": 5224,
     "name": "Kate Dearden",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Halifax",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -1523,7 +1523,7 @@
   {
     "id": 4657,
     "name": "Anneliese Dodds",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Oxford East",
     "membership_start_date": "2017-06-08T00:00:00",
@@ -1532,7 +1532,7 @@
   {
     "id": 5192,
     "name": "Helena Dollimore",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Hastings and Rye",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -1550,7 +1550,7 @@
   {
     "id": 4264,
     "name": "Stephen Doughty",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Cardiff South and Penarth",
     "membership_start_date": "2012-11-15T00:00:00",
@@ -1739,7 +1739,7 @@
   {
     "id": 4870,
     "name": "Florence Eshalomi",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Vauxhall and Camberwell Green",
     "membership_start_date": "2019-12-12T00:00:00",
@@ -1757,7 +1757,7 @@
   {
     "id": 4040,
     "name": "Chris Evans",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Caerphilly",
     "membership_start_date": "2010-05-06T00:00:00",
@@ -1775,7 +1775,7 @@
   {
     "id": 5099,
     "name": "Miatta Fahnbulleh",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Peckham",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -1856,7 +1856,7 @@
   {
     "id": 5029,
     "name": "Emma Foody",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Cramlington and Killingworth",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -2108,7 +2108,7 @@
   {
     "id": 4603,
     "name": "Preet Kaur Gill",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Birmingham Edgbaston",
     "membership_start_date": "2017-06-08T00:00:00",
@@ -2288,7 +2288,7 @@
   {
     "id": 5154,
     "name": "Sarah Hall",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Warrington South",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -2423,7 +2423,7 @@
   {
     "id": 473,
     "name": "Sir Mark Hendrick",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Preston",
     "membership_start_date": "2000-11-23T00:00:00",
@@ -2441,7 +2441,7 @@
   {
     "id": 1524,
     "name": "Dame Meg Hillier",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Hackney South and Shoreditch",
     "membership_start_date": "2005-05-05T00:00:00",
@@ -2657,7 +2657,7 @@
   {
     "id": 5178,
     "name": "Sally Jameson",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Doncaster Central",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -2927,7 +2927,7 @@
   {
     "id": 5279,
     "name": "Jayne Kirkham",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Truro and Falmouth",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -3143,7 +3143,7 @@
   {
     "id": 4943,
     "name": "Simon Lightwood",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Wakefield and Rothwell",
     "membership_start_date": "2022-06-23T00:00:00",
@@ -3224,7 +3224,7 @@
   {
     "id": 5133,
     "name": "Alice Macdonald",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Norwich North",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -3296,7 +3296,7 @@
   {
     "id": 4253,
     "name": "Seema Malhotra",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Feltham and Heston",
     "membership_start_date": "2011-12-15T00:00:00",
@@ -3341,7 +3341,7 @@
   {
     "id": 4471,
     "name": "Rachael Maskell",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "York Central",
     "membership_start_date": "2015-05-07T00:00:00",
@@ -3539,7 +3539,7 @@
   {
     "id": 4569,
     "name": "Jim McMahon",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Oldham West, Chadderton and Royton",
     "membership_start_date": "2015-12-03T00:00:00",
@@ -3575,7 +3575,7 @@
   {
     "id": 5114,
     "name": "Kirsty McNeill",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Midlothian",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -3863,7 +3863,7 @@
   {
     "id": 4797,
     "name": "James Murray",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Ealing North",
     "membership_start_date": "2019-12-12T00:00:00",
@@ -3998,7 +3998,7 @@
   {
     "id": 4641,
     "name": "Alex Norris",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Nottingham North and Kimberley",
     "membership_start_date": "2017-06-08T00:00:00",
@@ -4088,7 +4088,7 @@
   {
     "id": 4515,
     "name": "Kate Osamor",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Edmonton and Winchmore Hill",
     "membership_start_date": "2015-05-07T00:00:00",
@@ -4142,7 +4142,7 @@
   {
     "id": 5243,
     "name": "Andrew Pakes",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Peterborough",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -4286,7 +4286,7 @@
   {
     "id": 4673,
     "name": "Jo Platt",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Leigh and Atherton",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -4304,7 +4304,7 @@
   {
     "id": 4682,
     "name": "Luke Pollard",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Plymouth Sutton and Devonport",
     "membership_start_date": "2017-06-08T00:00:00",
@@ -4322,7 +4322,7 @@
   {
     "id": 4263,
     "name": "Lucy Powell",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Manchester Central",
     "membership_start_date": "2012-11-15T00:00:00",
@@ -4457,7 +4457,7 @@
   {
     "id": 4268,
     "name": "Steve Reed",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Streatham and Croydon North",
     "membership_start_date": "2012-11-29T00:00:00",
@@ -4502,7 +4502,7 @@
   {
     "id": 4119,
     "name": "Jonathan Reynolds",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Stalybridge and Hyde",
     "membership_start_date": "2010-05-06T00:00:00",
@@ -4664,7 +4664,7 @@
   {
     "id": 5135,
     "name": "Oliver Ryan",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Burnley",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -4754,7 +4754,7 @@
   {
     "id": 5176,
     "name": "Baggy Shanker",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Derby South",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -4934,7 +4934,7 @@
   {
     "id": 4595,
     "name": "Gareth Snell",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Stoke-on-Trent Central",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -4952,7 +4952,7 @@
   {
     "id": 4658,
     "name": "Alex Sobel",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Leeds Central and Headingley",
     "membership_start_date": "2017-06-08T00:00:00",
@@ -5132,7 +5132,7 @@
   {
     "id": 5179,
     "name": "Kirsteen Sullivan",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Bathgate and Linlithgow",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -5276,7 +5276,7 @@
   {
     "id": 177,
     "name": "Gareth Thomas",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Harrow West",
     "membership_start_date": "1997-05-01T00:00:00",
@@ -5402,7 +5402,7 @@
   {
     "id": 4449,
     "name": "Anna Turley",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Redcar",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -5510,7 +5510,7 @@
   {
     "id": 5237,
     "name": "Chris Vince",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Harlow",
     "membership_start_date": "2024-07-04T00:00:00",
@@ -5564,7 +5564,7 @@
   {
     "id": 5071,
     "name": "Paul Waugh",
-    "party": "Labour (Co-op)",
+    "party": "Labour",
     "party_id": 15,
     "constituency": "Rochdale",
     "membership_start_date": "2024-07-04T00:00:00",

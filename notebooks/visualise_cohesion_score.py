@@ -51,7 +51,9 @@ def plot_monthly_table(df, party, majority_size):
                                   color="tab:blue", label="Cohesion score (1 = fully cohesive)")
     ax_top.set_ylim(0, 1.02)
     ax_top.set_ylabel("Cohesion score", color="tab:blue")
-    ax_top.set_title(f"{party} cohesion — working majority {majority_size}")
+    ax_top.set_title(f"{party} cohesion — today's working majority {majority_size} "
+                      f"(each month's cohesion score uses that month's own "
+                      f"historical majority, which can differ)")
     ax_top.grid(alpha=0.3)
 
     ax_rate = ax_top.twinx()
@@ -78,7 +80,7 @@ if __name__ == "__main__":
     party, majority_size = get_governing_party_and_majority()
     print(f"Governing party: {party}, working majority: {majority_size}")
 
-    table = build_monthly_cohesion_table(party, majority_size, MONTHS_OF_HISTORY)
+    table = build_monthly_cohesion_table(party, MONTHS_OF_HISTORY)
     for _, row in table.iterrows():
         print(f"{row['month']}: rebellion_rate={row['rebellion_rate']:.4f} "
               f"cohesion_score={row['cohesion_score']:.4f} "

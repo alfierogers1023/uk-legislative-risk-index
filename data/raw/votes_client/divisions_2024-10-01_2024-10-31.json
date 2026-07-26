@@ -1,0 +1,86 @@
+[
+  {
+    "division_id": 1853,
+    "date": "2024-10-29T18:53:00",
+    "title": "Great British Energy Bill: Third Reading",
+    "aye_count": 361,
+    "no_count": 111
+  },
+  {
+    "division_id": 1852,
+    "date": "2024-10-29T18:28:00",
+    "title": "Great British Energy Bill Report Stage: Amendment 8",
+    "aye_count": 115,
+    "no_count": 361
+  },
+  {
+    "division_id": 1851,
+    "date": "2024-10-29T18:14:00",
+    "title": "Great British Energy Bill Report Stage: Amendment 6",
+    "aye_count": 124,
+    "no_count": 361
+  },
+  {
+    "division_id": 1850,
+    "date": "2024-10-29T17:58:00",
+    "title": "Great British Energy Bill Report Stage: Amendment 4",
+    "aye_count": 96,
+    "no_count": 353
+  },
+  {
+    "division_id": 1849,
+    "date": "2024-10-21T22:16:00",
+    "title": "Employment Rights Bill: Second Reading",
+    "aye_count": 386,
+    "no_count": 105
+  },
+  {
+    "division_id": 1848,
+    "date": "2024-10-21T21:59:00",
+    "title": "Employment Rights Bill: Reasoned Amendment to Second Reading",
+    "aye_count": 105,
+    "no_count": 386
+  },
+  {
+    "division_id": 1847,
+    "date": "2024-10-16T18:57:00",
+    "title": "Opposition day: Access to primary healthcare",
+    "aye_count": 80,
+    "no_count": 337
+  },
+  {
+    "division_id": 1846,
+    "date": "2024-10-16T15:26:00",
+    "title": "Opposition day: Carer's allowance",
+    "aye_count": 87,
+    "no_count": 335
+  },
+  {
+    "division_id": 1845,
+    "date": "2024-10-15T18:55:00",
+    "title": "House of Lords (Hereditary Peers) Bill: Reasoned Amendment to Second Reading",
+    "aye_count": 105,
+    "no_count": 453
+  },
+  {
+    "division_id": 1844,
+    "date": "2024-10-09T19:00:00",
+    "title": "Renters' Rights Bill: Reasoned Amendment to Second Reading",
+    "aye_count": 104,
+    "no_count": 424
+  },
+  {
+    "division_id": 1843,
+    "date": "2024-10-08T18:59:00",
+    "title": "Opposition Day: Farming and food security",
+    "aye_count": 187,
+    "no_count": 359
+  },
+  {
+    "division_id": 1842,
+    "date": "2024-10-08T16:16:00",
+    "title": "Opposition Day: VAT on independent schools",
+    "aye_count": 190,
+    "no_count": 363
+  }
+]

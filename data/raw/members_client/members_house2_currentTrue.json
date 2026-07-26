@@ -1,0 +1,7121 @@
+[
+  {
+    "id": 631,
+    "name": "Baroness Adams of Craigielea",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3453,
+    "name": "Lord Addington",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1986-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2175,
+    "name": "Lord Adebowale",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3743,
+    "name": "Lord Adonis",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-05-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4689,
+    "name": "Lord Agnew of Oulton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-10-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4210,
+    "name": "Lord Ahmad of Wimbledon",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3478,
+    "name": "Lord Alderdice",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5394,
+    "name": "Baroness Alexander of Cleveden",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 397,
+    "name": "Lord Allan of Hallam",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4304,
+    "name": "Lord Allen of Kensington",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-10-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3482,
+    "name": "Lord Alli",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4533,
+    "name": "Baroness Altmann",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-05-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 738,
+    "name": "Lord Alton of Liverpool",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4921,
+    "name": "Lord Altrincham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3477,
+    "name": "Baroness Amos",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-09-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4705,
+    "name": "Lord Anderson of Ipswich",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-07-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4508,
+    "name": "Baroness Anderson of Stoke-on-Trent",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 568,
+    "name": "Lord Anderson of Swansea",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2534,
+    "name": "Baroness Andrews",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3474,
+    "name": "Baroness Anelay of St Johns",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5441,
+    "name": "Baroness Antrobus",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 56,
+    "name": "Lord Arbuthnot of Edrom",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4150,
+    "name": "Baroness Armstrong of Hill Top",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4957,
+    "name": "Lord Ashcombe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2500,
+    "name": "Baroness Ashton of Upholland",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-08-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1511,
+    "name": "Lord Austin of Dudley",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5433,
+    "name": "Lord Babudu",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3451,
+    "name": "Lord Bach",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4987,
+    "name": "Lord Bailey of Paddington",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1028,
+    "name": "Lord Baker of Dorking",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4223,
+    "name": "Baroness Bakewell",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4285,
+    "name": "Baroness Bakewell of Hardington Mandeville",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4302,
+    "name": "Lord Balfe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5014,
+    "name": "Lord Banner",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5377,
+    "name": "Lord Barber of Ainsdale",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5438,
+    "name": "Lord Barber of Chittlehampton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2501,
+    "name": "Baroness Barker",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1389,
+    "name": "Lord Barker of Battle",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4703,
+    "name": "Baroness Barran",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5410,
+    "name": "Lord Barrow",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-07-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3955,
+    "name": "Lord Barwell",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3504,
+    "name": "Lord Bassam of Brighton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-11-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1091,
+    "name": "Lord Bates",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2008-06-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5367,
+    "name": "Baroness Batters",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1438,
+    "name": "Lord Beamish",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 328,
+    "name": "Baroness Beckett",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 513,
+    "name": "Lord Beith",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4941,
+    "name": "Lord Bellamy",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-06-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1441,
+    "name": "Lord Bellingham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-11-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4167,
+    "name": "Baroness Benjamin",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4719,
+    "name": "Baroness Bennett of Manor Castle",
+    "party": "Green Party",
+    "party_id": 44,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1547,
+    "name": "Lord Benyon",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4036,
+    "name": "Baroness Berger",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3526,
+    "name": "Lord Berkeley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-04-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4276,
+    "name": "Lord Berkeley of Knighton",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-03-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4218,
+    "name": "Baroness Berridge",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4577,
+    "name": "Baroness Bertin",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-09-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3605,
+    "name": "Lord Best",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3832,
+    "name": "Lord Bew",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-03-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5435,
+    "name": "Baroness Bi",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3863,
+    "name": "Lord Bichard",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-03-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5380,
+    "name": "Lord Biggar",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3809,
+    "name": "Lord Bilimoria",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4564,
+    "name": "Lord Bird",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2533,
+    "name": "Lord Birt",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-02-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4171,
+    "name": "Lord Black of Brentwood",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4915,
+    "name": "Baroness Black of Strome",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-04-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3561,
+    "name": "Baroness Blackstone",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1987-03-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5440,
+    "name": "Lord Blackwater",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3550,
+    "name": "Lord Blackwell",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4019,
+    "name": "Baroness Blackwood of North Oxford",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-02-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4912,
+    "name": "Baroness Blake of Leeds",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-02-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 497,
+    "name": "Lord Blencathra",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-02-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4582,
+    "name": "Baroness Bloomfield of Hinton Waldrist",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-09-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4724,
+    "name": "Baroness Blower",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 395,
+    "name": "Lord Blunkett",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-09-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 147,
+    "name": "Lord Boateng",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3699,
+    "name": "Baroness Bonham-Carter of Yarnbury",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5016,
+    "name": "Lord Booth",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5368,
+    "name": "Lord Booth-Smith",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4884,
+    "name": "Lord Botham",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 106,
+    "name": "Baroness Bottomley of Nettlestone",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4282,
+    "name": "Lord Bourne of Aberystwyth",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5385,
+    "name": "Baroness Bousted",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4562,
+    "name": "Baroness Bowles of Berkhamsted",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3496,
+    "name": "Lord Bowness",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4704,
+    "name": "Baroness Boycott",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-07-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3805,
+    "name": "Lord Boyd of Duncansby",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 452,
+    "name": "Lord Bradley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2483,
+    "name": "Lord Bradshaw",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4339,
+    "name": "Baroness Brady",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 435,
+    "name": "Lord Brady of Altrincham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3979,
+    "name": "Baroness Bray of Coln",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2550,
+    "name": "Lord Brennan",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1400,
+    "name": "Lord Brennan of Canton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4535,
+    "name": "Lord Bridges of Headley",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-05-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4241,
+    "name": "Baroness Brinton",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-02-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3335,
+    "name": "Lord Brooke of Alverthorpe",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4565,
+    "name": "Baroness Brown of Cambridge",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1583,
+    "name": "Baroness Brown of Silvertown",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3801,
+    "name": "Lord Browne of Belmont",
+    "party": "Democratic Unionist Party",
+    "party_id": 7,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2172,
+    "name": "Lord Browne of Madingley",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 236,
+    "name": "Baroness Browning",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4720,
+    "name": "Lord Brownlow of Shurlock Row",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 615,
+    "name": "Lord Bruce of Bennachie",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4706,
+    "name": "Baroness Bull",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-07-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 238,
+    "name": "Lord Burnett",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-05-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4691,
+    "name": "Lord Burnett of Maldon",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-10-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3351,
+    "name": "Lord Burns",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3349,
+    "name": "Baroness Buscombe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3337,
+    "name": "Lord Butler of Brockwell",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-02-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3804,
+    "name": "Baroness Butler-Sloss",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4581,
+    "name": "Lord Caine",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-09-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5391,
+    "name": "Baroness Caine of Kentish Town",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4336,
+    "name": "Lord Callanan",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1467,
+    "name": "Lord Cameron of Chipping Norton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-11-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3705,
+    "name": "Lord Cameron of Dillington",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5012,
+    "name": "Lord Cameron of Lochiel",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5005,
+    "name": "Lord Camoys",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3871,
+    "name": "Baroness Campbell of Loughborough",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2008-11-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3831,
+    "name": "Baroness Campbell of Surbiton",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-03-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 499,
+    "name": "Lord Campbell-Savours",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4939,
+    "name": "Viscount Camrose",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4696,
+    "name": "The Lord Archbishop of Canterbury",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2026-02-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5390,
+    "name": "Baroness Carberry of Muswell Hill",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2205,
+    "name": "Lord Carey of Clifton",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2002-11-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1138,
+    "name": "Lord Carlile of Berriew",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5002,
+    "name": "Baroness Carr of Walton-on-the-Hill",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-11-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1206,
+    "name": "Lord Carrington of Fulham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3680,
+    "name": "Lord Carter of Coles",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4732,
+    "name": "Lord Carter of Haslemere",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5408,
+    "name": "Lord Case",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4896,
+    "name": "Baroness Casey of Blackstock",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-10-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5387,
+    "name": "Baroness Cash",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4340,
+    "name": "Lord Cashman",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5369,
+    "name": "Baroness Cass",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4578,
+    "name": "Baroness Cavendish of Little Venice",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-09-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4579,
+    "name": "Baroness Chakrabarti",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-09-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3308,
+    "name": "Viscount Chandos",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-04-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3972,
+    "name": "Baroness Chapman of Darlington",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-02-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1946,
+    "name": "Lord Chartres",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-11-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4922,
+    "name": "The Lord Bishop of Chelmsford",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2021-06-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5407,
+    "name": "The Lord Bishop of Chester",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2025-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4330,
+    "name": "Baroness Chisholm of Owlpen",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4733,
+    "name": "Lord Choudrey",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3391,
+    "name": "The Earl of Clancarty",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 599,
+    "name": "Baroness Clark of Calton",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 525,
+    "name": "Lord Clark of Windermere",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 366,
+    "name": "Lord Clarke of Nottingham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3396,
+    "name": "Lord Clement-Jones",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 360,
+    "name": "Lord Coaker",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-02-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4098,
+    "name": "Baroness Coffey",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4222,
+    "name": "Lord Collins of Highbury",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4248,
+    "name": "Viscount Colville of Culross",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4327,
+    "name": "Lord Cooper of Windrush",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3359,
+    "name": "The Earl of Courtown",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3829,
+    "name": "Baroness Coussins",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-03-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5402,
+    "name": "The Lord Bishop of Coventry",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2025-03-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3364,
+    "name": "Baroness Cox",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1983-01-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3385,
+    "name": "Lord Craig of Radley",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-07-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3386,
+    "name": "Baroness Crawley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3783,
+    "name": "Lord Crisp",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-04-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2594,
+    "name": "Lord Cromwell",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4907,
+    "name": "Lord Cruddas",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 181,
+    "name": "Lord Cryer",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3982,
+    "name": "Baroness Curran",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2727,
+    "name": "Lord Currie of Marylebone",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5419,
+    "name": "Baroness Dacres of Lewisham",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4220,
+    "name": "Lord Dannatt",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4734,
+    "name": "Lord Darroch of Kew",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-11-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3779,
+    "name": "Lord Darzi of Denham",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3781,
+    "name": "Lord Davidson of Glen Clova",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-03-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4927,
+    "name": "Baroness Davidson of Lundin Links",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-07-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3879,
+    "name": "Lord Davies of Abersoch",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2009-02-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4893,
+    "name": "Lord Davies of Brixton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5431,
+    "name": "Baroness Davies of Devonport",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4499,
+    "name": "Lord Davies of Gower",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2202,
+    "name": "Lord De Mauley",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3808,
+    "name": "Lord Dear",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4433,
+    "name": "Baroness Debbonaire",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4154,
+    "name": "Lord Deben",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3756,
+    "name": "Baroness Deech",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-10-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4262,
+    "name": "Lord Deighton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2012-11-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4714,
+    "name": "The Lord Bishop of Derby",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2019-03-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2685,
+    "name": "Lord Dholakia",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5442,
+    "name": "Lord Dixon of Jericho",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4192,
+    "name": "Lord Dobbs",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5424,
+    "name": "Lord Docherty of Milngavie",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1388,
+    "name": "Lord Dodds of Duncairn",
+    "party": "Democratic Unionist Party",
+    "party_id": 7,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4166,
+    "name": "Baroness Donaghy",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2709,
+    "name": "Lord Donoughue",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1985-05-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4197,
+    "name": "Baroness Doocey",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5006,
+    "name": "Lord Douglas-Miller",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-12-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5420,
+    "name": "Lord Doyle",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4155,
+    "name": "Baroness Drake",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3669,
+    "name": "Lord Drayson",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3709,
+    "name": "Baroness D'Souza",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-07-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 805,
+    "name": "Lord Dubs",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1994-09-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4686,
+    "name": "Lord Duncan of Springbank",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-07-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5453,
+    "name": "Bishop of Durham",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2026-07-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5421,
+    "name": "Lord Duvall",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2793,
+    "name": "Lord Eames",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1995-08-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4184,
+    "name": "Baroness Eaton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2802,
+    "name": "Lord Eatwell",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1992-07-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4958,
+    "name": "The Earl of Effingham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4367,
+    "name": "Lord Elliott of Ballinamallard",
+    "party": "Ulster Unionist Party",
+    "party_id": 38,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5008,
+    "name": "Lord Elliott of Mickle Fell",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-02-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4127,
+    "name": "Baroness Elliott of Whitburn Bay",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5454,
+    "name": "Bishop of Ely",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2026-07-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4216,
+    "name": "Lord Empey",
+    "party": "Ulster Unionist Party",
+    "party_id": 38,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4329,
+    "name": "Baroness Evans of Bowes Park",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5399,
+    "name": "Lord Evans of Guisborough",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4081,
+    "name": "Lord Evans of Rainow",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5376,
+    "name": "Lord Evans of Sealand",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2766,
+    "name": "Lord Evans of Watford",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4348,
+    "name": "Lord Evans of Weardale",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-12-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4690,
+    "name": "Baroness Fairhead",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-10-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2758,
+    "name": "Lord Falconer of Thoroton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-05-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3670,
+    "name": "Baroness Falkner of Margravine",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4561,
+    "name": "Baroness Fall",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4321,
+    "name": "Lord Farmer",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2472,
+    "name": "Lord Faulkner of Worcester",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4183,
+    "name": "Lord Faulks",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1531,
+    "name": "Baroness Featherstone",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4193,
+    "name": "Lord Feldman of Elstree",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2491,
+    "name": "Lord Filkin",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4219,
+    "name": "Lord Fink",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4283,
+    "name": "Lord Finkelstein",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3609,
+    "name": "Baroness Finlay of Llandaff",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4567,
+    "name": "Baroness Finn",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4889,
+    "name": "Baroness Fleet",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 830,
+    "name": "Baroness Fookes",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5423,
+    "name": "Lord Forbes of Newcastle",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1141,
+    "name": "Lord Forsyth of Drumlean",
+    "party": "Lord Speaker",
+    "party_id": 283,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4969,
+    "name": "Baroness Foster of Aghadrumsee",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 214,
+    "name": "Lord Foster of Bath",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4911,
+    "name": "Baroness Foster of Oxton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 579,
+    "name": "Lord Foulkes of Cumnock",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 315,
+    "name": "Lord Fowler",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4322,
+    "name": "Lord Fox",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4887,
+    "name": "Baroness Fox of Buckley",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 134,
+    "name": "Lord Framlingham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4906,
+    "name": "Baroness Fraser of Craigmaddie",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5026,
+    "name": "Baroness Freeman of Steventon",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-06-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3893,
+    "name": "Lord Freud",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2009-06-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4879,
+    "name": "Lord Frost",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-08-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4121,
+    "name": "Baroness Fullbrook",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5017,
+    "name": "Lord Fuller",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4575,
+    "name": "Lord Gadhia",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-08-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2503,
+    "name": "Baroness Gale",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-08-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3842,
+    "name": "Baroness Garden of Frognal",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4161,
+    "name": "Lord Gardiner of Kimble",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 337,
+    "name": "Lord Garnier",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4986,
+    "name": "Lord Gascoigne",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4692,
+    "name": "Lord Geidt",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-11-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5415,
+    "name": "Baroness Gerada",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-11-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4163,
+    "name": "Lord German",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3688,
+    "name": "Lord Giddens",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4543,
+    "name": "Lord Gilbert of Panteg",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5429,
+    "name": "Baroness Gill",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4240,
+    "name": "Lord Glasman",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-02-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4540,
+    "name": "The Lord Bishop of Gloucester",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2015-09-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4334,
+    "name": "Lord Goddard of Stockport",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4903,
+    "name": "Lord Godson",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4944,
+    "name": "Baroness Gohir",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-06-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4237,
+    "name": "Lord Gold",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-02-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4306,
+    "name": "Baroness Goldie",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-10-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 281,
+    "name": "Baroness Golding",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2490,
+    "name": "Lord Goldsmith",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4062,
+    "name": "Lord Goldsmith of Richmond Park",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-01-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1471,
+    "name": "Lord Goodman of Wycombe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3602,
+    "name": "Viscount Goschen",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3575,
+    "name": "Baroness Goudie",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1571,
+    "name": "Lord Gove",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2496,
+    "name": "Lord Grabiner",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4228,
+    "name": "Lord Grade of Yarmouth",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5448,
+    "name": "Baroness Grainger",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-04-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3577,
+    "name": "Lord Grantchester",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5396,
+    "name": "Baroness Gray of Tottenham",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1413,
+    "name": "Lord Grayling",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4346,
+    "name": "Lord Green of Deddington",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-11-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4191,
+    "name": "Lord Green of Hurstpierpoint",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-11-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2166,
+    "name": "Baroness Greenfield",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4877,
+    "name": "Lord Greenhalgh",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-04-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4291,
+    "name": "Baroness Grender",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3862,
+    "name": "Baroness Grey-Thompson",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-03-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5375,
+    "name": "Baroness Griffin of Princethorpe",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3707,
+    "name": "Lord Griffiths of Burry Port",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3595,
+    "name": "Lord Griffiths of Fforestfach",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-02-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4876,
+    "name": "Lord Grimstone of Boscobel",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-04-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 276,
+    "name": "Lord Grocott",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5373,
+    "name": "Baroness Gustafsson",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-11-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 379,
+    "name": "Lord Hague of Richmond",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 349,
+    "name": "Viscount Hailsham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 567,
+    "name": "Lord Hain",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3652,
+    "name": "Baroness Hale of Richmond",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life Peer (judicial)",
+    "membership_start_date": "2004-01-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3765,
+    "name": "Lord Hall of Birkenhead",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-03-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4721,
+    "name": "Baroness Hallett",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3767,
+    "name": "Lord Hameed",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-03-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 100,
+    "name": "Lord Hamilton of Epsom",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 105,
+    "name": "Lord Hammond of Runnymede",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4951,
+    "name": "Lord Hampton",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2652,
+    "name": "Baroness Hamwee",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-06-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4905,
+    "name": "Lord Hannan of Kingsclere",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2167,
+    "name": "Lord Hannay of Chiswick",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5021,
+    "name": "Lord Hannett of Everton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 533,
+    "name": "Lord Hanson of Flint",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-07-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2647,
+    "name": "Lord Hardie",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-05-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4324,
+    "name": "Baroness Harding of Winscombe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4928,
+    "name": "Lord Harlech",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 150,
+    "name": "Baroness Harman",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1520,
+    "name": "Lord Harper",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4068,
+    "name": "Lord Harrington of Watford",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-03-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2671,
+    "name": "Lord Harris of Haringey",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-08-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2669,
+    "name": "Lord Harris of Peckham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-01-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2505,
+    "name": "Baroness Harris of Richmond",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-08-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3944,
+    "name": "Lord Hart of Tenby",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3759,
+    "name": "Lord Hastings of Scarisbrick",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-10-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4296,
+    "name": "Lord Haughey",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4352,
+    "name": "Lord Hay of Ballyore",
+    "party": "Democratic Unionist Party",
+    "party_id": 7,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-12-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1649,
+    "name": "Baroness Hayman",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-01-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4395,
+    "name": "Baroness Hayman of Ullock",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4159,
+    "name": "Baroness Hayter of Kentish Town",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 863,
+    "name": "Lord Hayward",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-09-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5024,
+    "name": "Baroness Hazarika",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4179,
+    "name": "Baroness Healy of Primrose Hill",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4331,
+    "name": "Baroness Helic",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4723,
+    "name": "Lord Hendy",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4972,
+    "name": "Lord Hendy of Richmond Hill",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1479,
+    "name": "Lord Herbert of South Downs",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5003,
+    "name": "The Lord Bishop of Hereford",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2023-11-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5365,
+    "name": "Lord Hermer",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-07-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 94,
+    "name": "Lord Heseltine",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4144,
+    "name": "Lord Hill of Oareford",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-05-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4964,
+    "name": "Lord Hintze",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5445,
+    "name": "Lord Hobby",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 140,
+    "name": "Baroness Hodge of Barking",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4301,
+    "name": "Baroness Hodgson of Abinger",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 210,
+    "name": "Baroness Hoey",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2633,
+    "name": "Lord Hoffmann",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life Peer (judicial)",
+    "membership_start_date": "1995-02-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4693,
+    "name": "Lord Hogan-Howe",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-11-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2632,
+    "name": "Baroness Hogg",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1995-02-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2732,
+    "name": "Lord Hollick",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-06-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4190,
+    "name": "Baroness Hollins",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-11-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4294,
+    "name": "Lord Holmes of Richmond",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2005,
+    "name": "Baroness Hooper",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1985-06-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2004,
+    "name": "Lord Hope of Craighead",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1995-02-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 196,
+    "name": "Lord Horam",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4991,
+    "name": "Lord Houchen of High Leven",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4694,
+    "name": "Lord Houghton of Richmond",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-11-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 82,
+    "name": "Lord Howard of Lympne",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3674,
+    "name": "Lord Howard of Rising",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2000,
+    "name": "Earl Howe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 993,
+    "name": "Lord Howell of Guildford",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-06-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 459,
+    "name": "Baroness Hughes of Stretford",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4300,
+    "name": "Baroness Humphreys",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4725,
+    "name": "Baroness Hunt of Bethnal Green",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2024,
+    "name": "Lord Hunt of Kings Heath",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 994,
+    "name": "Lord Hunt of Wirral",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5398,
+    "name": "Baroness Hunter of Auchenreoch",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4221,
+    "name": "Lord Hussain",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4164,
+    "name": "Baroness Hussein-Ece",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 494,
+    "name": "Lord Hutton of Furness",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5425,
+    "name": "Baroness Hyde of Bemerton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5434,
+    "name": "Lord Isaac",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4619,
+    "name": "Lord Jack of Courance",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1551,
+    "name": "Lord Jackson of Peterborough",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3799,
+    "name": "Lord James of Blackheath",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5019,
+    "name": "Lord Jamieson",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4337,
+    "name": "Baroness Janke",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3838,
+    "name": "Lord Janvrin",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-10-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3818,
+    "name": "Lord Jay of Ewelme",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1970,
+    "name": "Baroness Jay of Paddington",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1992-07-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4229,
+    "name": "Baroness Jenkin of Kennington",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5418,
+    "name": "Lord John of Southwark",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4949,
+    "name": "Lord Johnson of Lainston",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-10-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4039,
+    "name": "Lord Johnson of Marylebone",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-10-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 530,
+    "name": "Lord Jones",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4297,
+    "name": "Baroness Jones of Moulsecoomb",
+    "party": "Green Party",
+    "party_id": 44,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5383,
+    "name": "Lord Jones of Penybont",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3792,
+    "name": "Baroness Jones of Whitchurch",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2552,
+    "name": "Lord Jordan",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-06-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3766,
+    "name": "Lord Kakkar",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-03-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4909,
+    "name": "Lord Kamall",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5386,
+    "name": "Lord Katz",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1588,
+    "name": "Baroness Keeley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4538,
+    "name": "Lord Keen of Elie",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-06-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4988,
+    "name": "Lord Kempsell",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4303,
+    "name": "Baroness Kennedy of Cradley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4153,
+    "name": "Lord Kennedy of Southwark",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1987,
+    "name": "Baroness Kennedy of The Shaws",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3708,
+    "name": "Lord Kerr of Kinlochard",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4225,
+    "name": "Lord Kestenbaum",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4913,
+    "name": "Lord Khan of Burnley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-02-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4258,
+    "name": "Baroness Kidron",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2012-06-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 657,
+    "name": "Lord Kilclooney",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 254,
+    "name": "Lord King of Bridgwater",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4280,
+    "name": "Lord King of Lothbury",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-07-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3788,
+    "name": "Baroness Kingsmill",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 693,
+    "name": "Lord Kinnock",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4354,
+    "name": "The Earl of Kinnoull",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-02-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2495,
+    "name": "Lord Kirkham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 891,
+    "name": "Lord Kirkhope of Harrogate",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4160,
+    "name": "Lord Knight of Weymouth",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1557,
+    "name": "Baroness Kramer",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3736,
+    "name": "Lord Krebs",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-03-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 36,
+    "name": "Baroness Laing of Elderslie",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 895,
+    "name": "Lord Lamont of Lerwick",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4973,
+    "name": "Baroness Lampard",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1544,
+    "name": "Lord Lancaster of Kimbolton",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4275,
+    "name": "Baroness Lane-Fox of Soho",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-03-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 123,
+    "name": "Lord Lansley",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4965,
+    "name": "Baroness Lawlor",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4290,
+    "name": "Baroness Lawrence of Clarendon",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2540,
+    "name": "Lord Layard",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5444,
+    "name": "Baroness Leaman",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4900,
+    "name": "Lord Lebedev",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-11-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1132,
+    "name": "Lord Lee of Trafford",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-05-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4947,
+    "name": "The Lord Bishop of Leicester",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2022-10-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4295,
+    "name": "Lord Leigh of Hurley",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5382,
+    "name": "Lord Lemos",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4338,
+    "name": "Lord Lennie",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4959,
+    "name": "Lord Leong",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-10-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5381,
+    "name": "Baroness Levitt",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2033,
+    "name": "Lord Levy",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-09-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4202,
+    "name": "Lord Lexden",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4954,
+    "name": "The Lord Bishop of Lichfield",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2022-10-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 573,
+    "name": "Baroness Liddell of Coatdyke",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4156,
+    "name": "Lord Liddle",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 68,
+    "name": "Lord Lilley",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5446,
+    "name": "Baroness Limb",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-02-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4319,
+    "name": "The Lord Bishop of Lincoln",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2023-11-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5428,
+    "name": "Baroness Linforth",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4194,
+    "name": "Lord Lingfield",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4234,
+    "name": "Baroness Lister of Burtersett",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4351,
+    "name": "Lord Lisvane",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-12-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4559,
+    "name": "Lord Livermore",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4278,
+    "name": "Lord Livingston of Parkhead",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4590,
+    "name": "Lord Llewellyn of Steep",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-10-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5414,
+    "name": "Baroness Lloyd of Effra",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-10-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2047,
+    "name": "Lord Londesborough",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5392,
+    "name": "Baroness Longfield",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4209,
+    "name": "Lord Loomba",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1867,
+    "name": "Baroness Ludford",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4550,
+    "name": "Lord Lupton",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4172,
+    "name": "Lord Macdonald of River Glaven",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1881,
+    "name": "Lord Mackenzie of Framwellgate",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4529,
+    "name": "Lord Mackinlay of Richborough",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4668,
+    "name": "Baroness Maclean of Redditch",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5432,
+    "name": "Baroness MacLeod of Camusdarach",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4586,
+    "name": "Lord Macpherson of Earl's Court",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-10-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4227,
+    "name": "Lord Magan of Castletown",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 648,
+    "name": "Lord Maginnis of Drumglass",
+    "party": "Independent Ulster Unionist",
+    "party_id": 52,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-07-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4563,
+    "name": "Lord Mair",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1846,
+    "name": "Baroness Mallalieu",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3774,
+    "name": "Lord Malloch-Brown",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-07-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3754,
+    "name": "Lord Mance",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life Peer (judicial)",
+    "membership_start_date": "2005-10-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4878,
+    "name": "The Lord Bishop of Manchester",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2020-07-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1387,
+    "name": "Lord Mann",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3857,
+    "name": "Baroness Manningham-Buller",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2008-06-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4289,
+    "name": "Baroness Manzoor",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4948,
+    "name": "Lord Markham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5018,
+    "name": "Lord Marks of Hale",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4206,
+    "name": "Lord Marks of Henley-on-Thames",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3797,
+    "name": "Lord Marland",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5437,
+    "name": "Baroness Martin of Brockley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5405,
+    "name": "Lord Massey of Hampstead",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5395,
+    "name": "Baroness Mattinson",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 115,
+    "name": "Lord Maude of Horsham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-05-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3830,
+    "name": "Lord Mawson",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-03-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 8,
+    "name": "Baroness May of Maidenhead",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 298,
+    "name": "Lord McCabe",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1892,
+    "name": "Lord McColl of Dulwich",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1989-07-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4168,
+    "name": "Lord McConnell of Glenscorrodale",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 655,
+    "name": "Lord McCrea of Magherafelt and Cookstown",
+    "party": "Democratic Unionist Party",
+    "party_id": 7,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4908,
+    "name": "Lord McDonald of Salford",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4148,
+    "name": "Lord McFall of Alcluith",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4554,
+    "name": "Baroness McGregor-Smith",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4576,
+    "name": "Lord McInnes of Kilwinning",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-09-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2506,
+    "name": "Baroness McIntosh of Hudnall",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-08-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 384,
+    "name": "Baroness McIntosh of Pickering",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 333,
+    "name": "Lord McLoughlin",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 919,
+    "name": "Lord McNally",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1995-12-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4702,
+    "name": "Lord McNicol of West Kilbride",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4286,
+    "name": "Lord Mendelsohn",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4890,
+    "name": "Lord Mendoza",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 347,
+    "name": "Baroness Merron",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4699,
+    "name": "Baroness Meyer",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1934,
+    "name": "Baroness Miller of Chilthorne Domer",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4952,
+    "name": "The Earl of Minto",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2570,
+    "name": "Lord Mitchell",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4335,
+    "name": "Baroness Mobarik",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5401,
+    "name": "Lord Mohammed of Tinsley",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5020,
+    "name": "Baroness Monckton of Dallington Forest",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4544,
+    "name": "Baroness Mone",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4186,
+    "name": "Lord Monks",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4891,
+    "name": "Lord Moore of Etchingham",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5374,
+    "name": "Lord Moraes",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2555,
+    "name": "Lord Morgan",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4027,
+    "name": "Baroness Morgan of Cotes",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-01-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3685,
+    "name": "Baroness Morgan of Drefelin",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4226,
+    "name": "Baroness Morgan of Ely",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2168,
+    "name": "Baroness Morgan of Huyton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3681,
+    "name": "Baroness Morris of Bolton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 305,
+    "name": "Baroness Morris of Yardley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4881,
+    "name": "Baroness Morrissey",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3795,
+    "name": "Lord Morrow",
+    "party": "Democratic Unionist Party",
+    "party_id": 7,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4914,
+    "name": "Lord Morse",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-03-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4984,
+    "name": "Lord Mott",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4883,
+    "name": "Lord Moylan",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 924,
+    "name": "Lord Moynihan",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5007,
+    "name": "Lord Moynihan of Chelsea",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-02-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4968,
+    "name": "Baroness Moyo",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3692,
+    "name": "Baroness Murphy",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 546,
+    "name": "Lord Murphy of Torfaen",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4950,
+    "name": "Lord Murray of Blidworth",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-10-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5443,
+    "name": "Lord Nagaraju",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5439,
+    "name": "Baroness Nargund",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1251,
+    "name": "Lord Naseby",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4270,
+    "name": "Lord Nash",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-01-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5416,
+    "name": "Baroness Neate",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-11-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3690,
+    "name": "Baroness Neuberger",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3827,
+    "name": "Lord Neuberger of Abbotsbury",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life Peer (judicial)",
+    "membership_start_date": "2007-01-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3840,
+    "name": "Baroness Neville-Jones",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4284,
+    "name": "Baroness Neville-Rolfe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1916,
+    "name": "Lord Newby",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-09-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4996,
+    "name": "The Lord Bishop of Newcastle",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2023-09-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5393,
+    "name": "Baroness Nichols of Selby",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1164,
+    "name": "Baroness Nicholson of Winterbourne",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-11-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2554,
+    "name": "Baroness Noakes",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-06-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2539,
+    "name": "Baroness Northover",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3187,
+    "name": "Lord Norton of Louth",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-08-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4999,
+    "name": "The Lord Bishop of Norwich",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2023-10-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4180,
+    "name": "Baroness Nye",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4549,
+    "name": "Lord Oates",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4255,
+    "name": "Lord O'Donnell",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2012-01-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4977,
+    "name": "Baroness O'Grady of Upper Holloway",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-12-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3902,
+    "name": "Baroness O'Loan",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2009-09-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2441,
+    "name": "Baroness O'Neill of Bengarve",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-02-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4967,
+    "name": "Baroness O'Neill of Bexley",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4536,
+    "name": "Lord O'Neill of Gatley",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-05-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4711,
+    "name": "Baroness Osamor",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-11-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4545,
+    "name": "Lord O'Shaughnessy",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4990,
+    "name": "Baroness Owen of Alderley Edge",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4279,
+    "name": "The Lord Bishop of Oxford",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2016-07-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5389,
+    "name": "Lord Pack",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4288,
+    "name": "Lord Paddick",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4214,
+    "name": "Lord Palmer of Childs Hill",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3870,
+    "name": "Lord Pannick",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2008-11-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2545,
+    "name": "Lord Parekh",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4910,
+    "name": "Lord Parker of Minsmere",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-01-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4728,
+    "name": "Lord Parkinson of Whitley Bay",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4178,
+    "name": "Baroness Parminter",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2443,
+    "name": "Lord Patel",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-03-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3798,
+    "name": "Lord Patel of Bradford",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1137,
+    "name": "Lord Patten",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1136,
+    "name": "Lord Patten of Barnes",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-01-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5426,
+    "name": "Baroness Paul of Shepherd's Bush",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4975,
+    "name": "Lord Peach",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3153,
+    "name": "Lord Pearson of Rannoch",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "1990-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4726,
+    "name": "Baroness Penn",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5371,
+    "name": "The Lord Bishop of Peterborough",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2024-10-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5015,
+    "name": "Lord Petitgas",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2439,
+    "name": "Lord Phillips of Worth Matravers",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life Peer (judicial)",
+    "membership_start_date": "1999-01-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 33,
+    "name": "Lord Pickles",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4552,
+    "name": "Baroness Pidding",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5366,
+    "name": "Baroness Pidgeon",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4341,
+    "name": "Baroness Pinnock",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3179,
+    "name": "Baroness Pitkeathley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5384,
+    "name": "Lord Pitkeathley of Camden Town",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5430,
+    "name": "Lord Pitt-Watson",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4547,
+    "name": "Lord Polak",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3154,
+    "name": "Lord Ponsonby of Shulbrede",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-04-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4173,
+    "name": "Lord Popat",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5009,
+    "name": "Baroness Porter of Fulwood",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-02-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4555,
+    "name": "Lord Porter of Spalding",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5412,
+    "name": "The Lord Bishop of Portsmouth",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2025-09-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2527,
+    "name": "Lord Powell of Bayswater",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-02-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2476,
+    "name": "Baroness Prashar",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4401,
+    "name": "Baroness Prentis of Banbury",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4974,
+    "name": "Lord Prentis of Leeds",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4570,
+    "name": "Lord Price",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-02-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 217,
+    "name": "Baroness Primarolo",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 127,
+    "name": "Lord Prior of Brampton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-05-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3684,
+    "name": "Baroness Prosser",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4293,
+    "name": "Lord Purvis of Tweed",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5400,
+    "name": "Baroness Rafferty",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5022,
+    "name": "Baroness Ramsey of Wall Heath",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 209,
+    "name": "Lord Randall of Uxbridge",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4729,
+    "name": "Lord Ranger",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4989,
+    "name": "Lord Ranger of Northwood",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5388,
+    "name": "Lord Raval",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4715,
+    "name": "Lord Ravensdale",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3278,
+    "name": "Baroness Rawlings",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1994-10-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3275,
+    "name": "Lord Razzall",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4713,
+    "name": "Lord Reay",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4332,
+    "name": "Baroness Rebuck",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3271,
+    "name": "Lord Redesdale",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-04-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4551,
+    "name": "Baroness Redfern",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 14,
+    "name": "Lord Redwood",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4875,
+    "name": "Lord Reed of Allermuir",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-01-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5397,
+    "name": "Lord Rees of Easton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-02-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3751,
+    "name": "Lord Rees of Ludlow",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-09-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 617,
+    "name": "Lord Reid of Cardowan",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2484,
+    "name": "Lord Rennard",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4317,
+    "name": "Lord Richards of Herstmonceux",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-02-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4587,
+    "name": "Lord Ricketts",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-10-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 139,
+    "name": "Lord Risby",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4130,
+    "name": "Baroness Ritchie of Downpatrick",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 334,
+    "name": "Lord Robathan",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4961,
+    "name": "Lord Roberts of Belgravia",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3691,
+    "name": "Lord Roberts of Llandudno",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 672,
+    "name": "Lord Robertson of Port Ellen",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-08-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4953,
+    "name": "Lord Roborough",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4556,
+    "name": "Baroness Rock",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5427,
+    "name": "Lord Roe of West Wickham",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2478,
+    "name": "Lord Rogan",
+    "party": "Ulster Unionist Party",
+    "party_id": 38,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5378,
+    "name": "Lord Rook",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 302,
+    "name": "Lord Rooker",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2001-06-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4326,
+    "name": "Lord Rose of Monewden",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4992,
+    "name": "Lord Rosenfield",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-07-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 554,
+    "name": "Lord Rowlands",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3703,
+    "name": "Baroness Royall of Blaisdon",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4983,
+    "name": "Earl Russell",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-06-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2134,
+    "name": "Lord Russell of Liverpool",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2154,
+    "name": "Lord Saatchi",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4963,
+    "name": "Lord Sahota",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5451,
+    "name": "Bishop of Salisbury",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2026-07-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4727,
+    "name": "Baroness Sanderson of Welton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4882,
+    "name": "Lord Sarfraz",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4146,
+    "name": "Lord Sassoon",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-05-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4700,
+    "name": "Baroness Sater",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2099,
+    "name": "Baroness Scotland of Asthal",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-10-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4553,
+    "name": "Baroness Scott of Bybrook",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2542,
+    "name": "Baroness Scott of Needham Market",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4333,
+    "name": "Lord Scriven",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2097,
+    "name": "Baroness Seccombe",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-02-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4886,
+    "name": "Lord Sedwill",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3762,
+    "name": "Lord Sentamu",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-04-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4978,
+    "name": "Lord Sewell of Sanderstead",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-12-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4198,
+    "name": "Baroness Shackleton of Belgravia",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4894,
+    "name": "Baroness Shafik",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5422,
+    "name": "Baroness Shah",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5013,
+    "name": "Lord Shamash",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4196,
+    "name": "Lord Sharkey",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4014,
+    "name": "Lord Sharma",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4888,
+    "name": "Lord Sharpe of Epsom",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5406,
+    "name": "Baroness Shawcross-Wolfson",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4548,
+    "name": "Baroness Sheehan",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4980,
+    "name": "The Lord Bishop of Sheffield",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2023-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 132,
+    "name": "Baroness Shephard of Northwold",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4287,
+    "name": "Lord Sherbourne of Didsbury",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4147,
+    "name": "Baroness Sherlock",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4325,
+    "name": "Baroness Shields",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4557,
+    "name": "Lord Shinkwin",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4176,
+    "name": "Lord Shipley",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4885,
+    "name": "Lord Sikka",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4251,
+    "name": "Lord Singh of Wimbledon",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-10-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4170,
+    "name": "Baroness Smith of Basildon",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5370,
+    "name": "Baroness Smith of Cluny",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-10-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 186,
+    "name": "Lord Smith of Finsbury",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4542,
+    "name": "Lord Smith of Hindhead",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-09-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3856,
+    "name": "Lord Smith of Kelvin",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2008-05-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5023,
+    "name": "Baroness Smith of Llanfaes",
+    "party": "Plaid Cymru",
+    "party_id": 22,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-03-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 269,
+    "name": "Baroness Smith of Malvern",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4323,
+    "name": "Baroness Smith of Newnham",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-09-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 319,
+    "name": "Lord Snape",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 116,
+    "name": "Lord Soames of Fletching",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-10-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4345,
+    "name": "The Lord Bishop of Southwark",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2014-11-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4940,
+    "name": "The Lord Bishop of Southwell and Nottingham",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2022-04-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 318,
+    "name": "Lord Spellar",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4892,
+    "name": "Lord Spencer of Alresford",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5404,
+    "name": "Baroness Spielman",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-05-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5417,
+    "name": "The Lord Bishop of St Edmundsbury and Ipswich",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2025-12-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4925,
+    "name": "Viscount Stansgate",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4174,
+    "name": "Baroness Stedman-Scott",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4239,
+    "name": "Lord Stephen",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-02-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2228,
+    "name": "Lord Sterling of Plaistow",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1991-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3846,
+    "name": "Lord Stern of Brentford",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-12-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4924,
+    "name": "Lord Stevens of Birmingham",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2021-07-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3733,
+    "name": "Lord Stevens of Kirkwhelpington",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-04-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2227,
+    "name": "Lord Stevens of Ludgate",
+    "party": "Conservative Independent",
+    "party_id": 5,
+    "constituency": "Life peer",
+    "membership_start_date": "1987-03-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4175,
+    "name": "Lord Stevenson of Balmacara",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4899,
+    "name": "Lord Stewart of Dirleton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-11-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4233,
+    "name": "Lord Stirrup",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5413,
+    "name": "Lord Stockwood",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-10-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4215,
+    "name": "Lord Stoneham of Droxford",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4238,
+    "name": "Lord Storey",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-02-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4205,
+    "name": "Baroness Stowell of Beeston",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4204,
+    "name": "Lord Strasburger",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2221,
+    "name": "Lord Strathclyde",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4546,
+    "name": "Baroness Stroud",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 296,
+    "name": "Baroness Stuart of Edgbaston",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3897,
+    "name": "Lord Sugar",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2009-07-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4584,
+    "name": "Baroness Sugg",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-08-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4298,
+    "name": "Baroness Suttie",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4985,
+    "name": "Baroness Swinburne",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-06-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1408,
+    "name": "Lord Swire",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2233,
+    "name": "Baroness Symons of Vernham Dean",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5027,
+    "name": "Lord Tarassenko",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-06-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 407,
+    "name": "Baroness Taylor of Bolton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-06-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 228,
+    "name": "Lord Taylor of Goss Moor",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3787,
+    "name": "Lord Taylor of Holbeach",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-05-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4956,
+    "name": "Baroness Taylor of Stevenage",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-10-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1796,
+    "name": "Lord Taylor of Warwick",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1170,
+    "name": "Baroness Teather",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-27T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3789,
+    "name": "Lord Teverson",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4309,
+    "name": "Lord Thomas of Cwmgiedd",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-10-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1804,
+    "name": "Lord Thomas of Gresford",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-09-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3785,
+    "name": "Baroness Thomas of Winchester",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-05-26T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4558,
+    "name": "Baroness Thornhill",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1782,
+    "name": "Baroness Thornton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5364,
+    "name": "Lord Timpson",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-07-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1703,
+    "name": "Lord Tope",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1994-10-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 542,
+    "name": "Lord Touhig",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4260,
+    "name": "Lord Trees",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2012-07-03T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4200,
+    "name": "Lord True",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3682,
+    "name": "Lord Truscott",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1705,
+    "name": "Lord Tugendhat",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1993-10-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3671,
+    "name": "Lord Tunnicliffe",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3758,
+    "name": "Lord Turnbull",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-10-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3752,
+    "name": "Lord Turner of Ecchinswell",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-09-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4966,
+    "name": "Baroness Twycross",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-07T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4231,
+    "name": "Baroness Tyler of Enfield",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 112,
+    "name": "Lord Tyrie",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2018-06-12T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1827,
+    "name": "Baroness Uddin",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "1998-07-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4898,
+    "name": "Lord Udny-Lister",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-11-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3777,
+    "name": "Baroness Vadera",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-07-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1580,
+    "name": "Lord Vaizey of Didcot",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3757,
+    "name": "Baroness Valentine",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2005-10-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5363,
+    "name": "Lord Vallance of Balham",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4687,
+    "name": "Lord Vaux of Harrowden",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4962,
+    "name": "Lord Verdirame",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4580,
+    "name": "Baroness Vere of Norbiton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2016-08-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4299,
+    "name": "Lord Verjee",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3790,
+    "name": "Baroness Verma",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-06-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1278,
+    "name": "Lord Wakeham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1992-04-24T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 957,
+    "name": "Lord Waldegrave of North Hill",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3825,
+    "name": "Lord Walker of Aldringham",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2006-12-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5436,
+    "name": "Lord Walker of Broxton",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-01-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1816,
+    "name": "Lord Wallace of Saltaire",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "1995-12-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2547,
+    "name": "Baroness Walmsley",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2000-05-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3917,
+    "name": "Lord Walney",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3839,
+    "name": "Baroness Warsi",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-10-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2471,
+    "name": "Baroness Warwick of Undercliffe",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-07-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4207,
+    "name": "Lord Wasserman",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-11T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4566,
+    "name": "Baroness Watkins of Tavistock",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-11-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1241,
+    "name": "Lord Watson of Invergowrie",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-11-06T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1463,
+    "name": "Lord Watson of Wyre Forest",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 489,
+    "name": "Lord Watts",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-23T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4145,
+    "name": "Lord Wei",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-05-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4970,
+    "name": "Lord Weir of Ballyholme",
+    "party": "Democratic Unionist Party",
+    "party_id": 7,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-11-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4541,
+    "name": "The Duke of Wellington",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2026-06-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3834,
+    "name": "Lord West of Spithead",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2007-07-09T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4123,
+    "name": "Lord Wharton of Yarm",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-09-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4199,
+    "name": "Baroness Wheatcroft",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-12-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4157,
+    "name": "Baroness Wheeler",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2510,
+    "name": "Baroness Whitaker",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1999-08-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4292,
+    "name": "Lord Whitby",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5409,
+    "name": "Baroness White of Tufnell Park",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-07-17T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 62,
+    "name": "Lord Whitehead",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-11-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2444,
+    "name": "Lord Whitty",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1996-10-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 547,
+    "name": "Lord Wigley",
+    "party": "Plaid Cymru",
+    "party_id": 22,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-19T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4730,
+    "name": "Baroness Wilcox of Newport",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 53,
+    "name": "Lord Willetts",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-10-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4311,
+    "name": "Baroness Williams of Trafford",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-20T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4151,
+    "name": "Lord Willis of Knaresborough",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4945,
+    "name": "Baroness Willis of Summertown",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2022-07-08T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 260,
+    "name": "Lord Wills",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-07-10T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 2206,
+    "name": "Lord Wilson of Dinton",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2002-11-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1603,
+    "name": "Lord Wilson of Sedgefield",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-16T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5004,
+    "name": "The Lord Bishop of Winchester",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2023-11-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1770,
+    "name": "Lord Winston",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "1995-12-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 390,
+    "name": "Baroness Winterton of Doncaster",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2024-08-13T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4347,
+    "name": "Baroness Wolf of Dulwich",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2014-12-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4152,
+    "name": "Lord Wolfson of Aspley Guise",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2010-06-18T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4901,
+    "name": "Lord Wolfson of Tredegar",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-12-30T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4217,
+    "name": "Lord Wood of Anfield",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-15T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4897,
+    "name": "Lord Woodley",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2020-11-02T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1773,
+    "name": "Lord Woolf",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life Peer (judicial)",
+    "membership_start_date": "1992-10-01T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4722,
+    "name": "Lord Woolley of Woodford",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2019-10-14T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4235,
+    "name": "Baroness Worthington",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2011-01-31T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 965,
+    "name": "Lord Wrigglesworth",
+    "party": "Liberal Democrat",
+    "party_id": 17,
+    "constituency": "Life peer",
+    "membership_start_date": "2013-09-05T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4685,
+    "name": "Baroness Wyld",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2017-06-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4315,
+    "name": "The Lord Archbishop of York",
+    "party": "Bishops",
+    "party_id": 3,
+    "constituency": "Bishops",
+    "membership_start_date": "2020-07-28T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 5379,
+    "name": "Lord Young of Acton",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2025-01-21T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 57,
+    "name": "Lord Young of Cookham",
+    "party": "Conservative",
+    "party_id": 4,
+    "constituency": "Life peer",
+    "membership_start_date": "2015-09-29T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3696,
+    "name": "Baroness Young of Hornsey",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-22T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 3702,
+    "name": "Lord Young of Norwood Green",
+    "party": "Labour",
+    "party_id": 15,
+    "constituency": "Life peer",
+    "membership_start_date": "2004-06-25T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 1755,
+    "name": "Baroness Young of Old Scone",
+    "party": "Non-affiliated",
+    "party_id": 49,
+    "constituency": "Life peer",
+    "membership_start_date": "1997-11-04T00:00:00",
+    "membership_end_date": null
+  },
+  {
+    "id": 4982,
+    "name": "Lord Young of Old Windsor",
+    "party": "Crossbench",
+    "party_id": 6,
+    "constituency": "Life peer",
+    "membership_start_date": "2023-06-13T00:00:00",
+    "membership_end_date": null
+  }
+]

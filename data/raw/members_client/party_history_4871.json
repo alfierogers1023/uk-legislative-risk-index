@@ -1,0 +1,14 @@
+[
+  {
+    "party": "Labour",
+    "party_id": 15,
+    "start_date": "2022-01-19T00:00:00",
+    "end_date": null
+  },
+  {
+    "party": "Conservative",
+    "party_id": 4,
+    "start_date": "2019-12-12T00:00:00",
+    "end_date": "2022-01-19T00:00:00"
+  }
+]

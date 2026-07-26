@@ -74,7 +74,10 @@ def load_cache_metadata():
 @st.cache_data(ttl=3600, show_spinner="Fetching governing party + Commons division data...")
 def load_cohesion_table(months_of_history):
     party, majority_size = get_governing_party_and_majority()
-    table = build_monthly_cohesion_table(party, majority_size, months_of_history)
+    # majority_size here is TODAY's majority (for the "Working majority"
+    # metric tile) — the monthly table computes its own majority per month
+    # internally, since that can genuinely differ for older months.
+    table = build_monthly_cohesion_table(party, months_of_history)
     return party, majority_size, table
 
 
@@ -145,7 +148,7 @@ all under the Open Parliament Licence, no API key required.
 
 st.header("1. Government Cohesion")
 
-months_of_history = st.slider("Months of history", min_value=3, max_value=24, value=12)
+months_of_history = st.slider("Months of history", min_value=3, max_value=24, value=24)
 party, majority_size, cohesion_table = load_cohesion_table(months_of_history)
 
 latest = cohesion_table.iloc[-1]
@@ -167,9 +170,13 @@ fig.add_trace(go.Scatter(
     x=cohesion_table["month"], y=cohesion_table["cohesion_score"],
     name="Cohesion score (1 = fully cohesive)", mode="lines+markers",
     line=dict(color="royalblue", width=3), yaxis="y1",
+    customdata=cohesion_table["majority_size"],
+    hovertemplate="Cohesion: %{y:.3f}<br>Majority that month: %{customdata}<extra></extra>",
 ))
 fig.update_layout(
-    title=f"{party} cohesion over time — working majority {majority_size}",
+    title=f"{party} cohesion over time (today's working majority: {majority_size} — "
+          f"hover a point for that month's majority, which can differ due to "
+          f"by-elections/defections)",
     yaxis=dict(title="Cohesion score", range=[0, 1.05]),
     yaxis2=dict(title="Worst division rebel count", overlaying="y", side="right"),
     legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
@@ -183,6 +190,13 @@ st.info(
     f"{party} MPs rebelled on *{worst_row['worst_division_title']}* "
     f"({str(worst_row['worst_division_date'])[:10]}). The rolling rebellion "
     f"rate alone would have diluted this into the background."
+)
+st.caption(
+    "Caveat: a large split here can also mean a **free vote** (a conscience "
+    "issue with no official party position — e.g. assisted dying) rather "
+    "than actual whip-discipline instability. Whip status isn't published "
+    "data, so this can't be detected and excluded automatically — treat a "
+    "large number here as a prompt to check what the vote actually was."
 )
 
 st.divider()
@@ -238,6 +252,34 @@ if bill:
         "Contested-amendment rate vs. comparison group",
         f"{contest_ratio:.1f}x" if contest_ratio is not None else "n/a",
     )
+
+    stages_with_amendments = [
+        s for s in own["stage_breakdown"] if s["total_amendments"] > 0
+    ]
+    if stages_with_amendments:
+        stage_labels = [
+            f"{s['stage_description']} ({s['house']})" for s in stages_with_amendments
+        ]
+        contested = [s["contested_amendments"] for s in stages_with_amendments]
+        not_contested = [
+            s["total_amendments"] - s["contested_amendments"]
+            for s in stages_with_amendments
+        ]
+        timeline_fig = go.Figure()
+        timeline_fig.add_trace(go.Bar(
+            x=stage_labels, y=not_contested, name="Not contested (agreed on the nod, etc.)",
+            marker_color="lightsteelblue",
+        ))
+        timeline_fig.add_trace(go.Bar(
+            x=stage_labels, y=contested, name="Contested (division, withdrawn)",
+            marker_color="indianred",
+        ))
+        timeline_fig.update_layout(
+            title="Amendment activity across this bill's lifecycle (by stage, chronological)",
+            barmode="stack", height=350,
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        )
+        st.plotly_chart(timeline_fig, width="stretch")
 
     bill_risk_score = compute_bill_risk_score(
         bill_id=bill["bill_id"],

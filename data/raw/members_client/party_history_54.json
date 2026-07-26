@@ -1,0 +1,20 @@
+[
+  {
+    "party": "Conservative",
+    "party_id": 4,
+    "start_date": "2020-12-30T00:00:00",
+    "end_date": null
+  },
+  {
+    "party": "Independent",
+    "party_id": 8,
+    "start_date": "2020-07-15T00:00:00",
+    "end_date": "2020-12-30T00:00:00"
+  },
+  {
+    "party": "Conservative",
+    "party_id": 4,
+    "start_date": "1997-05-01T00:00:00",
+    "end_date": "2020-07-16T00:00:00"
+  }
+]

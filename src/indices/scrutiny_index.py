@@ -64,9 +64,16 @@ def compute_bill_friction(bill_id):
             bill_id,
             commons_committee_sitting_days, lords_committee_sitting_days,
             total_amendments, contested_amendments, contested_proportion,
+            stage_breakdown,
         }
         contested_proportion is 0.0 if no amendments have been tabled yet
         (e.g. bill hasn't reached committee).
+        stage_breakdown is a list, one entry per stage in chronological
+        order: {stage_description, house, first_sitting_date,
+        total_amendments, contested_amendments} — this is what lets a
+        caller show a friction timeline across a bill's lifecycle without
+        any extra API calls (it's built from the same stage/amendment data
+        already fetched for the aggregate numbers above).
     """
     stages = get_bill_stages(bill_id)
 
@@ -74,6 +81,7 @@ def compute_bill_friction(bill_id):
     lords_committee_days = 0
     total_amendments = 0
     contested_amendments = 0
+    stage_breakdown = []
 
     for stage in stages:
         if stage["description"] == "Committee stage":
@@ -83,10 +91,22 @@ def compute_bill_friction(bill_id):
                 lords_committee_days += len(stage["sitting_dates"])
 
         amendments = get_bill_amendments(bill_id, stage["bill_stage_id"])
-        total_amendments += len(amendments)
-        contested_amendments += sum(
+        stage_total = len(amendments)
+        stage_contested = sum(
             1 for a in amendments if a["decision"] in CONTESTED_DECISIONS
         )
+        total_amendments += stage_total
+        contested_amendments += stage_contested
+
+        stage_breakdown.append({
+            "stage_description": stage["description"],
+            "house": stage["house"],
+            "first_sitting_date": (
+                stage["sitting_dates"][0] if stage["sitting_dates"] else None
+            ),
+            "total_amendments": stage_total,
+            "contested_amendments": stage_contested,
+        })
 
     contested_proportion = (
         contested_amendments / total_amendments if total_amendments > 0 else 0.0
@@ -99,6 +119,7 @@ def compute_bill_friction(bill_id):
         "total_amendments": total_amendments,
         "contested_amendments": contested_amendments,
         "contested_proportion": contested_proportion,
+        "stage_breakdown": stage_breakdown,
     }
 
 

@@ -17,12 +17,11 @@ Run this locally (or let the scheduled GitHub Action in
     git add data/raw/ data/cache_metadata.json
     git commit -m "Refresh cached dashboard data"
 
-This intentionally does NOT bake the full 24-month slider range or every
-possible "browse all bills" selection — only the default 12-month cohesion
-window and the curated bill shortlist. Anything a visitor explores beyond
-that (a longer window, a non-curated bill) still hits the live API, same as
-it always has — that's an accepted, clearly-labelled slower path in the UI,
-not something this script needs to eliminate.
+This bakes the full 24-month slider range (matching the current Parliament's
+duration so far — Labour took office 2024-07-05) and the curated bill
+shortlist, so the WHOLE default UI is fast. It does NOT bake every possible
+"browse all bills" selection — a non-curated bill still hits the live API,
+same as it always has, an accepted, clearly-labelled slower path.
 """
 
 import datetime
@@ -41,9 +40,9 @@ from src.reporting import (
     get_governing_party_and_majority,
 )
 
-# Must match app.py's CURATED_BILLS and its default "Months of history" value.
+# Must match app.py's CURATED_BILLS and its slider's max "Months of history".
 CURATED_BILL_IDS = [3737, 4254, 4030]
-DEFAULT_MONTHS_OF_HISTORY = 12
+DEFAULT_MONTHS_OF_HISTORY = 24
 
 METADATA_PATH = os.path.join(PROJECT_ROOT, "data", "cache_metadata.json")
 
@@ -53,8 +52,9 @@ def main():
     party, majority_size = get_governing_party_and_majority()
     print(f"  {party}, working majority {majority_size}")
 
-    print(f"Warming {DEFAULT_MONTHS_OF_HISTORY} months of cohesion data...")
-    build_monthly_cohesion_table(party, majority_size, DEFAULT_MONTHS_OF_HISTORY)
+    print(f"Warming {DEFAULT_MONTHS_OF_HISTORY} months of cohesion data "
+          f"(majority computed per-month, not just today's snapshot)...")
+    build_monthly_cohesion_table(party, DEFAULT_MONTHS_OF_HISTORY)
 
     print("Warming current Government Bills list...")
     all_bills = {b["bill_id"]: b for b in get_bills(bill_type_id=GOVERNMENT_BILL)}

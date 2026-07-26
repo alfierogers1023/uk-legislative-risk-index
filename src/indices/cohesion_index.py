@@ -119,6 +119,16 @@ def compute_max_single_division_rebellion(party, start_date, end_date):
     composite_index.py should treat this as a distinct input, not a
     replacement for compute_rebellion_rate.
 
+    Known limitation, confirmed against real data: this can surface a FREE
+    VOTE (a conscience issue with no official party position, e.g. the
+    Terminally Ill Adults (End of Life) Bill, 20 June 2025 — 160 Labour MPs
+    on the "against the majority" side) as the "biggest rebellion" in a
+    window. That's not really a whip-discipline event — there's no whip
+    being defied — but whip status isn't published data (see the module
+    docstring), so there's no clean way to detect and exclude free votes
+    automatically. A caller presenting this number should be aware a large
+    split can mean "free vote", not "instability".
+
     Returns:
         dict {division_id, date, title, party_votes_cast, rebel_count,
         rebellion_rate}, or None if the party cast no qualifying votes in

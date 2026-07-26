@@ -1,0 +1,20 @@
+[
+  {
+    "party": "Reform UK",
+    "party_id": 1036,
+    "start_date": "2024-03-11T00:00:00",
+    "end_date": null
+  },
+  {
+    "party": "Independent",
+    "party_id": 8,
+    "start_date": "2024-02-24T00:00:00",
+    "end_date": "2024-03-11T00:00:00"
+  },
+  {
+    "party": "Conservative",
+    "party_id": 4,
+    "start_date": "2019-12-12T00:00:00",
+    "end_date": "2024-02-24T00:00:00"
+  }
+]
