@@ -51,7 +51,7 @@ def plot_monthly_table(df, party, majority_size):
                                   color="tab:blue", label="Cohesion score (1 = fully cohesive)")
     ax_top.set_ylim(0, 1.02)
     ax_top.set_ylabel("Cohesion score", color="tab:blue")
-    ax_top.set_title(f"{party} cohesion — today's working majority {majority_size} "
+    ax_top.set_title(f"{party} cohesion, today's working majority {majority_size} "
                       f"(each month's cohesion score uses that month's own "
                       f"historical majority, which can differ)")
     ax_top.grid(alpha=0.3)

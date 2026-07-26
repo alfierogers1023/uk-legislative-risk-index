@@ -1,10 +1,10 @@
 """
-UK Legislative Risk Index — Streamlit dashboard.
+UK Legislative Risk Index. Streamlit dashboard.
 
 Run with:
     streamlit run app.py
 
-This is a read-only presentation layer over the real logic in src/ — it
+This is a read-only presentation layer over the real logic in src/, it
 does not implement any scoring itself, it just calls:
 - src/reporting.py for the cohesion trend over time
 - src/indices/scrutiny_index.py + src/indices/composite_index.py for the
@@ -14,16 +14,16 @@ All data comes from live UK Parliament open data APIs
 (developer.parliament.uk), cached to data/raw/ by the data clients so
 repeat views are fast. Some bill-level lookups involve dozens of API calls
 (one per stage/amendment page) and can take up to a minute on a bill that
-hasn't been looked up before — the curated shortlist below is pre-warmed so
+hasn't been looked up before, so the curated shortlist below is pre-warmed and
 the common path is fast; anything picked from "browse all bills" may be slow
 the first time.
 
 data/raw/ is deliberately committed to git (not gitignored) for exactly the
-default view (see scripts/refresh_cache.py) — Streamlit Community Cloud's
+default view (see scripts/refresh_cache.py). Streamlit Community Cloud's
 filesystem is ephemeral and resets on every redeploy/wake-from-sleep, so
 without a pre-baked cache every cold start would repeat a multi-minute live
 fetch. The cache is refreshed on a schedule (see
-.github/workflows/refresh-cache.yml), not truly live — the "data last
+.github/workflows/refresh-cache.yml), not truly live. The "data last
 refreshed" caption below is read from data/cache_metadata.json so that's
 honest rather than silently stale.
 """
@@ -54,7 +54,7 @@ CURATED_BILLS = {
     4030: "Railways Bill",
 }
 
-st.set_page_config(page_title="UK Legislative Risk Index", page_icon="🏛️", layout="wide")
+st.set_page_config(page_title="UK Legislative Risk Index", layout="wide")
 
 CACHE_METADATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "cache_metadata.json")
 
@@ -75,7 +75,7 @@ def load_cache_metadata():
 def load_cohesion_table(months_of_history):
     party, majority_size = get_governing_party_and_majority()
     # majority_size here is TODAY's majority (for the "Working majority"
-    # metric tile) — the monthly table computes its own majority per month
+    # metric tile). The monthly table computes its own majority per month
     # internally, since that can genuinely differ for older months.
     table = build_monthly_cohesion_table(party, months_of_history)
     return party, majority_size, table
@@ -86,7 +86,7 @@ def load_government_bills():
     return {b["bill_id"]: b for b in get_bills(bill_type_id=GOVERNMENT_BILL)}
 
 
-@st.cache_data(ttl=3600, show_spinner="Computing bill friction against a comparison group — this can take a minute for bills with heavy committee activity...")
+@st.cache_data(ttl=3600, show_spinner="Computing bill friction against a comparison group, this can take a minute for bills with heavy committee activity...")
 def load_bill_relative_friction(bill_id, bill_type_id, introduced_session_id):
     bill = {
         "bill_id": bill_id,
@@ -97,10 +97,10 @@ def load_bill_relative_friction(bill_id, bill_type_id, introduced_session_id):
     return compute_relative_friction(bill_id, comparison_group), comparison_group
 
 
-st.title("🏛️ UK Legislative Risk Index")
+st.title("UK Legislative Risk Index")
 st.caption(
     "A composite political-risk index built entirely from UK Parliament open "
-    "data ([developer.parliament.uk](https://developer.parliament.uk/)) — "
+    "data ([developer.parliament.uk](https://developer.parliament.uk/)), "
     "no scraping, no manual data entry, every number below traces back to a "
     "live API call."
 )
@@ -110,7 +110,7 @@ if cache_metadata:
     refreshed_at = datetime.datetime.fromisoformat(cache_metadata["last_refreshed"])
     st.caption(
         f"Default view's data was last refreshed **{refreshed_at.strftime('%d %B %Y')}** "
-        f"(refreshed on a schedule, not truly live — see `.github/workflows/refresh-cache.yml`). "
+        f"(refreshed on a schedule, not truly live, see `.github/workflows/refresh-cache.yml`). "
         f"Anything outside the default view (a longer history window, a bill "
         f"not in the curated shortlist) is fetched live when you select it."
     )
@@ -122,29 +122,29 @@ with st.sidebar:
 This project combines two independent signals into one **Legislative Risk
 Score**:
 
-**1. Cohesion** — how often MPs rebel against their own party's majority
+**1. Cohesion**: how often MPs rebel against their own party's majority
 position in Commons divisions, normalized by the size of the governing
 majority (5% rebelling matters enormously at a majority of 1, and barely at
 all at a majority of 170).
 
-**2. Scrutiny** — how much committee time and contested-amendment activity a
+**2. Scrutiny**: how much committee time and contested-amendment activity a
 bill accumulates relative to similar bills, as a proxy for delay/rewrite
 risk.
 
 Both track the single worst event in a window, not just the rolling
-average — a rolling average can hide the one rebellion or one heavily-fought
+average. A rolling average can hide the one rebellion or one heavily-fought
 bill that actually matters.
 
 Built as a portfolio project applying the same "combine multiple weak
 signals into one composite" methodology used in sovereign risk modelling,
 to UK Parliament instead of sovereign states.
 
-**Data sources:** UK Parliament Members API, Commons Votes API, Bills API —
+**Data sources:** UK Parliament Members API, Commons Votes API, Bills API,
 all under the Open Parliament Licence, no API key required.
         """
     )
     st.divider()
-    st.caption("Source: github.com — see CLAUDE.md for full methodology notes.")
+    st.caption("Source: github.com, see CLAUDE.md for full methodology notes.")
 
 st.header("1. Government Cohesion")
 
@@ -174,8 +174,8 @@ fig.add_trace(go.Scatter(
     hovertemplate="Cohesion: %{y:.3f}<br>Majority that month: %{customdata}<extra></extra>",
 ))
 fig.update_layout(
-    title=f"{party} cohesion over time (today's working majority: {majority_size} — "
-          f"hover a point for that month's majority, which can differ due to "
+    title=f"{party} cohesion over time (today's working majority: {majority_size}. "
+          f"Hover a point for that month's majority, which can differ due to "
           f"by-elections/defections)",
     yaxis=dict(title="Cohesion score", range=[0, 1.05]),
     yaxis2=dict(title="Worst division rebel count", overlaying="y", side="right"),
@@ -193,9 +193,9 @@ st.info(
 )
 st.caption(
     "Caveat: a large split here can also mean a **free vote** (a conscience "
-    "issue with no official party position — e.g. assisted dying) rather "
+    "issue with no official party position, e.g. assisted dying) rather "
     "than actual whip-discipline instability. Whip status isn't published "
-    "data, so this can't be detected and excluded automatically — treat a "
+    "data, so this can't be detected and excluded automatically. Treat a "
     "large number here as a prompt to check what the vote actually was."
 )
 
@@ -213,7 +213,7 @@ if use_curated:
     bill = all_bills.get(bill_id)
 else:
     st.caption(
-        "Browsing all current-session Government Bills — anything not in "
+        "Browsing all current-session Government Bills. Anything not in "
         "the curated shortlist above will take up to a minute to compute "
         "on first load."
     )
@@ -233,8 +233,8 @@ if bill:
 
     if own["total_amendments"] == 0:
         st.caption(
-            "This bill hasn't reached committee stage yet — no amendment "
-            "activity to show. The zeros below are accurate, not missing "
+            "This bill hasn't reached committee stage yet, so there's no "
+            "amendment activity to show. The zeros below are accurate, not missing "
             "data: a bill with no scrutiny activity yet genuinely scores "
             "as lowest risk on the scrutiny side."
         )
@@ -302,7 +302,7 @@ if bill:
     with st.expander("What is this comparing against?"):
         st.write(
             f"Comparison group: {relative_friction['comparison_group_size']} other "
-            f"Government Bills introduced in the same Parliamentary session — "
+            f"Government Bills introduced in the same Parliamentary session, "
             f"bill IDs {comparison_group}."
         )
         st.write(
@@ -326,6 +326,6 @@ st.header("3. Composite Parliament Risk Score")
 st.metric(
     "Whole-Parliament Legislative Risk Score (1 = lowest risk)",
     f"{parliament_risk_score:.2f}",
-    help="70% cohesion / 30% scrutiny — fixed Phase 1 weights, not yet "
+    help="70% cohesion / 30% scrutiny, fixed Phase 1 weights, not yet "
          "validated against real outcomes. See CLAUDE.md.",
 )
