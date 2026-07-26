@@ -231,6 +231,14 @@ if bill:
     )
     own = relative_friction["own_friction"]
 
+    if own["total_amendments"] == 0:
+        st.caption(
+            "This bill hasn't reached committee stage yet — no amendment "
+            "activity to show. The zeros below are accurate, not missing "
+            "data: a bill with no scrutiny activity yet genuinely scores "
+            "as lowest risk on the scrutiny side."
+        )
+
     col1, col2, col3 = st.columns(3)
     col1.metric(
         "Committee sitting days (Commons + Lords)",
