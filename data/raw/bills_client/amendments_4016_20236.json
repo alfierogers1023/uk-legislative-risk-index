@@ -1,0 +1,106 @@
+[
+  {
+    "summaryText": [
+      "Clause 14, page 11, line 8, at end insert\u2014",
+      "\u201c(za) in the heading omit \u201con the continental shelf\u201d;\u201d"
+    ],
+    "amendmentId": 10029235,
+    "amendmentType": "EditBillBody",
+    "clause": 14,
+    "schedule": null,
+    "pageNumber": 11,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "opc7",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20236,
+    "statusIndicator": "\u2606",
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4253,
+        "name": "Seema Malhotra",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4253/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4253/contact",
+        "memberFrom": "Feltham and Heston"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 15, page 12, line 33, at end insert\u2014",
+      "\u201c(ba) in paragraph (3A)\u2014"
+    ],
+    "amendmentId": 10029236,
+    "amendmentType": "EditBillBody",
+    "clause": 15,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "opc6",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20236,
+    "statusIndicator": "\u2606",
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4253,
+        "name": "Seema Malhotra",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4253/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4253/contact",
+        "memberFrom": "Feltham and Heston"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 24, page 21, line 12, after \u201cmodifications,\u201d insert \u201cto the Isle of Man or\u201d"
+    ],
+    "amendmentId": 10029234,
+    "amendmentType": "EditBillBody",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "opc1",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20236,
+    "statusIndicator": "\u2606",
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4253,
+        "name": "Seema Malhotra",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4253/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4253/contact",
+        "memberFrom": "Feltham and Heston"
+      }
+    ]
+  }
+]

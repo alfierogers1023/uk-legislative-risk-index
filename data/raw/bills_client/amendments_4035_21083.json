@@ -1,0 +1,490 @@
+[
+  {
+    "summaryText": [
+      "Clause 7, page 6, line 31, after \u201cengine\u201d insert \u201c, an AI product or service\u201d"
+    ],
+    "amendmentId": 10037352,
+    "amendmentType": "EditBillBody",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4258,
+        "name": "Baroness Kidron",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4258/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4258/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 7, line 36, at end insert\u2014",
+      "\u201c(1A) In paragraph (1), after \u201crisks\u201d insert \u201c, including risks arising from fraud,\u201d.\u201d"
+    ],
+    "amendmentId": 10037323,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 36,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1867,
+        "name": "Baroness Ludford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1867/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1867/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 9, page 9, line 13, at end insert\u2014",
+      "\u201c(3E) A person does not provide a managed service for the purposes of paragraph (3B) where the service provided consists only of\u2014"
+    ],
+    "amendmentId": 10037325,
+    "amendmentType": "EditBillBody",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol11",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 24, insert the following new Clause\u2014",
+      "<b>\u201cServices to support political parties to be specified as essential activities</b>"
+    ],
+    "amendmentId": 10037324,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1867,
+        "name": "Baroness Ludford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1867/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1867/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 35, insert the following new Clause\u2014",
+      "<b>\u201cOffice for Cyber Resilience</b>"
+    ],
+    "amendmentId": 10037326,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 35,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 37, insert the following new Clause\u2014",
+      "<b>\u201cConsultation before issue of codes of practice and regulations</b>"
+    ],
+    "amendmentId": 10037327,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 37,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 39, insert the following new Clause\u2014",
+      "<b>\u201cPresumption of conformity with recognised standards</b>"
+    ],
+    "amendmentId": 10037328,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 39,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 40, page 63, line 27, leave out \u201c5\u201d and insert \u201c3\u201d"
+    ],
+    "amendmentId": 10037329,
+    "amendmentType": "EditBillBody",
+    "clause": 40,
+    "schedule": null,
+    "pageNumber": 63,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 42, page 65, line 36, at end insert\u2014",
+      "\u201c(aa) which is made under section (<i>Office for Cyber Resilience</i>), or\u201d"
+    ],
+    "amendmentId": 10037330,
+    "amendmentType": "EditBillBody",
+    "clause": 42,
+    "schedule": null,
+    "pageNumber": 65,
+    "lineNumber": 36,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol17",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 42, page 65, line 36, at end\u2014",
+      "\u201c(aa) which is made under section (<i>Presumption of conformity with recognised standards</i>), or\u201d"
+    ],
+    "amendmentId": 10037331,
+    "amendmentType": "EditBillBody",
+    "clause": 42,
+    "schedule": null,
+    "pageNumber": 65,
+    "lineNumber": 36,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cComputer Misuse Act 1990: statutory defence for cyber security activities</b>"
+    ],
+    "amendmentId": 10037334,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cAnnual report on incident volumes</b>"
+    ],
+    "amendmentId": 10037333,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3396,
+        "name": "Lord Clement-Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3396/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3396/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cDigital Sovereignty Strategy</b>"
+    ],
+    "amendmentId": 10037335,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1867,
+        "name": "Baroness Ludford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1867/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1867/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cBoard oversight and accountability: security and resilience of network and information systems</b>"
+    ],
+    "amendmentId": 10037332,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4035,
+    "billStageId": 21083,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1867,
+        "name": "Baroness Ludford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1867/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1867/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

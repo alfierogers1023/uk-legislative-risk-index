@@ -17,7 +17,20 @@ repeat views are fast. Some bill-level lookups involve dozens of API calls
 hasn't been looked up before — the curated shortlist below is pre-warmed so
 the common path is fast; anything picked from "browse all bills" may be slow
 the first time.
+
+data/raw/ is deliberately committed to git (not gitignored) for exactly the
+default view (see scripts/refresh_cache.py) — Streamlit Community Cloud's
+filesystem is ephemeral and resets on every redeploy/wake-from-sleep, so
+without a pre-baked cache every cold start would repeat a multi-minute live
+fetch. The cache is refreshed on a schedule (see
+.github/workflows/refresh-cache.yml), not truly live — the "data last
+refreshed" caption below is read from data/cache_metadata.json so that's
+honest rather than silently stale.
 """
+
+import datetime
+import json
+import os
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -42,6 +55,20 @@ CURATED_BILLS = {
 }
 
 st.set_page_config(page_title="UK Legislative Risk Index", page_icon="🏛️", layout="wide")
+
+CACHE_METADATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "cache_metadata.json")
+
+
+def load_cache_metadata():
+    """
+    Read the timestamp scripts/refresh_cache.py wrote, so the dashboard can
+    honestly show how stale its pre-baked cache is instead of implying the
+    numbers are live-as-of-now.
+    """
+    if not os.path.exists(CACHE_METADATA_PATH):
+        return None
+    with open(CACHE_METADATA_PATH) as f:
+        return json.load(f)
 
 
 @st.cache_data(ttl=3600, show_spinner="Fetching governing party + Commons division data...")
@@ -74,6 +101,16 @@ st.caption(
     "no scraping, no manual data entry, every number below traces back to a "
     "live API call."
 )
+
+cache_metadata = load_cache_metadata()
+if cache_metadata:
+    refreshed_at = datetime.datetime.fromisoformat(cache_metadata["last_refreshed"])
+    st.caption(
+        f"Default view's data was last refreshed **{refreshed_at.strftime('%d %B %Y')}** "
+        f"(refreshed on a schedule, not truly live — see `.github/workflows/refresh-cache.yml`). "
+        f"Anything outside the default view (a longer history window, a bill "
+        f"not in the curated shortlist) is fetched live when you select it."
+    )
 
 with st.sidebar:
     st.header("About this index")

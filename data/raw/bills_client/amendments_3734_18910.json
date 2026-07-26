@@ -1,0 +1,905 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 8, after \u201cinstitution\u201d insert \u201cthat is not required to hold Minimum Requirement for Own Funds and Eligible Liabilities (MREL) or is below a level of total assets of value of \u00a315 billion index linked from 1 January 2016\u201d"
+    ],
+    "amendmentId": 10015108,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 18, leave out lines 18 to 20"
+    ],
+    "amendmentId": 10015106,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 18,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank may not exercise the power in subsection (1) more than once in respect of the same financial institution without the consent of the Treasury.\u201d"
+    ],
+    "amendmentId": 10015098,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank may not exercise the power in subsection (1) in respect of a financial institution which meets the condition in subsection (2B) without the consent of the Treasury."
+    ],
+    "amendmentId": 10015101,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank may not exercise the power in subsection (1) in respect of a financial institution which meets the condition in subsection (2B) without the consent of the Treasury."
+    ],
+    "amendmentId": 10015100,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank may not exercise the power in subsection (1) without the consent of the Treasury.\u201d"
+    ],
+    "amendmentId": 10015104,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hol12",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank of England may only exercise the power in subsection (1) if it assesses that the use of the power would support the public interest, which may include but need not be limited by\u2014"
+    ],
+    "amendmentId": 10015103,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hol17",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank of England must not require the scheme manager to make a recapitalisation payment if it has directed the financial institution to maintain a Minimum Requirement for Own Funds and Eligible Liabilities (MREL) or issue eligible liabilities.\u201d"
+    ],
+    "amendmentId": 10015114,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 22, at end insert\u2014",
+      "\u201c(3A) Before exercising the power in subsection (1), the Bank and the scheme manager must assess whether they consider that there should be a clawback of executive pay and bonuses from the previous 12 months.\u201d"
+    ],
+    "amendmentId": 10015111,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hol26",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4885,
+        "name": "Lord Sikka",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4885/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4885/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, after \u201c2009)\u201d, insert \u201cexcluding institutions with minimum requirements for own funds and eligible liabilities on the basis of a bail-in resolution strategy as may be identified by the Bank of England from time to time.\u201d"
+    ],
+    "amendmentId": 10015064,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, after \u201c2009)\u201d, insert \u201cthat is not required to hold the Minimum Requirement for own funds and Eligible Liabilities (MREL) above minimum capital requirements.\u201d"
+    ],
+    "amendmentId": 10015115,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hol21",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2802,
+        "name": "Lord Eatwell",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2802/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2802/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(6) When the Bank of England exercises its power in subsection (1), the Bank must make a report to the Chancellor of the Exchequer within 28 days of the date of any recapitalisation payment being made."
+    ],
+    "amendmentId": 10015063,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(6) Use of the Financial Services Compensation Scheme for bank recapitalisation and associated costs must not reduce bank depositors\u2019 entitlement to the full amount of Deposit Guarantee Insurance.\u201d"
+    ],
+    "amendmentId": 10015099,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "<b>\u201c214F</b> <b>Recapitalisation payments: reporting</b>"
+    ],
+    "amendmentId": 10015105,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "hol11",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "<b>\u201c214F</b> <b>Engagement with Parliamentary Committees</b>"
+    ],
+    "amendmentId": 10015117,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 20, after \u201cup\u201d insert \u201cor from the management or shareholders of the institution being sold or wound up\u201d"
+    ],
+    "amendmentId": 10015061,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 20, at end insert\u2014",
+      "\u201c(aa) on a winding up of the institution, any recapitalisation payment is to be treated as a debt of the institution and paid out of the institution\u2019s assets in preference to all other claims except any prescribed fees or expenses of the official receiver;\u201d"
+    ],
+    "amendmentId": 10015062,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "17",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 2, line 36, at end insert \u201cnor on financial institutions that the Bank of England has directed to maintain a Minimum Requirement for Own Funds and Eligible Liabilities (MREL) or issue eligible liabilities.\u201d"
+    ],
+    "amendmentId": 10015113,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 36,
+    "amendmentPosition": "",
+    "marshalledListText": "18",
+    "dNum": "hol24",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 2, line 41, at end insert\u2014",
+      "\u201c(5C) The compensation scheme may not allow the scheme manager to impose levies on liable financial institutions in relation to recapitalisation payments under 214E in financial years following that in which the recapitalisation payments occurred without the consent of the Treasury.\u201d"
+    ],
+    "amendmentId": 10015112,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 41,
+    "amendmentPosition": "",
+    "marshalledListText": "19",
+    "dNum": "hol25",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 15, at end insert\u2014",
+      "\u201c(2A) In section 4 (special resolution objectives), at the end of subsection (9) insert\u2014"
+    ],
+    "amendmentId": 10015102,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "20",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 15, at end insert\u2014",
+      "\u201c(2A) In section 5 (code of practice), at the end of subsection (1) insert \u201cand\u2014"
+    ],
+    "amendmentId": 10015107,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "21",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 16, leave out subsection (3)"
+    ],
+    "amendmentId": 10015110,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 20, after \u201cquestion\u201d insert \u201cand, for such a bank, the shortfall may only be reduced insofar as necessary to cover recapitalisation.\u201d"
+    ],
+    "amendmentId": 10015116,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "23",
+    "dNum": "hol30",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 39, at end insert\u2014",
+      "\u201c(8) In section 79A (private sector purchaser: report), at the end insert\u2014"
+    ],
+    "amendmentId": 10015065,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 39,
+    "amendmentPosition": "",
+    "marshalledListText": "24",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 4, insert the following new Clause\u2014",
+      "<b>\u201cImpact assessment: appropriateness of the minimum total asset value level for imposition of MREL on smaller banks</b>"
+    ],
+    "amendmentId": 10015109,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "25",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18910,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

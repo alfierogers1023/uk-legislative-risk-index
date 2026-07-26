@@ -1,0 +1,340 @@
+[
+  {
+    "id": 19254,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16341,
+        "stageId": 6,
+        "billStageId": 19254,
+        "billId": 3881,
+        "date": "2024-11-06T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 19257,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16372,
+        "stageId": 7,
+        "billStageId": 19257,
+        "billId": 3881,
+        "date": "2024-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 19290,
+    "stageId": 14,
+    "sessionId": 39,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16378,
+        "stageId": 14,
+        "billStageId": 19290,
+        "billId": 3881,
+        "date": "2024-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 19291,
+    "stageId": 15,
+    "sessionId": 39,
+    "description": "Money resolution",
+    "abbreviation": "MR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16379,
+        "stageId": 15,
+        "billStageId": 19291,
+        "billId": 3881,
+        "date": "2024-11-18T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 19304,
+    "stageId": 8,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16447,
+        "stageId": 8,
+        "billStageId": 19304,
+        "billId": 3881,
+        "date": "2024-12-10T00:00:00"
+      },
+      {
+        "id": 16448,
+        "stageId": 8,
+        "billStageId": 19304,
+        "billId": 3881,
+        "date": "2024-12-12T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 19384,
+    "stageId": 9,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16561,
+        "stageId": 9,
+        "billStageId": 19384,
+        "billId": 3881,
+        "date": "2025-01-21T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": 19440,
+    "stageId": 10,
+    "sessionId": 39,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16562,
+        "stageId": 10,
+        "billStageId": 19440,
+        "billId": 3881,
+        "date": "2025-01-21T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": 19486,
+    "stageId": 1,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16636,
+        "stageId": 1,
+        "billStageId": 19486,
+        "billId": 3881,
+        "date": "2025-01-23T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": 19487,
+    "stageId": 2,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16676,
+        "stageId": 2,
+        "billStageId": 19487,
+        "billId": 3881,
+        "date": "2025-03-05T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": 19706,
+    "stageId": 3,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16751,
+        "stageId": 3,
+        "billStageId": 19706,
+        "billId": 3881,
+        "date": "2025-03-19T00:00:00"
+      },
+      {
+        "id": 16768,
+        "stageId": 3,
+        "billStageId": 19706,
+        "billId": 3881,
+        "date": "2025-03-24T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": 19798,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16880,
+        "stageId": 4,
+        "billStageId": 19798,
+        "billId": 3881,
+        "date": "2025-04-30T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  },
+  {
+    "id": 19860,
+    "stageId": 5,
+    "sessionId": 39,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16948,
+        "stageId": 5,
+        "billStageId": 19860,
+        "billId": 3881,
+        "date": "2025-05-12T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  },
+  {
+    "id": 19965,
+    "stageId": 14,
+    "sessionId": 39,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17088,
+        "stageId": 14,
+        "billStageId": 19965,
+        "billId": 3881,
+        "date": "2025-06-03T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  },
+  {
+    "id": 19923,
+    "stageId": 12,
+    "sessionId": 39,
+    "description": "Consideration of Lords amendments",
+    "abbreviation": "COLA",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17081,
+        "stageId": 12,
+        "billStageId": 19923,
+        "billId": 3881,
+        "date": "2025-06-03T00:00:00"
+      }
+    ],
+    "sortOrder": 14
+  },
+  {
+    "id": 19971,
+    "stageId": 13,
+    "sessionId": 39,
+    "description": "Consideration of Commons amendments and / or reasons",
+    "abbreviation": "COCAA/OR",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17103,
+        "stageId": 13,
+        "billStageId": 19971,
+        "billId": 3881,
+        "date": "2025-06-11T00:00:00"
+      }
+    ],
+    "sortOrder": 15
+  },
+  {
+    "id": 20004,
+    "stageId": 42,
+    "sessionId": 39,
+    "description": "Consideration of Lords message",
+    "abbreviation": "COLM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17175,
+        "stageId": 42,
+        "billStageId": 20004,
+        "billId": 3881,
+        "date": "2025-07-02T00:00:00"
+      }
+    ],
+    "sortOrder": 16
+  },
+  {
+    "id": 20050,
+    "stageId": 13,
+    "sessionId": 39,
+    "description": "Consideration of Commons amendments and / or reasons",
+    "abbreviation": "COCAA/OR",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 17302,
+        "stageId": 13,
+        "billStageId": 20050,
+        "billId": 3881,
+        "date": "2025-07-23T00:00:00"
+      }
+    ],
+    "sortOrder": 17
+  },
+  {
+    "id": 20154,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 17338,
+        "stageId": 11,
+        "billStageId": 20154,
+        "billId": 3881,
+        "date": "2025-09-03T00:00:00"
+      }
+    ],
+    "sortOrder": 18
+  }
+]

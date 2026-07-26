@@ -1,11 +1,12 @@
 """
 Shared HTTP helper for the data clients.
 
-The Parliament APIs occasionally return a transient 500 even when the same
-request succeeds moments later (observed directly against the live Bills
-API on 2026-07-26). Retrying a few times on server errors (5xx) is a
-reasonable thing to do at this system boundary; client errors (4xx) mean
-the request itself is wrong and are not retried.
+The Parliament APIs occasionally fail transiently even when the same
+request succeeds moments later — observed directly against the live Bills
+API on 2026-07-26, in two different forms: a plain 500 response, and (during
+a long batch fetch) a dropped connection (requests.exceptions.ConnectionError,
+"Connection reset by peer") that never got as far as an HTTP response at
+all. Both are retried; a real 4xx (the request itself is wrong) is not.
 """
 
 import time
@@ -15,8 +16,8 @@ import requests
 
 def get_json(url, params=None, max_retries=3, retry_delay_seconds=1):
     """
-    GET a URL and return its parsed JSON body, retrying on transient
-    server errors (5xx).
+    GET a URL and return its parsed JSON body, retrying on transient server
+    errors (5xx) and dropped-connection errors.
 
     Args:
         url: full URL to request.
@@ -28,13 +29,20 @@ def get_json(url, params=None, max_retries=3, retry_delay_seconds=1):
         Parsed JSON (dict or list).
 
     Raises:
-        requests.exceptions.HTTPError: if every attempt fails, or if the
-            response is a 4xx (not retried).
+        requests.exceptions.RequestException: if every attempt fails, or if
+            the response is a 4xx (not retried).
     """
     delay = retry_delay_seconds
 
     for attempt in range(1, max_retries + 1):
-        response = requests.get(url, params=params)
+        try:
+            response = requests.get(url, params=params)
+        except requests.exceptions.ConnectionError:
+            if attempt == max_retries:
+                raise
+            time.sleep(delay)
+            delay *= 2
+            continue
 
         if response.status_code < 500:
             response.raise_for_status()

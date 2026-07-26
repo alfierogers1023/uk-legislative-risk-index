@@ -1,0 +1,511 @@
+[
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cMREL limits in line with inflation</b>"
+    ],
+    "amendmentId": 10021119,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC1",
+    "dNum": "hoc6",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4074,
+        "name": "Mark Garnier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4074/contact",
+        "memberFrom": "Wyre Forest"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3935,
+        "name": "Sir Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4787,
+        "name": "James Wild",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4787/contact",
+        "memberFrom": "North West Norfolk"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5100,
+        "name": "Blake Stephenson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5100/contact",
+        "memberFrom": "Mid Bedfordshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North Bedfordshire"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cLinking FSCS to inflation</b>"
+    ],
+    "amendmentId": 10021120,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC2",
+    "dNum": "hoc7",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4074,
+        "name": "Mark Garnier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4074/contact",
+        "memberFrom": "Wyre Forest"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3935,
+        "name": "Sir Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4787,
+        "name": "James Wild",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4787/contact",
+        "memberFrom": "North West Norfolk"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5100,
+        "name": "Blake Stephenson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5100/contact",
+        "memberFrom": "Mid Bedfordshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North Bedfordshire"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cCredit Unions accessing Bank of England liquidity facilities</b>"
+    ],
+    "amendmentId": 10021121,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC3",
+    "dNum": "hoc9",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4074,
+        "name": "Mark Garnier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4074/contact",
+        "memberFrom": "Wyre Forest"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3935,
+        "name": "Sir Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4787,
+        "name": "James Wild",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4787/contact",
+        "memberFrom": "North West Norfolk"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5100,
+        "name": "Blake Stephenson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5100/contact",
+        "memberFrom": "Mid Bedfordshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North Bedfordshire"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank of England must not require the scheme manager to make a recapitalisation payment if it has directed the financial institution to maintain an end-state Minimum Requirement for Own Funds and Eligible Liabilities (MREL) exceeding minimum capital requirements.\u201d"
+    ],
+    "amendmentId": 10021123,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hoc5",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4074,
+        "name": "Mark Garnier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4074/contact",
+        "memberFrom": "Wyre Forest"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3935,
+        "name": "Sir Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4787,
+        "name": "James Wild",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4787/contact",
+        "memberFrom": "North West Norfolk"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5100,
+        "name": "Blake Stephenson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5100/contact",
+        "memberFrom": "Mid Bedfordshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North Bedfordshire"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 22, at end insert\u2014",
+      "\u201c(3A) No application to the scheme manager for recapitalisation payments may be considered by the Bank of England for a financial institution which has been directed to maintain an end-state Minimum Requirement for Own Funds and Eligible Liabilities (MREL) exceeding minimum capital requirements, unless permission has been given, through regulations, by the Chancellor of the Exchequer."
+    ],
+    "amendmentId": 10021361,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hoc10",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5207,
+        "name": "Clive Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5207/contact",
+        "memberFrom": "Wokingham"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4769,
+        "name": "Daisy Cooper",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4769/contact",
+        "memberFrom": "St Albans"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(5A) As a further objective to the special resolution objectives in section 4 of the Banking Act 2009, when discharging its functions in respect of the exercise of recapitalisation payments under this section, the Bank of England must observe the competitiveness and growth objective."
+    ],
+    "amendmentId": 10021360,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hoc11",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5207,
+        "name": "Clive Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5207/contact",
+        "memberFrom": "Wokingham"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4769,
+        "name": "Daisy Cooper",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4769/contact",
+        "memberFrom": "St Albans"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 4, line 14, at end insert\u2014",
+      "\u201c(2B) The code must include guidance to the Bank of England on the exercise of its functions in relation to building societies to ensure that, in circumstances where the use of a recapitalisation power may result in demutualisation, due consideration is given to the impact of such demutualisation on members and on the mutuals sector."
+    ],
+    "amendmentId": 10021122,
+    "amendmentType": "EditBillBody",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hoc8",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19546,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4074,
+        "name": "Mark Garnier",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4074/contact",
+        "memberFrom": "Wyre Forest"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3935,
+        "name": "Sir Mel Stride",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3935/contact",
+        "memberFrom": "Central Devon"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4787,
+        "name": "James Wild",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4787/contact",
+        "memberFrom": "North West Norfolk"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 5100,
+        "name": "Blake Stephenson",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5100/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5100/contact",
+        "memberFrom": "Mid Bedfordshire"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 5,
+        "memberId": 3912,
+        "name": "Richard Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3912/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3912/contact",
+        "memberFrom": "North Bedfordshire"
+      }
+    ]
+  }
+]

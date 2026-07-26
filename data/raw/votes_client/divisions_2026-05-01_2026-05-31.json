@@ -1,0 +1,44 @@
+[
+  {
+    "division_id": 2356,
+    "date": "2026-05-21T17:00:00",
+    "title": "Steel Industry (Nationalisation) Bill: Reasoned Amendment to Second Reading",
+    "aye_count": 68,
+    "no_count": 242
+  },
+  {
+    "division_id": 2355,
+    "date": "2026-05-20T19:26:00",
+    "title": "King's Speech Motion for an Address",
+    "aye_count": 307,
+    "no_count": 171
+  },
+  {
+    "division_id": 2354,
+    "date": "2026-05-20T19:13:00",
+    "title": "King's Speech Motion for an Address: amendment (p)",
+    "aye_count": 104,
+    "no_count": 316
+  },
+  {
+    "division_id": 2353,
+    "date": "2026-05-20T18:58:00",
+    "title": "King's Speech Motion for an Address: amendment (l)",
+    "aye_count": 78,
+    "no_count": 408
+  },
+  {
+    "division_id": 2352,
+    "date": "2026-05-20T18:43:00",
+    "title": "King's Speech Motion for an Address: amendment (o)",
+    "aye_count": 104,
+    "no_count": 317
+  },
+  {
+    "division_id": 2351,
+    "date": "2026-05-19T18:59:00",
+    "title": "King's Speech Motion for an Address: amendment (i)",
+    "aye_count": 108,
+    "no_count": 323
+  }
+]

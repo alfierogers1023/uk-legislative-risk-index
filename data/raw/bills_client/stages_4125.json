@@ -1,0 +1,117 @@
+[
+  {
+    "id": 20743,
+    "stageId": 1,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18110,
+        "stageId": 1,
+        "billStageId": 20743,
+        "billId": 4125,
+        "date": "2026-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 20744,
+    "stageId": 2,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18113,
+        "stageId": 2,
+        "billStageId": 20744,
+        "billId": 4125,
+        "date": "2026-06-02T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 20758,
+    "stageId": 3,
+    "sessionId": 40,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18124,
+        "stageId": 3,
+        "billStageId": 20758,
+        "billId": 4125,
+        "date": "2026-06-16T00:00:00"
+      },
+      {
+        "id": 18125,
+        "stageId": 3,
+        "billStageId": 20758,
+        "billId": 4125,
+        "date": "2026-06-18T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 20891,
+    "stageId": 4,
+    "sessionId": 40,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18357,
+        "stageId": 4,
+        "billStageId": 20891,
+        "billId": 4125,
+        "date": "2026-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 21054,
+    "stageId": 5,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18441,
+        "stageId": 5,
+        "billStageId": 21054,
+        "billId": 4125,
+        "date": "2026-07-20T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 21139,
+    "stageId": 6,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18542,
+        "stageId": 6,
+        "billStageId": 21139,
+        "billId": 4125,
+        "date": "2026-09-01T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 20753,
+    "stageId": 1,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18120,
+        "stageId": 1,
+        "billStageId": 20753,
+        "billId": 4128,
+        "date": "2026-05-19T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 20754,
+    "stageId": 2,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18127,
+        "stageId": 2,
+        "billStageId": 20754,
+        "billId": 4128,
+        "date": "2026-06-09T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 20799,
+    "stageId": 3,
+    "sessionId": 40,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18443,
+        "stageId": 3,
+        "billStageId": 20799,
+        "billId": 4128,
+        "date": "2026-07-21T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 21142,
+    "stageId": 4,
+    "sessionId": 40,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [],
+    "sortOrder": 4
+  }
+]

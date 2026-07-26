@@ -1,0 +1,4939 @@
+[
+  {
+    "summaryText": [
+      "Clause 4, page 4, line 27, at end insert\u2014",
+      "\u201c(aa) after subsection (6) insert\u2014"
+    ],
+    "amendmentId": 10035642,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "60",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 4, insert the following new Clause\u2014",
+      "<b>\u201cDirections about implementation: consultation</b>"
+    ],
+    "amendmentId": 10035772,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "61",
+    "dNum": "hol65",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1413,
+        "name": "Lord Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After \u201cauthorities\u201d insert \u201c, representatives of the British Airline Pilots\u2019 Association\u201d"
+    ],
+    "amendmentId": 10035819,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "62",
+    "dNum": "hol94",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3671,
+        "name": "Lord Tunnicliffe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3671/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3671/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 4, insert the following new Clause\u2014",
+      "<b>\u201cBlockchain-based audit trail for airspace change programmes</b>"
+    ],
+    "amendmentId": 10035957,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "63",
+    "dNum": "hol116",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 6, page 6, line 14, leave out paragraph (c)"
+    ],
+    "amendmentId": 10035746,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 6,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "64",
+    "dNum": "hol34",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 6, page 6, line 28, at end insert\u2014",
+      "\u201c(4A) After section 80 (Secretary of State\u2019s duties) insert\u2014"
+    ],
+    "amendmentId": 10035686,
+    "amendmentType": "EditBillBody",
+    "clause": 6,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 28,
+    "amendmentPosition": "",
+    "marshalledListText": "65",
+    "dNum": "hol21",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 891,
+        "name": "Lord Kirkhope of Harrogate",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/891/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/891/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 6, insert the following new Clause\u2014",
+      "<b>\u201cInstrument flight training</b>"
+    ],
+    "amendmentId": 10036101,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 6,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "65A",
+    "dNum": "hol100",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 6, insert the following new Clause\u2014",
+      "<b>\u201cAir ambulance operations: regulations</b>"
+    ],
+    "amendmentId": 10036107,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 6,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "65B",
+    "dNum": "hol99",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3526,
+        "name": "Lord Berkeley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3526/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 6, insert the following new Clause\u2014",
+      "<b>\u201cSatellite navigation services</b>"
+    ],
+    "amendmentId": 10036102,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 6,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "65C",
+    "dNum": "hol101",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3526,
+        "name": "Lord Berkeley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3526/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 7, leave out lines 18 to 27 and insert\u2014",
+      "\u201c(a) allocating additional capacity created at an existing airport or a new airport where the affected air carriers have failed to reach a voluntary commercial agreement within a reasonable timeframe;"
+    ],
+    "amendmentId": 10035782,
+    "amendmentType": "EditBillBody",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 18,
+    "amendmentPosition": "",
+    "marshalledListText": "66",
+    "dNum": "hol66",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1413,
+        "name": "Lord Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 8, line 2, at end insert\u2014",
+      "\u201c(2A) The regulations must make provision to ensure adequate slots at hub airports are allocated to flights from regional airports in the United Kingdom."
+    ],
+    "amendmentId": 10035640,
+    "amendmentType": "EditBillBody",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "67",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 8, leave out lines 4 to 6"
+    ],
+    "amendmentId": 10035773,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "68",
+    "dNum": "hol67",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1413,
+        "name": "Lord Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 8, line 16, at end insert\u2014",
+      "\u201c(4A) The Secretary of State may not make regulations under this section that would have the effect of facilitating airport expansion unless the Secretary of State has first\u2014"
+    ],
+    "amendmentId": 10035637,
+    "amendmentType": "EditBillBody",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "69",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 8, line 19, at end insert\u2014",
+      "\u201c(6) Before making regulations under this section the Secretary of State must consult\u2014"
+    ],
+    "amendmentId": 10035987,
+    "amendmentType": "EditBillBody",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "70",
+    "dNum": "hol37",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 8, line 24, leave out \u201c, other than excluded regulations,\u201d"
+    ],
+    "amendmentId": 10035747,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 24,
+    "amendmentPosition": "",
+    "marshalledListText": "71",
+    "dNum": "hol35",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 8, leave out lines 28 to 31"
+    ],
+    "amendmentId": 10035748,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 28,
+    "amendmentPosition": "",
+    "marshalledListText": "72",
+    "dNum": "hol36",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 7, insert the following new Clause\u2014",
+      "<b>\u201cOversight of airport slot coordinator</b>"
+    ],
+    "amendmentId": 10035809,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "73",
+    "dNum": "hol80",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1520,
+        "name": "Lord Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 7, insert the following new Clause\u2014",
+      "<b>\u201cSlot audit trail</b>"
+    ],
+    "amendmentId": 10035963,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "74",
+    "dNum": "hol122",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 7, insert the following new Clause\u2014",
+      "<b>\u201cEnvironmental conditions for use of slots</b>"
+    ],
+    "amendmentId": 10035964,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "75",
+    "dNum": "hol123",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 9, line 15, leave out \u201cCAA may by rules (to be known as \u201cCAA rules\u201d)\u201d and insert \u201cSecretary of State may by regulations\u201d"
+    ],
+    "amendmentId": 10035755,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "76",
+    "dNum": "hol45",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 10, line 23, at end insert\u2014",
+      "\u201c(7A) Before making regulations under subsection (7), the Secretary of State must publish a statement setting out the principles underlying the exceptions to the CAA\u2019s power to make CAA rules."
+    ],
+    "amendmentId": 10035815,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "77",
+    "dNum": "hol89",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 10, line 30, at end insert\u2014",
+      "\u201c(aa) representatives of the British Airline Pilots\u2019 Association, and\u201d"
+    ],
+    "amendmentId": 10035818,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 30,
+    "amendmentPosition": "",
+    "marshalledListText": "78",
+    "dNum": "hol93",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3671,
+        "name": "Lord Tunnicliffe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3671/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3671/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 10, line 31, at end insert \u201c, or as the Secretary of State may direct.\u201d"
+    ],
+    "amendmentId": 10035754,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "79",
+    "dNum": "hol44",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 10, line 34, at end insert\u2014",
+      "\u201c(2A) If, after carrying out the consultation required by subsection (1), the CAA proposes to make CAA rules that would have a significant impact on the rights, the safety or the travel experience of disabled persons or persons with reduced mobility, the CAA must publish a disability impact assessment before publishing a notice of its intention to implement this new regulation.\u201d"
+    ],
+    "amendmentId": 10035807,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "80",
+    "dNum": "hol78",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 9, leave out \u201ca document\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035759,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "81",
+    "dNum": "hol50",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 13, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035760,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "82",
+    "dNum": "hol51",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 26, at end insert\u2014",
+      "\u201c(g) set out how the exercise of the CAA's rule-making functions will strengthen\u2014"
+    ],
+    "amendmentId": 10035813,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 26,
+    "amendmentPosition": "",
+    "marshalledListText": "83",
+    "dNum": "hol87",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 26, at end insert\u2014",
+      "\u201c(g) set out how the CAA will have regard to the seventh carbon budget in exercising its functions under this Act, including any implications for aviation demand and consumer access to air travel.\u201d"
+    ],
+    "amendmentId": 10035821,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 26,
+    "amendmentPosition": "",
+    "marshalledListText": "84",
+    "dNum": "hol96",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1520,
+        "name": "Lord Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 27, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035761,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "85",
+    "dNum": "hol52",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 29, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035762,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 29,
+    "amendmentPosition": "",
+    "marshalledListText": "86",
+    "dNum": "hol53",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 32, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035763,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 32,
+    "amendmentPosition": "",
+    "marshalledListText": "87",
+    "dNum": "hol54",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 33, leave out \u201ca revised document\u201d and insert \u201crevised guidance\u201d"
+    ],
+    "amendmentId": 10035764,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "88",
+    "dNum": "hol55",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, leave out lines 34 to 38 and insert\u2014",
+      "\u201c(6) The Secretary of State\u2014"
+    ],
+    "amendmentId": 10035687,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "89",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5377,
+        "name": "Lord Barber of Ainsdale",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5377/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5377/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 891,
+        "name": "Lord Kirkhope of Harrogate",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/891/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/891/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 35, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035765,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "90",
+    "dNum": "hol56",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, leave out lines 37 and 38"
+    ],
+    "amendmentId": 10035749,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "91",
+    "dNum": "hol38",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 37, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035766,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "92",
+    "dNum": "hol57",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 38, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035767,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 38,
+    "amendmentPosition": "",
+    "marshalledListText": "93",
+    "dNum": "hol58",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 12, line 40, leave out \u201cdocument\u201d and insert \u201cguidance\u201d"
+    ],
+    "amendmentId": 10035768,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 12,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "94",
+    "dNum": "hol59",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 13, leave out lines 17 to 19 and insert\u2014",
+      "\u201c(5) The Secretary of State must\u2014"
+    ],
+    "amendmentId": 10035688,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 13,
+    "lineNumber": 17,
+    "amendmentPosition": "",
+    "marshalledListText": "95",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5377,
+        "name": "Lord Barber of Ainsdale",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5377/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5377/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 891,
+        "name": "Lord Kirkhope of Harrogate",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/891/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/891/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 13, line 19, at end insert\u2014",
+      "<b>\u201c61GA</b> <b>AI aviation standards</b>"
+    ],
+    "amendmentId": 10035965,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 13,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "96",
+    "dNum": "hol124",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 13, line 21, leave out \u201cmay\u201d and insert \u201cmust\u201d"
+    ],
+    "amendmentId": 10035750,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 13,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "97",
+    "dNum": "hol40",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 13, line 22, leave out \u201c, or any part of, the\u201d"
+    ],
+    "amendmentId": 10035751,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 13,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "98",
+    "dNum": "hol41",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 13, line 25, after \u201cmay\u201d insert \u201cnot\u201d"
+    ],
+    "amendmentId": 10035752,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 13,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "99",
+    "dNum": "hol42",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 13, line 25, leave out \u201creasonable\u201d"
+    ],
+    "amendmentId": 10035753,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 13,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "100",
+    "dNum": "hol43",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 14, leave out lines 1 to 11"
+    ],
+    "amendmentId": 10035756,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 1,
+    "amendmentPosition": "",
+    "marshalledListText": "101",
+    "dNum": "hol46",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 14, line 11, at end insert\u2014",
+      "<b>\u201c61K</b> <b>Flight crew and safe operation of commercial air transport</b>"
+    ],
+    "amendmentId": 10036106,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 11,
+    "amendmentPosition": "",
+    "marshalledListText": "101A",
+    "dNum": "hol149",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5377,
+        "name": "Lord Barber of Ainsdale",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5377/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5377/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 14, line 31, leave out \u201cnegative\u201d and insert \u201caffirmative\u201d"
+    ],
+    "amendmentId": 10035783,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "102",
+    "dNum": "hol68",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 8, insert the following new Clause\u2014",
+      "<b>\u201cAirfield advisory team</b>"
+    ],
+    "amendmentId": 10036103,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "102A",
+    "dNum": "hol103",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3526,
+        "name": "Lord Berkeley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3526/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3526/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cReport on commercial pilot licence holders</b>"
+    ],
+    "amendmentId": 10035598,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "103",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cUK-EU mutual recognition in aviation and aerospace</b>"
+    ],
+    "amendmentId": 10035590,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "104",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cLimitation on powers for the purposes of airport expansion</b>"
+    ],
+    "amendmentId": 10035643,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "105",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cReport on the impact of this Act on passenger information and low-carbon travel choices</b>"
+    ],
+    "amendmentId": 10035641,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "106",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4983,
+        "name": "Earl Russell",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4983/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cCivil Aviation Authority: environmental duty and annual report to Parliament</b>"
+    ],
+    "amendmentId": 10035685,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "107",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4983,
+        "name": "Earl Russell",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4983/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cAssessment of impact of business rates revaluation on airport services and consumer protection</b>"
+    ],
+    "amendmentId": 10035784,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "108",
+    "dNum": "hol69",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1520,
+        "name": "Lord Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cCompensation reimbursement scheme for airlines</b>"
+    ],
+    "amendmentId": 10035785,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "109",
+    "dNum": "hol70",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 57,
+        "name": "Lord Young of Cookham",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/57/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/57/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cHeathrow Airport: third runway</b>"
+    ],
+    "amendmentId": 10035808,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "110",
+    "dNum": "hol79",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1520,
+        "name": "Lord Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cImpact of sustainable aviation fuel mandate</b>"
+    ],
+    "amendmentId": 10035817,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "111",
+    "dNum": "hol92",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cCivil Aviation Authority: future aviation workforce</b>"
+    ],
+    "amendmentId": 10035820,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "112",
+    "dNum": "hol95",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3671,
+        "name": "Lord Tunnicliffe",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3671/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3671/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cGeneral aviation: consultation and promotion</b>"
+    ],
+    "amendmentId": 10035990,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "113",
+    "dNum": "hol98",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4499,
+        "name": "Lord Davies of Gower",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4499/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4499/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cCAA: climate duty</b>"
+    ],
+    "amendmentId": 10035947,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "114",
+    "dNum": "hol105",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4719,
+        "name": "Baroness Bennett of Manor Castle",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4719/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4719/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cRegulation of private aviation</b>"
+    ],
+    "amendmentId": 10035948,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "115",
+    "dNum": "hol106",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4719,
+        "name": "Baroness Bennett of Manor Castle",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4719/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4719/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cCAA duty to promote effective competition at major airports</b>"
+    ],
+    "amendmentId": 10035949,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "116",
+    "dNum": "hol108",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1520,
+        "name": "Lord Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cCAA power to impose pro-competition remedies at Heathrow</b>"
+    ],
+    "amendmentId": 10035950,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "117",
+    "dNum": "hol109",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1520,
+        "name": "Lord Harper",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1520/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1520/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cFlight time limitations: enforcement</b>"
+    ],
+    "amendmentId": 10035952,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "118",
+    "dNum": "hol111",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cTechnology horizon scanning</b>"
+    ],
+    "amendmentId": 10035958,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "119",
+    "dNum": "hol117",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cTechnology governance framework</b>"
+    ],
+    "amendmentId": 10035959,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "120",
+    "dNum": "hol118",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cEqualities impact assessment</b>"
+    ],
+    "amendmentId": 10035966,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "121",
+    "dNum": "hol125",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cAviation environmental, social, and governance reporting standard</b>"
+    ],
+    "amendmentId": 10035969,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "122",
+    "dNum": "hol128",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 9, insert the following new Clause\u2014",
+      "<b>\u201cPassenger representation in CAA governance</b>"
+    ],
+    "amendmentId": 10035970,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "123",
+    "dNum": "hol129",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>Lord Moylan gives notice of his intention to oppose the Question that Clause 10 stand part of the Bill.</i>"
+    ],
+    "amendmentId": 10035758,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 10,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol49",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "StoodPart",
+    "decisionExplanation": "A member opposed the Clause/Schedule standing part of the Bill. Following debate, the House agreed that the Clause/Schedule should remain part of the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 12, page 16, line 15, after \u201c9\u201d insert \u201cand (<i>Offboarding waiting times for disabled passengers</i>)\u201d"
+    ],
+    "amendmentId": 10035972,
+    "amendmentType": "EditBillBody",
+    "clause": 12,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "124",
+    "dNum": "hol131",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 12, page 16, line 15, after \u201c9\u201d insert \u201cand (<i>Staff training and accreditation for interacting with disabled passengers</i>)\u201d"
+    ],
+    "amendmentId": 10035974,
+    "amendmentType": "EditBillBody",
+    "clause": 12,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "125",
+    "dNum": "hol133",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 12, page 16, line 15, after \u201c9\u201d insert \u201cand (<i>Sighted-guide training and accreditation</i>)\u201d"
+    ],
+    "amendmentId": 10035983,
+    "amendmentType": "EditBillBody",
+    "clause": 12,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "126",
+    "dNum": "hol143",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 12, page 16, line 15, after \u201c9\u201d insert \u201cand (<i>Audible and tactile wayfinding standards</i>)\u201d"
+    ],
+    "amendmentId": 10035982,
+    "amendmentType": "EditBillBody",
+    "clause": 12,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "127",
+    "dNum": "hol142",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 12, page 16, line 15, after \u201c9\u201d insert \u201cand (<i>Equalities impact assessment</i>)\u201d"
+    ],
+    "amendmentId": 10035967,
+    "amendmentType": "EditBillBody",
+    "clause": 12,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "128",
+    "dNum": "hol126",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Before Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cPurpose</b>"
+    ],
+    "amendmentId": 10035781,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "Before",
+    "marshalledListText": "1",
+    "dNum": "hol25",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 13, leave out \u201cmay\u201d and insert \u201cmust\u201d"
+    ],
+    "amendmentId": 10035804,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hol75",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 21, at end insert\u2014",
+      "\u201c(ca) about the liabilities of air transport services providers and operators in relation to the damage or loss of mobility aid devices, medical and life-sustaining equipment, ensuring compensation of a such loss or damage is commensurate with the full replacement or repair value of the equipment;\u201d"
+    ],
+    "amendmentId": 10035802,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hol73",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 2, at end insert\u2014",
+      "\u201c(da) requiring the Secretary of State to review the extent to which hidden or undisclosed charges are being imposed on passengers by air transport service providers or airport operators;\u201d"
+    ],
+    "amendmentId": 10035810,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hol81",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 2, at end insert\u2014",
+      "\u201c(da) about the terms on which air transport service providers make available to travel intermediaries their fares, fare conditions, and ancillary products and services, content, availability, and booking, payment and post-booking servicing functionality, including a duty on air transport service providers to make these available on fair, reasonable and non-discriminatory terms;\u201d"
+    ],
+    "amendmentId": 10035811,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hol82",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, leave out paragraph (e) and insert\u2014",
+      "\u201c(e) establishing minimum standards to provide assistance to disabled persons or persons with reduced mobility, including but not limited to\u2014"
+    ],
+    "amendmentId": 10035803,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hol74",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, leave out \u201cor persons with reduced mobility\u201d and insert \u201c, persons with reduced mobility, persons with hidden disabilities, and persons with medical conditions that may require assistance, support, accommodation or the provision of information during travel, including allergies\u201d"
+    ],
+    "amendmentId": 10035769,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hol60",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4303,
+        "name": "Baroness Kennedy of Cradley",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4303/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4303/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 4, leave out \u201cor CMA\u201d"
+    ],
+    "amendmentId": 10035742,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hol30",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(g) requiring airlines and all ticket sellers to provide standardised, comparable information at the point of sale on\u2014"
+    ],
+    "amendmentId": 10035591,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4983,
+        "name": "Earl Russell",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4983/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(g) establishing a transparent complaints procedure for disabled passengers.\u201d"
+    ],
+    "amendmentId": 10035822,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hol97",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(2A) The regulations must include provision prohibiting a carrier from seating members of the same booking in such a way that any child under the age of 16 is not seated adjacent to, or within immediate proximity of, at least one accompanying adult included in that booking."
+    ],
+    "amendmentId": 10035594,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(2A) The regulations must include provision prohibiting a carrier from seating members of the same booking in such a way that a person requiring care is not seated adjacent to, or within immediate proximity of, at least one accompanying carer included in that booking."
+    ],
+    "amendmentId": 10035595,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(2A) Regulations made under this section must include provision to standardise the maximum dimensions for permitted hand baggage across all air carriers, in alignment with recognised industry standards.\u201d"
+    ],
+    "amendmentId": 10035596,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(2A) The regulations must include provision to protect cabin air quality in relation to any short or long term physical or neurological symptoms which result from the inhalation of air containing carbon monoxide or hydrocarbons, by imposing a duty on air transport service providers to install, maintain and operate continuous active monitoring systems for carbon monoxide and hydrocarbons in the cockpit and passenger cabins of their aircraft.\u201d"
+    ],
+    "amendmentId": 10035737,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "hol24",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3609,
+        "name": "Baroness Finlay of Llandaff",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3609/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3609/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 7, at end insert\u2014",
+      "\u201c(2A) For the purposes of subsection (2)(c), \u201cbaggage\u201d does not include mobility aids devices, including but not limited to wheelchairs and medical and life-sustaining equipment.\u201d"
+    ],
+    "amendmentId": 10035801,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "hol72",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 8, leave out \u201cmay\u201d and insert \u201cmust\u201d"
+    ],
+    "amendmentId": 10035805,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hol76",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 14, leave out paragraph (b)"
+    ],
+    "amendmentId": 10035771,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "17",
+    "dNum": "hol64",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1413,
+        "name": "Lord Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 14, leave out \u201c, the CMA\u201d"
+    ],
+    "amendmentId": 10035743,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "18",
+    "dNum": "hol31",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 33, at end insert\u2014",
+      "\u201c(g) for the imposition or the enhancement by the CAA of specific financial penalties in case of repeated or systemic failure by air transport service providers, or airport operators, to any requirement related to disabled persons, persons with reduced mobility or mobility aid devices and medical and life-sustaining equipment.\u201d"
+    ],
+    "amendmentId": 10035806,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "19",
+    "dNum": "hol77",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3862,
+        "name": "Baroness Grey-Thompson",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3862/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3862/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 33, at end insert\u2014",
+      "\u201c(3A) Where regulations modify passenger standards, including but not limited to mandatory compensation provisions, and such standards depart from equivalent assimilated law or other EU aviation standards recognised by the United Kingdom, the Secretary of State must ensure that the consumer protection afforded by the replacement domestic standard is equal or superior to the standard it replaces."
+    ],
+    "amendmentId": 10035597,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "20",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 33, at end insert\u2014",
+      "\u201c(3A) Regulations under this section must make provision for an enhanced rate of compensation for disabled passengers, including but not limited to passengers who require the use of a wheelchair or other mobility aid."
+    ],
+    "amendmentId": 10035638,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "21",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 33, at end insert\u2014",
+      "\u201c(3A) The CAA may only exercise its powers to impose a financial penalty under this section where it has reasonable grounds to believe that the non-compliance constitutes a systemic failure or a widespread pattern of conduct by the regulated entity, and does not relate to an isolated or minor individual consumer dispute.\u201d"
+    ],
+    "amendmentId": 10035770,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hol63",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1413,
+        "name": "Lord Grayling",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1413/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1413/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 37, at end insert\u2014",
+      "\u201c(4A) When making regulations under subsection (1), the Secretary of State must have regard to the desirability of promoting economic growth."
+    ],
+    "amendmentId": 10035739,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "23",
+    "dNum": "hol27",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 37, at end insert\u2014",
+      "\u201c(4A) Before making regulations under this section for the purpose of aligning United Kingdom law with any provision of European Union law or any international standard, requirement or practice, the Secretary of State must publish a statement explaining\u2014"
+    ],
+    "amendmentId": 10035740,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "24",
+    "dNum": "hol28",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 37, at end insert\u2014",
+      "\u201c(4A) When making regulations under subsection (1), the Secretary of State must have regard to the Government's target of reducing the administrative costs of regulation on business by 25% by the end of the Parliament."
+    ],
+    "amendmentId": 10035741,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "25",
+    "dNum": "hol29",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 40, leave out \u201cthat include provision of the kind mentioned in subsection (3)(e) or (f)\u201d"
+    ],
+    "amendmentId": 10035744,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "26",
+    "dNum": "hol32",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 1, leave out subsection (7)"
+    ],
+    "amendmentId": 10035745,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 1,
+    "amendmentPosition": "",
+    "marshalledListText": "27",
+    "dNum": "hol33",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 3, at end insert\u2014",
+      "\u201c(7A) The Secretary of State must, at least once every five years, review the regulations made under this section and lay a report before Parliament setting out whether\u2014"
+    ],
+    "amendmentId": 10035738,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "28",
+    "dNum": "hol26",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cDuty to ensure accessible air travel services</b>"
+    ],
+    "amendmentId": 10035592,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "29",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cCAA to publish a code of practice governing commercial negotiations</b>"
+    ],
+    "amendmentId": 10035988,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "30",
+    "dNum": "hol83",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 2, insert the following new Clause\u2014",
+      "<b>\u201cUse of artificial intelligence in CAA enforcement decisions</b>"
+    ],
+    "amendmentId": 10035961,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "31",
+    "dNum": "hol120",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 2, insert the following new Clause\u2014",
+      "<b>\u201cMandatory cybersecurity assessment of legacy IT at UK airports</b>"
+    ],
+    "amendmentId": 10035962,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "32",
+    "dNum": "hol121",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cPassengers\u2019 charter for air travel</b>"
+    ],
+    "amendmentId": 10035593,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "36",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cWheelchair passports for air travel</b>"
+    ],
+    "amendmentId": 10035639,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "37",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cCAA to update on review of ATOL reform</b>"
+    ],
+    "amendmentId": 10035812,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "38",
+    "dNum": "hol85",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cReview of airport drop-off charges</b>"
+    ],
+    "amendmentId": 10035814,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "39",
+    "dNum": "hol88",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cResponsibility for air quality standards on planes</b>"
+    ],
+    "amendmentId": 10035946,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "40",
+    "dNum": "hol104",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cResponsibility for drop-off charges regulation</b>"
+    ],
+    "amendmentId": 10035951,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "41",
+    "dNum": "hol110",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4216,
+        "name": "Lord Empey",
+        "party": "Ulster Unionist Party",
+        "partyColour": "a1cdf0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4216/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4216/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cInclusion by design principle</b>"
+    ],
+    "amendmentId": 10035953,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "42",
+    "dNum": "hol112",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cMinimum accessible aviation services standard</b>"
+    ],
+    "amendmentId": 10035954,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "43",
+    "dNum": "hol113",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cNamed older passenger standard</b>"
+    ],
+    "amendmentId": 10035955,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "44",
+    "dNum": "hol114",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cMandatory duty of care standard for unaccompanied minors</b>"
+    ],
+    "amendmentId": 10035956,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "45",
+    "dNum": "hol115",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cDigital accessibility standards</b>"
+    ],
+    "amendmentId": 10035960,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "46",
+    "dNum": "hol119",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cEqualities monitoring of consumer outcomes</b>"
+    ],
+    "amendmentId": 10035968,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "47",
+    "dNum": "hol127",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cOffboarding waiting times for disabled passengers</b>"
+    ],
+    "amendmentId": 10035971,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "48",
+    "dNum": "hol130",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cStaff training and accreditation for interacting with disabled passengers</b>"
+    ],
+    "amendmentId": 10035973,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "49",
+    "dNum": "hol132",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cAssistance continuity for delays, cancellations and missed connections</b>"
+    ],
+    "amendmentId": 10035975,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "50",
+    "dNum": "hol134",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cEnforcement, KPIs and public reporting: interactions with passengers who are visually impaired</b>"
+    ],
+    "amendmentId": 10035976,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "51",
+    "dNum": "hol135",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cComplaints, dispute resolution and redress scheme membership regarding passengers with visual impairments</b>"
+    ],
+    "amendmentId": 10035977,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "52",
+    "dNum": "hol136",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cEnforcement, KPIs and public reporting: interactions with passengers who use mobility aids</b>"
+    ],
+    "amendmentId": 10035978,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "53",
+    "dNum": "hol137",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cComplaints, dispute resolution and redress scheme membership regarding disabled passengers</b>"
+    ],
+    "amendmentId": 10035979,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "54",
+    "dNum": "hol138",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cSighted-guide training and accreditation</b>"
+    ],
+    "amendmentId": 10035980,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "55",
+    "dNum": "hol139",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cAudible and tactile wayfinding standards</b>"
+    ],
+    "amendmentId": 10035981,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "56",
+    "dNum": "hol141",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cAccessible information and digital services</b>"
+    ],
+    "amendmentId": 10035984,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "57",
+    "dNum": "hol144",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cAssistance dog protocols and relief facilities</b>"
+    ],
+    "amendmentId": 10035985,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "58",
+    "dNum": "hol145",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cStanding advisory group for visually impaired passengers</b>"
+    ],
+    "amendmentId": 10035986,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "59",
+    "dNum": "hol146",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cIndustrial action affecting air carriers: review</b>"
+    ],
+    "amendmentId": 10036105,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "59A",
+    "dNum": "hol148",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cAlignment of UK flight compensation rules with EU regulations and their prospective reforms</b>"
+    ],
+    "amendmentId": 10036104,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "59B",
+    "dNum": "hol147",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4291,
+        "name": "Baroness Grender",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4291/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4291/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 19, line 9, leave out \u201cnegative\u201d and insert \u201caffirmative\u201d"
+    ],
+    "amendmentId": 10035757,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 19,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "33",
+    "dNum": "hol47",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 19, line 10, at end insert\u2014",
+      "<span class=\"sub-para subparagraph sub-para-indented\"><span class=\"sub-para-num\">(7)</span><span class=\"sub-para-text\">Where functions under this section are exercisable by both the Civil Aviation Authority and the Competition and Markets Authority, regulations must designate a lead regulator responsible for the exercise of those functions in relation to any specified matter.</span></span>"
+    ],
+    "amendmentId": 10035989,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 19,
+    "lineNumber": 10,
+    "amendmentPosition": "",
+    "marshalledListText": "34",
+    "dNum": "hol84",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 25, line 16, at end insert\u2014",
+      "\u201c30A After section 202 (appeals), insert\u2014"
+    ],
+    "amendmentId": 10035816,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 25,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "35",
+    "dNum": "hol91",
+    "id": 0,
+    "billId": 4125,
+    "billStageId": 20758,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

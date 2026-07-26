@@ -1,0 +1,884 @@
+[
+  {
+    "summaryText": [
+      "Clause 11, page 8, line 26, at end insert\u2014",
+      "\u201c(4A) For the purposes of consultation under subsection (4)(h), \u201cP&I Clubs\u201d means any provider of mutual maritime insurance under the Marine Insurance Act 1906.\u201d"
+    ],
+    "amendmentId": 10030680,
+    "amendmentType": "EditBillBody",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 26,
+    "amendmentPosition": "",
+    "marshalledListText": "5A",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5017,
+        "name": "Lord Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5017/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5017/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 13, insert the following new Clause\u2014",
+      "<b>\u201cReport: impact of Chinese industrial fishing on biodiversity beyond national jurisdiction</b>"
+    ],
+    "amendmentId": 10030679,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 13,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "7A",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 3, insert the following new Clause\u2014",
+      "<b>\u201cPrevention of avoidance by offshoring of activities</b>"
+    ],
+    "amendmentId": 10030558,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "1",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 5, insert the following new Clause\u2014",
+      "<b>\u201cReport: access to samples by foreign state actors</b>"
+    ],
+    "amendmentId": 10030672,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "2",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 7, insert the following new Clause\u2014",
+      "<b>\u201cInternational capacity building: marine science and technology</b>"
+    ],
+    "amendmentId": 10030554,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "3",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1934,
+        "name": "Baroness Miller of Chilthorne Domer",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1934/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 11, page 8, line 2, at end insert\u2014",
+      "\u201c(2A) In making regulations under this section for the purposes of meeting the obligations of the United Kingdom under Article 22(1)(a), 22(1)(b) and 25(1) of the Agreement, the Secretary of State must have regard to the economic and infrastructural consequences of such provisions, including but not limited to the impact on\u2014"
+    ],
+    "amendmentId": 10030670,
+    "amendmentType": "EditBillBody",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5017,
+        "name": "Lord Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5017/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5017/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 11, page 8, line 26, at end insert\u2014",
+      "\u201c(h) about requirements for UK craft which do not have protection and indemnity (\u201cP&I\u201d) insurance, having consulted P&I Clubs.\u201d"
+    ],
+    "amendmentId": 10030669,
+    "amendmentType": "EditBillBody",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 26,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hol21",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5017,
+        "name": "Lord Fuller",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5017/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5017/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 11, insert the following new Clause\u2014",
+      "<b>\u201cPlastic pollution and marine biological diversity of areas beyond national jurisdiction</b>"
+    ],
+    "amendmentId": 10030561,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "6",
+    "dNum": "hol11",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1934,
+        "name": "Baroness Miller of Chilthorne Domer",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1934/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4297,
+        "name": "Baroness Jones of Moulsecoomb",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4297/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4297/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 13, insert the following new Clause\u2014",
+      "<b>\u201cReport: Marine Protected Areas in the Indian Ocean</b>"
+    ],
+    "amendmentId": 10030668,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 13,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "7",
+    "dNum": "hol17",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 14, page 10, line 37, at end insert\u2014",
+      "\u201c(2A) In section 69 (determination of applications), after subsection (1)(c) insert\u2014"
+    ],
+    "amendmentId": 10030557,
+    "amendmentType": "EditBillBody",
+    "clause": 14,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 14, page 10, line 37, at end insert\u2014",
+      "\u201c(2A) In section 69 (determination of applications), after subsection (1)(c) insert\u2014"
+    ],
+    "amendmentId": 10030555,
+    "amendmentType": "EditBillBody",
+    "clause": 14,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 14, page 11, line 13, at end insert\u2014",
+      "\u201c(5) In section 69 (determination of applications), after subsection (1)(c) insert\u2014"
+    ],
+    "amendmentId": 10030556,
+    "amendmentType": "EditBillBody",
+    "clause": 14,
+    "schedule": null,
+    "pageNumber": 11,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1934,
+        "name": "Baroness Miller of Chilthorne Domer",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1934/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1934/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 15, insert the following new Clause\u2014",
+      "<b>\u201cReview on the impact and use of flags of convenience</b>"
+    ],
+    "amendmentId": 10030562,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 15,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "11",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 17, insert the following new Clause\u2014",
+      "<b>\u201cScreening and procedure</b>"
+    ],
+    "amendmentId": 10030572,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "12",
+    "dNum": "opc10",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3972,
+        "name": "Baroness Chapman of Darlington",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3972/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 16, line 10, leave out from \u201cimplementing\u201d to \u201cand\u201d in line 12 and insert \u201cany Article 38 standards or guidelines,\u201d"
+    ],
+    "amendmentId": 10030573,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 10,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "opc11",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3972,
+        "name": "Baroness Chapman of Darlington",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3972/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 16, line 22, leave out from beginning to \u201cmay\u201d in line 24 and insert \u201cRegulations under this section\u201d"
+    ],
+    "amendmentId": 10030571,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 16,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "opc12",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3972,
+        "name": "Baroness Chapman of Darlington",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3972/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3972/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cStrategy: marine biological diversity in areas beyond national jurisdiction and fishing activities</b>"
+    ],
+    "amendmentId": 10030560,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "15",
+    "dNum": "hol12",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cPowers of the Secretary of State: review</b>"
+    ],
+    "amendmentId": 10030666,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "16",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cReporting requirements relating to this Act</b>"
+    ],
+    "amendmentId": 10030665,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "17",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cReport: impact of marine protected areas on the sustainability of the UK fishing fleet</b>"
+    ],
+    "amendmentId": 10030671,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "18",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4336,
+        "name": "Lord Callanan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4336/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cAmendment to the Environment Act 2021</b>"
+    ],
+    "amendmentId": 10030667,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "19",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4704,
+        "name": "Baroness Boycott",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4704/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4704/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 20, page 18, line 7, insert\u2014",
+      "\u201c\u201cflag of convenience\u201d , in relation to section (<i>Review on the impact and use of flags of convenience</i>), means the practice where a ship\u2019s owner or owners register their ship or craft in a country different from their own, allowing the ship to fly the civil ensign of that country.\u201d"
+    ],
+    "amendmentId": 10030559,
+    "amendmentType": "EditBillBody",
+    "clause": 20,
+    "schedule": null,
+    "pageNumber": 18,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "20",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3789,
+        "name": "Lord Teverson",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3789/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3789/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 25, page 21, line 15, leave out \u201cExcept as provided in subsection (2),\u201d"
+    ],
+    "amendmentId": 10030521,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "21",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4098,
+        "name": "Baroness Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 25, page 21, line 17, leave out subsection (2)"
+    ],
+    "amendmentId": 10030523,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 17,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4098,
+        "name": "Baroness Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 25, page 21, line 19, leave out subsection (3)"
+    ],
+    "amendmentId": 10030522,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "23",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4016,
+    "billStageId": 20328,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4098,
+        "name": "Baroness Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

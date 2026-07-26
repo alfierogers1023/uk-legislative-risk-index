@@ -1,0 +1,1205 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 2, at end insert\u2014",
+      "\u201c(5A) The Commissioner must\u2014"
+    ],
+    "amendmentId": 10020146,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 4, line 18, leave out from \u201cproposal\u201d to end of line 19 and insert \u201cat least seven days before the Commissioner intends to exercise the power under subsection (1).\u201d"
+    ],
+    "amendmentId": 10020154,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 18,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 4, at end insert\u2014",
+      "\u201c(7) For the purposes of this section, \u201cpersons subject to service law\u201d includes people going through the recruitment process to join any branch of the armed forces, and \u201crelevant family members\u201d includes the family members of people going through any such recruitment process.\u201d"
+    ],
+    "amendmentId": 10020199,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hol25",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": "",
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 4, line 19, at end insert\u2014",
+      "\u201c(3A) Once the Commissioner has given the notice to the Secretary of State under subsection (3), the Secretary of State must, as soon as is practicable, inform the commanding officer of the relevant service premises that the Commissioner proposes to exercise its power under subsection (1).\u201d"
+    ],
+    "amendmentId": 10020138,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 4, leave out lines 20 to 22 and insert\u2014",
+      "\u201c(4) Subsections (3) and (3A) do not apply, so far as relating to service premises in the United Kingdom, if\u2014"
+    ],
+    "amendmentId": 10020141,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 4,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "hol24",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 8, line 16, at end insert\u2014",
+      "\u201c3A The Secretary of State must not make a recommendation to His Majesty under paragraph 3 until the recommendation has been laid before, and approved by a resolution of, each House of Parliament.\u201d"
+    ],
+    "amendmentId": 10020156,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 8,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1438,
+        "name": "Lord Beamish",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1438/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1438/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 2134,
+        "name": "Lord Russell of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2134/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2134/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 8, line 16, at end insert\u2014",
+      "\u201c3A The Secretary of State\u2019s preferred candidate for Commissioner must make themselves available to any relevant parliamentary committee for a pre-appointment hearing."
+    ],
+    "amendmentId": 10020198,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 8,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hol26",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 5, line 12, at end insert\u2014",
+      "<b>\u201c340IC</b> <b>Commissioner\u2019s functions in relation to whistleblowing</b>"
+    ],
+    "amendmentId": 10020140,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hol21",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4999,
+        "name": "The Lord Bishop of Norwich",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4999/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4999/contact",
+        "memberFrom": "Bishops"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 8, line 28, leave out \u201ctwo\u201d and insert \u201cfive\u201d"
+    ],
+    "amendmentId": 10020150,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 8,
+    "lineNumber": 28,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1438,
+        "name": "Lord Beamish",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1438/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1438/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 2134,
+        "name": "Lord Russell of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2134/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2134/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 5, line 22, at end insert\u2014",
+      "\u201c(aa) the report must include the Commissioner\u2019s view on whether the relevant general service welfare issue has had, or may have, an effect on the recruitment and retention of armed forces personnel,\u201d"
+    ],
+    "amendmentId": 10020151,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "17",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4999,
+        "name": "The Lord Bishop of Norwich",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4999/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4999/contact",
+        "memberFrom": "Bishops"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 6, line 2, at end insert\u2014",
+      "\u201c(4A) After section 340O (annual report on system for dealing with service complaints), insert\u2014"
+    ],
+    "amendmentId": 10020147,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "18",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 10, line 32, leave out \u201cmay\u201d and insert \u201cmust\u201d"
+    ],
+    "amendmentId": 10020148,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 10,
+    "lineNumber": 32,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1438,
+        "name": "Lord Beamish",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1438/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1438/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 2134,
+        "name": "Lord Russell of Liverpool",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2134/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2134/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 4, insert the following new Clause\u2014",
+      "<b>\u201cReport: Commissioner\u2019s interaction with the Service Police Complaints Commissioner</b>"
+    ],
+    "amendmentId": 10020142,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "19",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 10, line 39, at end insert\u2014",
+      "<span class=\"sub-para subparagraph sub-para-indented\"><span class=\"sub-para-num\">(3)</span><span class=\"sub-para-text\">The Secretary of State must ensure that the financial and practical assistance provided to the Commissioner is appropriate and sufficient to allow the Commissioner to carry out its functions.\u201d</span></span>"
+    ],
+    "amendmentId": 10020139,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 10,
+    "lineNumber": 39,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 5, insert the following new Clause\u2014",
+      "<b>\u201cEngagement with the Veterans\u2019 Commissioners</b>"
+    ],
+    "amendmentId": 10020120,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "20",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4352,
+        "name": "Lord Hay of Ballyore",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4352/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4352/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 3801,
+        "name": "Lord Browne of Belmont",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3801/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3801/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 3795,
+        "name": "Lord Morrow",
+        "party": "Democratic Unionist Party",
+        "partyColour": "d46a4c",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3795/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3795/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 2, line 35, at end insert\u2014",
+      "\u201c(2A) A \u201cgeneral service welfare matter\u201d may include issues relating to the wellbeing of, and provision of support to, the children, families and other dependants of serving and former members of the armed forces, including but not limited to\u2014"
+    ],
+    "amendmentId": 10020153,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4999,
+        "name": "The Lord Bishop of Norwich",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4999/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4999/contact",
+        "memberFrom": "Bishops"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 2, line 35, at end insert\u2014",
+      "\u201c(2A) A \u201cgeneral service welfare matter\u201d may include issues relating to the provision of pensions and death in service benefits to serving and former members of the armed forces and their dependants.\u201d"
+    ],
+    "amendmentId": 10020143,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4999,
+        "name": "The Lord Bishop of Norwich",
+        "party": "Bishops",
+        "partyColour": "702082",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4999/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4999/contact",
+        "memberFrom": "Bishops"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 5, insert the following new Clause\u2014",
+      "<b>\u201cTimeframe for implementation of this Act</b>"
+    ],
+    "amendmentId": 10020145,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "21",
+    "dNum": "hol12",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 31, after \u201cmeans\u201d insert \u201ckinship carers and the family members of deceased service personnel as well as other\u201d"
+    ],
+    "amendmentId": 10020152,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4719,
+        "name": "Baroness Bennett of Manor Castle",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4719/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4719/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 5, insert the following new Clause\u2014",
+      "<b>\u201cDuty to consider the lived experience of Reserve Service Personnel</b>"
+    ],
+    "amendmentId": 10020526,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "21A",
+    "dNum": "hol28",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4928,
+        "name": "Lord Harlech",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4928/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4928/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4596,
+        "name": "Lord Colgrain",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4596/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4596/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 5, insert the following new Clause\u2014",
+      "<b>\u201cDuty to consult with heads of reserves</b>"
+    ],
+    "amendmentId": 10020527,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "21B",
+    "dNum": "hol29",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4928,
+        "name": "Lord Harlech",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4928/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4928/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 35, at end insert\u2014",
+      "<b>\u201c340IAA </b> <b>Commissioner support for minority groups within service personnel</b>"
+    ],
+    "amendmentId": 10020155,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4719,
+        "name": "Baroness Bennett of Manor Castle",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4719/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4719/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "At the end of inserted subsection (1), insert\u2014",
+      "\u201c(f) under the age of 18;"
+    ],
+    "amendmentId": 10020197,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hol27",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": "",
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4719,
+        "name": "Baroness Bennett of Manor Castle",
+        "party": "Green Party",
+        "partyColour": "78b82a",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4719/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4719/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 12, line 14, leave out from \u201c2000,\u201d to end of line 15 and insert \u201cfor \u201cService Complaints Ombudsman\u201d substitute \u201cArmed Forces Commissioner\u201d.\u201d"
+    ],
+    "amendmentId": 10020144,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 12,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 14, line 27, at end insert\u2014",
+      "\u201c21A In section 340N\u2014"
+    ],
+    "amendmentId": 10020121,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 14,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "23",
+    "dNum": "opc1",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 360,
+        "name": "Lord Coaker",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/360/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/360/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 6, page 6, line 24, leave out \u201c, except Gibraltar\u201d"
+    ],
+    "amendmentId": 10020137,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 6,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 24,
+    "amendmentPosition": "",
+    "marshalledListText": "24",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1544,
+        "name": "Lord Lancaster of Kimbolton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1544/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1544/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 7, page 6, line 27, at end insert\u2014",
+      "\u201c(za) section 4A;\u201d"
+    ],
+    "amendmentId": 10020149,
+    "amendmentType": "EditBillBody",
+    "clause": 7,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "25",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19706,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  }
+]

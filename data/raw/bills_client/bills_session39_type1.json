@@ -1,0 +1,2129 @@
+[
+  {
+    "billId": 3733,
+    "shortTitle": "Arbitration Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-02-25T09:50:55.3877394",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19674,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16727,
+          "stageId": 11,
+          "billStageId": 19674,
+          "billId": 3733,
+          "date": "2025-02-24T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 4065,
+    "shortTitle": "Armed Forces Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-23T17:44:57.2584365",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21073,
+      "stageId": 3,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18474,
+          "stageId": 3,
+          "billStageId": 21073,
+          "billId": 4065,
+          "date": "2026-09-02T00:00:00"
+        },
+        {
+          "id": 18475,
+          "stageId": 3,
+          "billStageId": 21073,
+          "billId": 4065,
+          "date": "2026-09-08T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 3881,
+    "shortTitle": "Armed Forces Commissioner Act",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-09-04T10:14:18.7593253",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20154,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17338,
+          "stageId": 11,
+          "billStageId": 20154,
+          "billId": 3881,
+          "date": "2025-09-03T00:00:00"
+        }
+      ],
+      "sortOrder": 18
+    }
+  },
+  {
+    "billId": 3734,
+    "shortTitle": "Bank Resolution (Recapitalisation) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-09-02T10:33:25.6063437",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19920,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17045,
+          "stageId": 11,
+          "billStageId": 19920,
+          "billId": 3734,
+          "date": "2025-05-15T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 4016,
+    "shortTitle": "Biodiversity Beyond National Jurisdiction Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-02-16T11:00:37.2262313",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20487,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17837,
+          "stageId": 11,
+          "billStageId": 20487,
+          "billId": 4016,
+          "date": "2026-02-12T00:00:00"
+        }
+      ],
+      "sortOrder": 14
+    }
+  },
+  {
+    "billId": 3929,
+    "shortTitle": "Border Security, Asylum and Immigration Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-12-10T10:50:41.6344784",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20322,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17583,
+          "stageId": 11,
+          "billStageId": 20322,
+          "billId": 3929,
+          "date": "2025-12-02T00:00:00"
+        }
+      ],
+      "sortOrder": 17
+    }
+  },
+  {
+    "billId": 3731,
+    "shortTitle": "Budget Responsibility Act 2024",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2024-11-11T17:57:20.3363443",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 18963,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16037,
+          "stageId": 11,
+          "billStageId": 18963,
+          "billId": 3731,
+          "date": "2024-09-10T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3910,
+    "shortTitle": "Bus Services Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-10-29T18:57:34.2704875",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20221,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17474,
+          "stageId": 11,
+          "billStageId": 20221,
+          "billId": 3910,
+          "date": "2025-10-27T00:00:00"
+        }
+      ],
+      "sortOrder": 14
+    }
+  },
+  {
+    "billId": 3909,
+    "shortTitle": "Children\u2019s Wellbeing and Schools Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-06-26T12:17:09.6931705",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20719,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18079,
+          "stageId": 11,
+          "billStageId": 20719,
+          "billId": 3909,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 24
+    }
+  },
+  {
+    "billId": 3936,
+    "shortTitle": "Church of Scotland (Lord High Commissioner) Act",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-04-19T17:55:06.1902706",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19796,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16903,
+          "stageId": 11,
+          "billStageId": 19796,
+          "billId": 3936,
+          "date": "2025-04-03T00:00:00"
+        }
+      ],
+      "sortOrder": 9
+    }
+  },
+  {
+    "billId": 3735,
+    "shortTitle": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-01-17T09:05:16.6978709",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19422,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16596,
+          "stageId": 11,
+          "billStageId": 19422,
+          "billId": 3735,
+          "date": "2025-01-16T00:00:00"
+        }
+      ],
+      "sortOrder": 12
+    }
+  },
+  {
+    "billId": 4083,
+    "shortTitle": "Courts and Tribunals Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-06-29T23:29:28.5782327",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20718,
+      "stageId": 9,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Commons",
+      "stageSittings": [],
+      "sortOrder": 7
+    }
+  },
+  {
+    "billId": 3938,
+    "shortTitle": "Crime and Policing Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-11T10:41:29.7018009",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20714,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18093,
+          "stageId": 11,
+          "billStageId": 20714,
+          "billId": 3938,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 23
+    }
+  },
+  {
+    "billId": 3739,
+    "shortTitle": "Crown Estate Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-04-19T17:51:01.6523468",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19720,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16804,
+          "stageId": 11,
+          "billStageId": 19720,
+          "billId": 3739,
+          "date": "2025-03-11T00:00:00"
+        }
+      ],
+      "sortOrder": 14
+    }
+  },
+  {
+    "billId": 4035,
+    "shortTitle": "Cyber Security and Resilience (Network and Information Systems) Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-23T17:42:59.1843041",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21083,
+      "stageId": 3,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18470,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-01T00:00:00"
+        },
+        {
+          "id": 18497,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-03T00:00:00"
+        },
+        {
+          "id": 18498,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-07T00:00:00"
+        },
+        {
+          "id": 18499,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-09T00:00:00"
+        }
+      ],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 3825,
+    "shortTitle": "Data (Use and Access) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-08-08T12:22:18.87226",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19996,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17150,
+          "stageId": 11,
+          "billStageId": 19996,
+          "billId": 3825,
+          "date": "2025-06-19T00:00:00"
+        }
+      ],
+      "sortOrder": 24
+    }
+  },
+  {
+    "billId": 3991,
+    "shortTitle": "Deprivation of Citizenship Orders (Effect during Appeal) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-10-28T17:28:22.8160083",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20243,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17475,
+          "stageId": 11,
+          "billStageId": 20243,
+          "billId": 3991,
+          "date": "2025-10-27T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 4004,
+    "shortTitle": "Diego Garcia Military Base and British Indian Ocean Territory Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-04-30T14:14:03.1309651",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20449,
+      "stageId": 13,
+      "sessionId": 39,
+      "description": "Consideration of Commons amendments and / or reasons",
+      "abbreviation": "COCAA/OR",
+      "house": "Lords",
+      "stageSittings": [],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 3737,
+    "shortTitle": "Employment Rights Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-12-22T11:02:30.7253228",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20388,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17636,
+          "stageId": 11,
+          "billStageId": 20388,
+          "billId": 3737,
+          "date": "2025-12-18T00:00:00"
+        }
+      ],
+      "sortOrder": 23
+    }
+  },
+  {
+    "billId": 4002,
+    "shortTitle": "English Devolution and Community Empowerment Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-14T10:26:18.9471729",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20720,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18080,
+          "stageId": 11,
+          "billStageId": 20720,
+          "billId": 4002,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 22
+    }
+  },
+  {
+    "billId": 3873,
+    "shortTitle": "Finance Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-19T09:23:58.5449617",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19781,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16854,
+          "stageId": 11,
+          "billStageId": 19781,
+          "billId": 3873,
+          "date": "2025-03-20T00:00:00"
+        }
+      ],
+      "sortOrder": 12
+    }
+  },
+  {
+    "billId": 4042,
+    "shortTitle": "Finance Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-20T17:24:03.9544541",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20612,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17948,
+          "stageId": 11,
+          "billStageId": 20612,
+          "billId": 4042,
+          "date": "2026-03-18T00:00:00"
+        }
+      ],
+      "sortOrder": 14
+    }
+  },
+  {
+    "billId": 3882,
+    "shortTitle": "Financial Assistance to Ukraine Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-07-09T18:10:37.3122781",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19454,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16595,
+          "stageId": 11,
+          "billStageId": 19454,
+          "billId": 3882,
+          "date": "2025-01-16T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3832,
+    "shortTitle": "Football Governance Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-09-02T10:28:18.8410505",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20133,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17314,
+          "stageId": 11,
+          "billStageId": 20133,
+          "billId": 3832,
+          "date": "2025-07-21T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 3738,
+    "shortTitle": "Great British Energy Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-06-03T15:41:57.014915",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19932,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17046,
+          "stageId": 11,
+          "billStageId": 19932,
+          "billId": 3738,
+          "date": "2025-05-15T00:00:00"
+        }
+      ],
+      "sortOrder": 17
+    }
+  },
+  {
+    "billId": 4082,
+    "shortTitle": "Grenfell Tower Memorial (Expenditure) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-08T12:59:00.5435226",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20653,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18089,
+          "stageId": 11,
+          "billStageId": 20653,
+          "billId": 4082,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 12
+    }
+  },
+  {
+    "billId": 3755,
+    "shortTitle": "House of Lords (Hereditary Peers) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-20T17:25:23.8252043",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20590,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17937,
+          "stageId": 11,
+          "billStageId": 20590,
+          "billId": 3755,
+          "date": "2026-03-18T00:00:00"
+        }
+      ],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 4034,
+    "shortTitle": "Industry and Exports (Financial Assistance) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-04-30T10:28:26.0216885",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20607,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17939,
+          "stageId": 11,
+          "billStageId": 20607,
+          "billId": 4034,
+          "date": "2026-03-18T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3772,
+    "shortTitle": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-05-16T08:49:46.2228524",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19882,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17044,
+          "stageId": 11,
+          "billStageId": 19882,
+          "billId": 3772,
+          "date": "2025-05-15T00:00:00"
+        }
+      ],
+      "sortOrder": 14
+    }
+  },
+  {
+    "billId": 3744,
+    "shortTitle": "Lords Spiritual (Women) Act 2015 (Extension) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-01-17T09:01:31.7390713",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19421,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16597,
+          "stageId": 11,
+          "billStageId": 19421,
+          "billId": 3744,
+          "date": "2025-01-16T00:00:00"
+        }
+      ],
+      "sortOrder": 10
+    }
+  },
+  {
+    "billId": 4062,
+    "shortTitle": "Medical Training (Prioritisation) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-06T11:17:33.082866",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20531,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17879,
+          "stageId": 11,
+          "billStageId": 20531,
+          "billId": 4062,
+          "date": "2026-03-05T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3884,
+    "shortTitle": "Mental Health Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-12-19T10:49:35.9495713",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20357,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17638,
+          "stageId": 11,
+          "billStageId": 20357,
+          "billId": 3884,
+          "date": "2025-12-18T00:00:00"
+        }
+      ],
+      "sortOrder": 16
+    }
+  },
+  {
+    "billId": 4090,
+    "shortTitle": "Ministerial Salaries (Amendment) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-12T09:43:58.1916775",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20654,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18090,
+          "stageId": 11,
+          "billStageId": 20654,
+          "billId": 4090,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 4046,
+    "shortTitle": "National Insurance Contributions (Employer Pensions Contributions) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-14T10:09:48.2352459",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20728,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18088,
+          "stageId": 11,
+          "billStageId": 20728,
+          "billId": 4046,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 14
+    }
+  },
+  {
+    "billId": 3888,
+    "shortTitle": "National Insurance Contributions (Secondary Class 1 Contributions) Act",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-04-30T12:18:19.8950986",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19822,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16906,
+          "stageId": 11,
+          "billStageId": 19822,
+          "billId": 3888,
+          "date": "2025-04-03T00:00:00"
+        }
+      ],
+      "sortOrder": 17
+    }
+  },
+  {
+    "billId": 3887,
+    "shortTitle": "Non-Domestic Rating (Multipliers and Private Schools) Act",
+    "formerShortTitle": "",
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-06-29T16:56:04.2661585",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19824,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16907,
+          "stageId": 11,
+          "billStageId": 19824,
+          "billId": 3887,
+          "date": "2025-04-03T00:00:00"
+        }
+      ],
+      "sortOrder": 19
+    }
+  },
+  {
+    "billId": 4022,
+    "shortTitle": "Northern Ireland Troubles Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-14T20:40:02.0855479",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20309,
+      "stageId": 49,
+      "sessionId": 40,
+      "description": "Committee of the whole House",
+      "abbreviation": "COTWH",
+      "house": "Commons",
+      "stageSittings": [],
+      "sortOrder": 7
+    }
+  },
+  {
+    "billId": 3732,
+    "shortTitle": "Passenger Railway Services (Public Ownership) Act 2024",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2024-11-29T08:28:50.1594523",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19312,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16411,
+          "stageId": 11,
+          "billStageId": 19312,
+          "billId": 3732,
+          "date": "2024-11-28T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 3982,
+    "shortTitle": "Pension Schemes Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-08T12:53:43.1673498",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20721,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18081,
+          "stageId": 11,
+          "billStageId": 20721,
+          "billId": 3982,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 24
+    }
+  },
+  {
+    "billId": 3946,
+    "shortTitle": "Planning and Infrastructure Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-02-19T17:11:09.881635",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20368,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17639,
+          "stageId": 11,
+          "billStageId": 20368,
+          "billId": 3946,
+          "date": "2025-12-18T00:00:00"
+        }
+      ],
+      "sortOrder": 20
+    }
+  },
+  {
+    "billId": 3752,
+    "shortTitle": "Product Regulation and Metrology Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-08-11T11:59:32.7014585",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20117,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17313,
+          "stageId": 11,
+          "billStageId": 20117,
+          "billId": 3752,
+          "date": "2025-07-21T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 3766,
+    "shortTitle": "Property (Digital Assets etc) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-12-03T09:02:46.5674327",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20314,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17581,
+          "stageId": 11,
+          "billStageId": 20314,
+          "billId": 3766,
+          "date": "2025-12-02T00:00:00"
+        }
+      ],
+      "sortOrder": 12
+    }
+  },
+  {
+    "billId": 3921,
+    "shortTitle": "Public Authorities (Fraud, Error and Recovery) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-12-03T08:54:35.5648616",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20288,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17580,
+          "stageId": 11,
+          "billStageId": 20288,
+          "billId": 3921,
+          "date": "2025-12-02T00:00:00"
+        }
+      ],
+      "sortOrder": 16
+    }
+  },
+  {
+    "billId": 4019,
+    "shortTitle": "Public Office (Accountability) Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-21T13:00:28.7756765",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21115,
+      "stageId": 2,
+      "sessionId": 40,
+      "description": "2nd reading",
+      "abbreviation": "2R",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18518,
+          "stageId": 2,
+          "billStageId": 21115,
+          "billId": 4019,
+          "date": "2026-09-01T00:00:00"
+        }
+      ],
+      "sortOrder": 12
+    }
+  },
+  {
+    "billId": 4030,
+    "shortTitle": "Railways Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-22T16:52:11.2058655",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21076,
+      "stageId": 3,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18500,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-09-08T00:00:00"
+        },
+        {
+          "id": 18501,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-09-10T00:00:00"
+        },
+        {
+          "id": 18502,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-09-16T00:00:00"
+        },
+        {
+          "id": 18503,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-12T00:00:00"
+        },
+        {
+          "id": 18504,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-19T00:00:00"
+        },
+        {
+          "id": 18505,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-21T00:00:00"
+        },
+        {
+          "id": 18506,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-26T00:00:00"
+        }
+      ],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 3764,
+    "shortTitle": "Renters\u2019 Rights Act 2025",
+    "formerShortTitle": "",
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-02-27T16:35:08.969809",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20254,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17476,
+          "stageId": 11,
+          "billStageId": 20254,
+          "billId": 3764,
+          "date": "2025-10-27T00:00:00"
+        }
+      ],
+      "sortOrder": 18
+    }
+  },
+  {
+    "billId": 4080,
+    "shortTitle": "Representation of the People Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-21T14:13:57.1267026",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20676,
+      "stageId": 9,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Commons",
+      "stageSittings": [
+        {
+          "id": 18534,
+          "stageId": 9,
+          "billStageId": 20676,
+          "billId": 4080,
+          "date": "2026-09-02T00:00:00"
+        }
+      ],
+      "sortOrder": 9
+    }
+  },
+  {
+    "billId": 4012,
+    "shortTitle": "Sentencing Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-01-29T14:15:58.4875392",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20447,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17746,
+          "stageId": 11,
+          "billStageId": 20447,
+          "billId": 4012,
+          "date": "2026-01-22T00:00:00"
+        }
+      ],
+      "sortOrder": 16
+    }
+  },
+  {
+    "billId": 3955,
+    "shortTitle": "Sentencing Guidelines (Pre-sentence Reports) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-08-08T12:03:17.8158686",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19990,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17151,
+          "stageId": 11,
+          "billStageId": 19990,
+          "billId": 3955,
+          "date": "2025-06-19T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3961,
+    "shortTitle": "Steel Industry (Special Measures) Act",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-05-07T12:18:51.64625",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19854,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16937,
+          "stageId": 11,
+          "billStageId": 19854,
+          "billId": 3961,
+          "date": "2025-04-12T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3941,
+    "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-04T19:56:24.33356",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19749,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16809,
+          "stageId": 11,
+          "billStageId": 19749,
+          "billId": 3941,
+          "date": "2025-03-11T00:00:00"
+        }
+      ],
+      "sortOrder": 8
+    }
+  },
+  {
+    "billId": 4095,
+    "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-20T17:22:36.0157601",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20604,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17936,
+          "stageId": 11,
+          "billStageId": 20604,
+          "billId": 4095,
+          "date": "2026-03-18T00:00:00"
+        }
+      ],
+      "sortOrder": 8
+    }
+  },
+  {
+    "billId": 3736,
+    "shortTitle": "Supply and Appropriation (Main Estimates) Act 2024",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2024-07-31T17:40:14.9568145",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 18902,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 15984,
+          "stageId": 11,
+          "billStageId": 18902,
+          "billId": 3736,
+          "date": "2024-07-30T00:00:00"
+        }
+      ],
+      "sortOrder": 8
+    }
+  },
+  {
+    "billId": 3993,
+    "shortTitle": "Supply and Appropriation (Main Estimates) Act 2025",
+    "formerShortTitle": "",
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-07-22T09:36:18.431019",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20116,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17312,
+          "stageId": 11,
+          "billStageId": 20116,
+          "billId": 3993,
+          "date": "2025-07-21T00:00:00"
+        }
+      ],
+      "sortOrder": 8
+    }
+  },
+  {
+    "billId": 3972,
+    "shortTitle": "Sustainable Aviation Fuel Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-06T16:38:30.2321685",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20557,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17881,
+          "stageId": 11,
+          "billStageId": 20557,
+          "billId": 3972,
+          "date": "2026-03-05T00:00:00"
+        }
+      ],
+      "sortOrder": 16
+    }
+  },
+  {
+    "billId": 3765,
+    "shortTitle": "Terrorism (Protection of Premises) Act",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-04-07T19:33:49.4678314",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19831,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16905,
+          "stageId": 11,
+          "billStageId": 19831,
+          "billId": 3765,
+          "date": "2025-04-03T00:00:00"
+        }
+      ],
+      "sortOrder": 16
+    }
+  },
+  {
+    "billId": 3879,
+    "shortTitle": "Tobacco and Vapes Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-08T12:57:48.7977061",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20680,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18091,
+          "stageId": 11,
+          "billStageId": 20680,
+          "billId": 3879,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 17
+    }
+  },
+  {
+    "billId": 3988,
+    "shortTitle": "Universal Credit Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2025-09-04T10:11:05.5495842",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20152,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17337,
+          "stageId": 11,
+          "billStageId": 20152,
+          "billId": 3988,
+          "date": "2025-09-03T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 4059,
+    "shortTitle": "Universal Credit (Removal of Two Child Limit) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-03-20T17:26:46.4856925",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20605,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 17938,
+          "stageId": 11,
+          "billStageId": 20605,
+          "billId": 4059,
+          "date": "2026-03-18T00:00:00"
+        }
+      ],
+      "sortOrder": 11
+    }
+  },
+  {
+    "billId": 3968,
+    "shortTitle": "Victims and Courts Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-05-08T12:52:23.8694404",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 20702,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18092,
+          "stageId": 11,
+          "billStageId": 20702,
+          "billId": 3968,
+          "date": "2026-04-29T00:00:00"
+        }
+      ],
+      "sortOrder": 18
+    }
+  },
+  {
+    "billId": 3751,
+    "shortTitle": "Water (Special Measures) Act 2025",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2025-04-19T17:49:50.1659236",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 19545,
+      "stageId": 11,
+      "sessionId": 39,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 16726,
+          "stageId": 11,
+          "billStageId": 19545,
+          "billId": 3751,
+          "date": "2025-02-24T00:00:00"
+        }
+      ],
+      "sortOrder": 17
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 21, leave out subsection (3)"
+    ],
+    "amendmentId": 10018891,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "opc14",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19488,
+    "statusIndicator": null,
+    "decision": "AgreedOnDivision",
+    "decisionExplanation": "This amendment was agreed to following a vote.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4077,
+        "name": "Emma Reynolds",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4077/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4077/contact",
+        "memberFrom": "Wycombe"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 24, at end insert\u2014",
+      "\u201c(3A) No application to the scheme manager for recapitalisation payments may be considered by the Bank of England for a financial institution which has been directed to maintain an end-state Minimum Requirement for Own Funds and Eligible Liabilities (MREL) exceeding minimum capital requirements, unless permission has been given, through regulations, by the Chancellor of the Exchequer."
+    ],
+    "amendmentId": 10018975,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 24,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hoc1",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19488,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5207,
+        "name": "Clive Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5207/contact",
+        "memberFrom": "Wokingham"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5198,
+        "name": "Chris Coghlan",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5198/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5198/contact",
+        "memberFrom": "Dorking and Horley"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(5A) As a further objective to the special resolution objectives in section 4 of the Banking Act 2009, when discharging its functions in respect of the exercise of recapitalisation payments under this section, the Bank of England must observe the competitiveness and growth objective."
+    ],
+    "amendmentId": 10018976,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hoc2",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19488,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "This amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5207,
+        "name": "Clive Jones",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5207/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5207/contact",
+        "memberFrom": "Wokingham"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 5198,
+        "name": "Chris Coghlan",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5198/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5198/contact",
+        "memberFrom": "Dorking and Horley"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 6, line 1, leave out subsection (5)"
+    ],
+    "amendmentId": 10018890,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 1,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "opc15",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 19488,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4077,
+        "name": "Emma Reynolds",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4077/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4077/contact",
+        "memberFrom": "Wycombe"
+      }
+    ]
+  }
+]

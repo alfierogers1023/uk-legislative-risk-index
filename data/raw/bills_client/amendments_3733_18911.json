@@ -1,0 +1,141 @@
+[
+  {
+    "summaryText": [
+      "After Clause 4, insert the following new Clause\u2014",
+      "<b>\u201cSafeguarding against fraud and corruption</b>"
+    ],
+    "amendmentId": 10015122,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "1",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 3733,
+    "billStageId": 18911,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3580,
+        "name": "Lord Hacking",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3580/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Before Clause 10, insert the following new Clause\u2014",
+      "<b>\u201cAward of costs</b>"
+    ],
+    "amendmentId": 10015121,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 10,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "Before",
+    "marshalledListText": "2",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 3733,
+    "billStageId": 18911,
+    "statusIndicator": "",
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3580,
+        "name": "Lord Hacking",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3580/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Leave out Clause 13 and insert the following new Clause\u2014",
+      "<b>\u201cAppeals to Court of Appeal from High Court decisions</b>"
+    ],
+    "amendmentId": 10015119,
+    "amendmentType": "EditBillBody",
+    "clause": 13,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "opc1",
+    "id": 0,
+    "billId": 3733,
+    "billStageId": 18911,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3154,
+        "name": "Lord Ponsonby of Shulbrede",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3154/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Title, line 1, after \u201c1996\u201d insert \u201c; and for connected purposes\u201d"
+    ],
+    "amendmentId": 10015118,
+    "amendmentType": "EditLongTitle",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": 1,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "opc2",
+    "id": 0,
+    "billId": 3733,
+    "billStageId": 18911,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3154,
+        "name": "Lord Ponsonby of Shulbrede",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3154/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3154/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

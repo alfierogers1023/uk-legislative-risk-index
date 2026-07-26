@@ -1,0 +1,931 @@
+[
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 25, leave out \u201cnational authority\u201d and insert \u201cpublic authority\u201d"
+    ],
+    "amendmentId": 10037336,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 23, leave out \u201c\u201cnational authority\u201d\u201d and insert \u201c\u201cpublic authority\u201d\u201d"
+    ],
+    "amendmentId": 10037337,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol11",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 25, leave out \u201c\u201cNational authority\u201d\u201d and insert \u201c\u201cPublic authority\u201d\u201d"
+    ],
+    "amendmentId": 10037338,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol12",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 3, line 32, at end insert\u2014",
+      "\u201c(e) a publicly owned company;"
+    ],
+    "amendmentId": 10037339,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 32,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 41, at end insert\u2014",
+      "\u201c\u201cnon-departmental public body\u201d  means a body corporate that is not regarded as a servant or agent of the Crown but which carries out functions of a public nature;"
+    ],
+    "amendmentId": 10037340,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 41,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "[<i>Withdrawn</i>]",
+      "Clause 2, page 6, line 40, after \u201c16A)\u201d insert\u2014"
+    ],
+    "amendmentId": 10037297,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "WithdrawnBeforeDebate",
+    "decisionExplanation": "The amendment was withdrawn before debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4906,
+        "name": "Baroness Fraser of Craigmaddie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4906/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4906/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 27, insert the following new Clause\u2014",
+      "<b>\u201cSentencing</b>"
+    ],
+    "amendmentId": 10037318,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 27,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1804,
+        "name": "Lord Thomas of Gresford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1804/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1804/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 27, insert the following new Clause\u2014",
+      "<b>\u201cRemoval of presumption of suspended sentence orders</b>"
+    ],
+    "amendmentId": 10037341,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 27,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 42, insert the following new Clause\u2014",
+      "<b>\u201cVisiting forces agreements</b>"
+    ],
+    "amendmentId": 10037319,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 42,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1804,
+        "name": "Lord Thomas of Gresford",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1804/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1804/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 50, insert the following new Clause\u2014",
+      "<b>\u201cWaived fees for indefinite leave to remain for spouses or children of serving or discharged members of the armed forces</b>"
+    ],
+    "amendmentId": 10036977,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 50,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3385,
+        "name": "Lord Craig of Radley",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3385/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3385/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 50, insert the following new Clause\u2014",
+      "<b>\u201cOccupational paternity leave and pay</b>"
+    ],
+    "amendmentId": 10037301,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 50,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4726,
+        "name": "Baroness Penn",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4726/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4726/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4323,
+        "name": "Baroness Smith of Newnham",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4323/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4323/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 50, insert the following new Clause\u2014",
+      "<b>\u201cOverseas operations and the European Convention on Human Rights</b>"
+    ],
+    "amendmentId": 10037342,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 50,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 75, line 7, at end insert\u2014",
+      "<i class=\"text-centre\">\u201cOversight board</i>"
+    ],
+    "amendmentId": 10037348,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 75,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>The above-named Lords give notice of their intention to oppose the Question that Schedule 1 be the First Schedule to the Bill.</i>"
+    ],
+    "amendmentId": 10037344,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 3, page 98, line 40, at end insert\u2014",
+      "\u201cPart 1A"
+    ],
+    "amendmentId": 10036809,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 3,
+    "pageNumber": 98,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 3, page 113, line 12, at end insert\u2014",
+      "<b>\u201c236TA</b> <b>Provision for specialist stalking training</b>"
+    ],
+    "amendmentId": 10036807,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 3,
+    "pageNumber": 113,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 3, page 113, line 12, at end insert\u2014",
+      "<b>\u201c236TA</b> <b>Continuity of protection</b>"
+    ],
+    "amendmentId": 10036808,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 3,
+    "pageNumber": 113,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4241,
+        "name": "Baroness Brinton",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4241/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4241/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>The above-named Lords give notice of their intention to oppose the Question that Clause 3 stand part of the Bill</i>"
+    ],
+    "amendmentId": 10037343,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol17",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>The above-named Lords give notice of their intention to oppose the Question that Clause 16 stand part of the Bill.</i>"
+    ],
+    "amendmentId": 10037345,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 16,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>The above-named Lords give notice of their intention to oppose the Question that Clause 38 stand part of the Bill.</i>"
+    ],
+    "amendmentId": 10037346,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 38,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>The above-named Lords give notice of their intention to oppose the Question that Schedule 6 be the Sixth Schedule to the Bill.</i>"
+    ],
+    "amendmentId": 10037347,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": null,
+    "schedule": 6,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol21",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4306,
+        "name": "Baroness Goldie",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4306/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4306/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4952,
+        "name": "The Earl of Minto",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4952/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4952/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "<i>Lord Dannatt gives notice of his intention to oppose the Question that Clause 48 stand part of the Bill.</i>"
+    ],
+    "amendmentId": 10037349,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 48,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 4065,
+    "billStageId": 21073,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4220,
+        "name": "Lord Dannatt",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4220/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4220/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

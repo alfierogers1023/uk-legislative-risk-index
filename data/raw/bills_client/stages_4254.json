@@ -1,0 +1,102 @@
+[
+  {
+    "id": 21048,
+    "stageId": 6,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18434,
+        "stageId": 6,
+        "billStageId": 21048,
+        "billId": 4254,
+        "date": "2026-06-30T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 21049,
+    "stageId": 7,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18448,
+        "stageId": 7,
+        "billStageId": 21049,
+        "billId": 4254,
+        "date": "2026-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 21137,
+    "stageId": 14,
+    "sessionId": 40,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18539,
+        "stageId": 14,
+        "billStageId": 21137,
+        "billId": 4254,
+        "date": "2026-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 21071,
+    "stageId": 15,
+    "sessionId": 40,
+    "description": "Money resolution",
+    "abbreviation": "MR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18459,
+        "stageId": 15,
+        "billStageId": 21071,
+        "billId": 4254,
+        "date": "2026-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 21072,
+    "stageId": 36,
+    "sessionId": 40,
+    "description": "Ways and Means resolution",
+    "abbreviation": "WAMR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18460,
+        "stageId": 36,
+        "billStageId": 21072,
+        "billId": 4254,
+        "date": "2026-07-13T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 21099,
+    "stageId": 8,
+    "sessionId": 40,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [],
+    "sortOrder": 6
+  }
+]

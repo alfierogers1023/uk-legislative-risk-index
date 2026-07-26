@@ -1,0 +1,673 @@
+[
+  {
+    "billId": 4065,
+    "shortTitle": "Armed Forces Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-23T17:44:57.2584365",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21073,
+      "stageId": 3,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18474,
+          "stageId": 3,
+          "billStageId": 21073,
+          "billId": 4065,
+          "date": "2026-09-02T00:00:00"
+        },
+        {
+          "id": 18475,
+          "stageId": 3,
+          "billStageId": 21073,
+          "billId": 4065,
+          "date": "2026-09-08T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 4125,
+    "shortTitle": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill [HL]",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2026-07-21T18:23:34.0751489",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21139,
+      "stageId": 6,
+      "sessionId": 40,
+      "description": "1st reading",
+      "abbreviation": "1R",
+      "house": "Commons",
+      "stageSittings": [
+        {
+          "id": 18542,
+          "stageId": 6,
+          "billStageId": 21139,
+          "billId": 4125,
+          "date": "2026-09-01T00:00:00"
+        }
+      ],
+      "sortOrder": 6
+    }
+  },
+  {
+    "billId": 4128,
+    "shortTitle": "Commercial Payments Bill [HL]",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2026-07-22T16:16:11.631274",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21142,
+      "stageId": 4,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Lords",
+      "stageSittings": [],
+      "sortOrder": 4
+    }
+  },
+  {
+    "billId": 4083,
+    "shortTitle": "Courts and Tribunals Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-06-29T23:29:28.5782327",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20718,
+      "stageId": 9,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Commons",
+      "stageSittings": [],
+      "sortOrder": 7
+    }
+  },
+  {
+    "billId": 4035,
+    "shortTitle": "Cyber Security and Resilience (Network and Information Systems) Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-23T17:42:59.1843041",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21083,
+      "stageId": 3,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18470,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-01T00:00:00"
+        },
+        {
+          "id": 18497,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-03T00:00:00"
+        },
+        {
+          "id": 18498,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-07T00:00:00"
+        },
+        {
+          "id": 18499,
+          "stageId": 3,
+          "billStageId": 21083,
+          "billId": 4035,
+          "date": "2026-09-09T00:00:00"
+        }
+      ],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 4129,
+    "shortTitle": "Financial Services and Markets Bill [HL]",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2026-07-23T17:44:26.9174863",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21082,
+      "stageId": 4,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18507,
+          "stageId": 4,
+          "billStageId": 21082,
+          "billId": 4129,
+          "date": "2026-09-07T00:00:00"
+        },
+        {
+          "id": 18508,
+          "stageId": 4,
+          "billStageId": 21082,
+          "billId": 4129,
+          "date": "2026-09-09T00:00:00"
+        }
+      ],
+      "sortOrder": 4
+    }
+  },
+  {
+    "billId": 4124,
+    "shortTitle": "Health Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-20T10:50:35.9535972",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21130,
+      "stageId": 9,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Commons",
+      "stageSittings": [
+        {
+          "id": 18535,
+          "stageId": 9,
+          "billStageId": 21130,
+          "billId": 4124,
+          "date": "2026-09-07T00:00:00"
+        },
+        {
+          "id": 18536,
+          "stageId": 9,
+          "billStageId": 21130,
+          "billId": 4124,
+          "date": "2026-09-08T00:00:00"
+        }
+      ],
+      "sortOrder": 7
+    }
+  },
+  {
+    "billId": 4254,
+    "shortTitle": "Immigration and Asylum Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-20T12:25:32.9854792",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21099,
+      "stageId": 8,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Commons",
+      "stageSittings": [],
+      "sortOrder": 6
+    }
+  },
+  {
+    "billId": 4140,
+    "shortTitle": "National Security (State Threats) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-22T16:12:54.2517038",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 21074,
+      "stageId": 11,
+      "sessionId": 40,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18462,
+          "stageId": 11,
+          "billStageId": 21074,
+          "billId": 4140,
+          "date": "2026-07-08T00:00:00"
+        }
+      ],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 4022,
+    "shortTitle": "Northern Ireland Troubles Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-14T20:40:02.0855479",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20309,
+      "stageId": 49,
+      "sessionId": 40,
+      "description": "Committee of the whole House",
+      "abbreviation": "COTWH",
+      "house": "Commons",
+      "stageSittings": [],
+      "sortOrder": 7
+    }
+  },
+  {
+    "billId": 4019,
+    "shortTitle": "Public Office (Accountability) Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-21T13:00:28.7756765",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21115,
+      "stageId": 2,
+      "sessionId": 40,
+      "description": "2nd reading",
+      "abbreviation": "2R",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18518,
+          "stageId": 2,
+          "billStageId": 21115,
+          "billId": 4019,
+          "date": "2026-09-01T00:00:00"
+        }
+      ],
+      "sortOrder": 12
+    }
+  },
+  {
+    "billId": 4030,
+    "shortTitle": "Railways Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-22T16:52:11.2058655",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21076,
+      "stageId": 3,
+      "sessionId": 40,
+      "description": "Committee stage",
+      "abbreviation": "CS",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18500,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-09-08T00:00:00"
+        },
+        {
+          "id": 18501,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-09-10T00:00:00"
+        },
+        {
+          "id": 18502,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-09-16T00:00:00"
+        },
+        {
+          "id": 18503,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-12T00:00:00"
+        },
+        {
+          "id": 18504,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-19T00:00:00"
+        },
+        {
+          "id": 18505,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-21T00:00:00"
+        },
+        {
+          "id": 18506,
+          "stageId": 3,
+          "billStageId": 21076,
+          "billId": 4030,
+          "date": "2026-10-26T00:00:00"
+        }
+      ],
+      "sortOrder": 13
+    }
+  },
+  {
+    "billId": 4080,
+    "shortTitle": "Representation of the People Bill",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-21T14:13:57.1267026",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 39,
+    "includedSessionIds": [
+      39,
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 20676,
+      "stageId": 9,
+      "sessionId": 40,
+      "description": "Report stage",
+      "abbreviation": "RS",
+      "house": "Commons",
+      "stageSittings": [
+        {
+          "id": 18534,
+          "stageId": 9,
+          "billStageId": 20676,
+          "billId": 4080,
+          "date": "2026-09-02T00:00:00"
+        }
+      ],
+      "sortOrder": 9
+    }
+  },
+  {
+    "billId": 4126,
+    "shortTitle": "Social Housing Bill [HL]",
+    "formerShortTitle": null,
+    "currentHouse": "Lords",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2026-07-21T17:35:01.1475571",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21086,
+      "stageId": 5,
+      "sessionId": 40,
+      "description": "3rd reading",
+      "abbreviation": "3R",
+      "house": "Lords",
+      "stageSittings": [
+        {
+          "id": 18473,
+          "stageId": 5,
+          "billStageId": 21086,
+          "billId": 4126,
+          "date": "2026-09-01T00:00:00"
+        }
+      ],
+      "sortOrder": 5
+    }
+  },
+  {
+    "billId": 4127,
+    "shortTitle": "Sporting Events Bill [HL]",
+    "formerShortTitle": null,
+    "currentHouse": "Commons",
+    "originatingHouse": "Lords",
+    "lastUpdate": "2026-07-24T13:26:18.5296272",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": false,
+    "currentStage": {
+      "id": 21144,
+      "stageId": 7,
+      "sessionId": 40,
+      "description": "2nd reading",
+      "abbreviation": "2R",
+      "house": "Commons",
+      "stageSittings": [
+        {
+          "id": 18544,
+          "stageId": 7,
+          "billStageId": 21144,
+          "billId": 4127,
+          "date": "2026-09-03T10:00:00"
+        }
+      ],
+      "sortOrder": 7
+    }
+  },
+  {
+    "billId": 4123,
+    "shortTitle": "Steel Industry (Nationalisation) Act 2026",
+    "formerShortTitle": "",
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-21T14:08:24.118376",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 21092,
+      "stageId": 11,
+      "sessionId": 40,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18484,
+          "stageId": 11,
+          "billStageId": 21092,
+          "billId": 4123,
+          "date": "2026-07-15T00:00:00"
+        }
+      ],
+      "sortOrder": 15
+    }
+  },
+  {
+    "billId": 4253,
+    "shortTitle": "Supply and Appropriation (Main Estimates) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-16T11:21:18.4642828",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 21095,
+      "stageId": 11,
+      "sessionId": 40,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18486,
+          "stageId": 11,
+          "billStageId": 21095,
+          "billId": 4253,
+          "date": "2026-07-15T00:00:00"
+        }
+      ],
+      "sortOrder": 8
+    }
+  },
+  {
+    "billId": 4207,
+    "shortTitle": "Taxation (Energy and Vehicles) Act 2026",
+    "formerShortTitle": null,
+    "currentHouse": "Unassigned",
+    "originatingHouse": "Commons",
+    "lastUpdate": "2026-07-20T17:40:35.7393548",
+    "billWithdrawn": null,
+    "isDefeated": false,
+    "billTypeId": 1,
+    "introducedSessionId": 40,
+    "includedSessionIds": [
+      40
+    ],
+    "isAct": true,
+    "currentStage": {
+      "id": 21096,
+      "stageId": 11,
+      "sessionId": 40,
+      "description": "Royal Assent",
+      "abbreviation": "RA",
+      "house": "Unassigned",
+      "stageSittings": [
+        {
+          "id": 18485,
+          "stageId": 11,
+          "billStageId": 21096,
+          "billId": 4207,
+          "date": "2026-07-15T00:00:00"
+        }
+      ],
+      "sortOrder": 9
+    }
+  }
+]

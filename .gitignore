@@ -2,8 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .env
-data/raw/*
-!data/raw/.gitkeep
+# data/raw/ IS committed deliberately (not ignored) — it's the pre-baked
+# cache app.py needs for a fast cold start on Streamlit Community Cloud's
+# ephemeral filesystem. See scripts/refresh_cache.py.
 data/processed/*
 !data/processed/.gitkeep
 .DS_Store

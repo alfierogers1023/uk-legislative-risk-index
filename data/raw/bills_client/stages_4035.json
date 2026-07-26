@@ -1,0 +1,285 @@
+[
+  {
+    "id": 20289,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17512,
+        "stageId": 6,
+        "billStageId": 20289,
+        "billId": 4035,
+        "date": "2025-11-12T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 20290,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17626,
+        "stageId": 7,
+        "billStageId": 20290,
+        "billId": 4035,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 20399,
+    "stageId": 14,
+    "sessionId": 39,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17664,
+        "stageId": 14,
+        "billStageId": 20399,
+        "billId": 4035,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 20381,
+    "stageId": 15,
+    "sessionId": 39,
+    "description": "Money resolution",
+    "abbreviation": "MR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17632,
+        "stageId": 15,
+        "billStageId": 20381,
+        "billId": 4035,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 20382,
+    "stageId": 36,
+    "sessionId": 39,
+    "description": "Ways and Means resolution",
+    "abbreviation": "WAMR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17633,
+        "stageId": 36,
+        "billStageId": 20382,
+        "billId": 4035,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 20400,
+    "stageId": 18,
+    "sessionId": 39,
+    "description": "Carry-over motion",
+    "abbreviation": "CM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17665,
+        "stageId": 18,
+        "billStageId": 20400,
+        "billId": 4035,
+        "date": "2026-01-06T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": 20407,
+    "stageId": 8,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 17778,
+        "stageId": 8,
+        "billStageId": 20407,
+        "billId": 4035,
+        "date": "2026-02-03T00:00:00"
+      },
+      {
+        "id": 17779,
+        "stageId": 8,
+        "billStageId": 20407,
+        "billId": 4035,
+        "date": "2026-02-05T00:00:00"
+      },
+      {
+        "id": 17814,
+        "stageId": 8,
+        "billStageId": 20407,
+        "billId": 4035,
+        "date": "2026-02-10T00:00:00"
+      },
+      {
+        "id": 17822,
+        "stageId": 8,
+        "billStageId": 20407,
+        "billId": 4035,
+        "date": "2026-02-24T00:00:00"
+      },
+      {
+        "id": 17823,
+        "stageId": 8,
+        "billStageId": 20407,
+        "billId": 4035,
+        "date": "2026-02-26T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": 20739,
+    "stageId": 21,
+    "sessionId": 40,
+    "description": "Bill reintroduced",
+    "abbreviation": "BR",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18104,
+        "stageId": 21,
+        "billStageId": 20739,
+        "billId": 4035,
+        "date": "2026-05-14T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": 20525,
+    "stageId": 9,
+    "sessionId": 40,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18135,
+        "stageId": 9,
+        "billStageId": 20525,
+        "billId": 4035,
+        "date": "2026-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": 20764,
+    "stageId": 10,
+    "sessionId": 40,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 18136,
+        "stageId": 10,
+        "billStageId": 20764,
+        "billId": 4035,
+        "date": "2026-06-16T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": 20847,
+    "stageId": 1,
+    "sessionId": 40,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18226,
+        "stageId": 1,
+        "billStageId": 20847,
+        "billId": 4035,
+        "date": "2026-06-17T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  },
+  {
+    "id": 20848,
+    "stageId": 2,
+    "sessionId": 40,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18358,
+        "stageId": 2,
+        "billStageId": 20848,
+        "billId": 4035,
+        "date": "2026-07-14T00:00:00"
+      }
+    ],
+    "sortOrder": 12
+  },
+  {
+    "id": 21083,
+    "stageId": 3,
+    "sessionId": 40,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 18470,
+        "stageId": 3,
+        "billStageId": 21083,
+        "billId": 4035,
+        "date": "2026-09-01T00:00:00"
+      },
+      {
+        "id": 18497,
+        "stageId": 3,
+        "billStageId": 21083,
+        "billId": 4035,
+        "date": "2026-09-03T00:00:00"
+      },
+      {
+        "id": 18498,
+        "stageId": 3,
+        "billStageId": 21083,
+        "billId": 4035,
+        "date": "2026-09-07T00:00:00"
+      },
+      {
+        "id": 18499,
+        "stageId": 3,
+        "billStageId": 21083,
+        "billId": 4035,
+        "date": "2026-09-09T00:00:00"
+      }
+    ],
+    "sortOrder": 13
+  }
+]

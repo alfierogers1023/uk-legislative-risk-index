@@ -1,0 +1,823 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 18, leave out \u201canother\u201d and insert \u201ca relevant\u201d"
+    ],
+    "amendmentId": 10015478,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 18,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "opc5",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 20, at end insert\u2014",
+      "\u201c(2A) The Bank of England must not require the scheme manager to make a recapitalisation payment if it has directed the financial institution to maintain an end-state Minimum Requirement for Own Funds and Eligible Liabilities (MREL) exceeding minimum capital requirements.\u201d"
+    ],
+    "amendmentId": 10015640,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hol41",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 22, at end insert\u2014",
+      "\u201c(3A) Before exercising the power in subsection (1), the Bank and the scheme manager must assess whether they consider that there should be a clawback of any part of executive remuneration from the previous 12 months.\u201d"
+    ],
+    "amendmentId": 10015290,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hol36",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4885,
+        "name": "Lord Sikka",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4885/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4885/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 1, line 25, at end insert\u2014",
+      "\u201c(4A) In subsection (2)(b), \u201crelevant person\u201d means\u2014"
+    ],
+    "amendmentId": 10015476,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 1,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "opc6",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(6) When the Bank exercises its power in subsection (1), the Bank must make a report to the Chancellor of the Exchequer within 28 days of the date of any recapitalisation payment being made."
+    ],
+    "amendmentId": 10015211,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hol33",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(6) When discharging its functions in respect of the exercise of recapitalisation payments under this section, the Bank of England must observe the competitiveness and growth objective."
+    ],
+    "amendmentId": 10015445,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hol37",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 3, at end insert\u2014",
+      "\u201c(6) As a secondary objective to the special resolution objectives in section 4 of the Banking Act 2009, when discharging its functions in respect of the exercise of recapitalisation payments under this section, the Bank of England must observe the competitiveness and growth objective."
+    ],
+    "amendmentId": 10015444,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hol38",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Disagreed",
+    "decisionExplanation": "This amendment was disagreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'disagreed' indicates that the Clause/Schedule remained part of the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cReporting</b>"
+    ],
+    "amendmentId": 10015480,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "8",
+    "dNum": "opc2",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After inserted subsection (5) insert\u2014",
+      "\u201c(5A) Unless already covered by the final report under subsection (3), the Bank must make a further report to the Chancellor of the Exchequer within three months of the date of the sale to a private sector purchaser of the financial institution to which the recapitalisation payment relates, or the sale, closure or winding up of the financial institution or bridge bank to which the recapitalisation payment relates, complying with such requirements as to content as the Treasury may specify.\u201d"
+    ],
+    "amendmentId": 10015610,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "9",
+    "dNum": "hol39",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cNotification to Parliamentary Committees</b>"
+    ],
+    "amendmentId": 10015477,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "10",
+    "dNum": "opc4",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "In inserted subsection (2) leave out paragraph (b) and insert\u2014",
+      "\u201c(b) the Financial Services Regulation Committee of the House of Lords\u201d"
+    ],
+    "amendmentId": 10015661,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hol43",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": "",
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "In inserted subsection (3), leave out \u201cThe reference to the Treasury Committee of the House of Commons\u201d and insert \u201cA reference to a committee in subsection (2)\u201d"
+    ],
+    "amendmentId": 10015659,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hol44",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": "",
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "In inserted subsection (4), at end insert \u201c, in relation to committees of the House of Commons, and",
+      "(b) the Chairman of Committees of the House of Lords, in relation to committees of the House of Lords.\u201d"
+    ],
+    "amendmentId": 10015660,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "hol45",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": "",
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 2, insert the following new Clause\u2014",
+      "<b>\u201cCode of practice</b>"
+    ],
+    "amendmentId": 10015479,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "14",
+    "dNum": "opc3",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4559,
+        "name": "Lord Livermore",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4559/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4559/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 2, insert the following new Clause\u2014",
+      "<b>\u201cTreatment of recapitalisation payments on a winding up</b>"
+    ],
+    "amendmentId": 10015212,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "15",
+    "dNum": "hol32",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 15, at end insert\u2014",
+      "\u201c(2A) In section 4 (special resolution objectives), after subsection (9) insert\u2014"
+    ],
+    "amendmentId": 10015253,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "hol35",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4580,
+        "name": "Baroness Vere of Norbiton",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4580/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4580/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "[<i>Withdrawn</i>]",
+      "Clause 1, page 2, line 3, at end insert\u2014"
+    ],
+    "amendmentId": 10015252,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol34",
+    "id": 0,
+    "billId": 3734,
+    "billStageId": 18970,
+    "statusIndicator": null,
+    "decision": "WithdrawnBeforeDebate",
+    "decisionExplanation": "The amendment was withdrawn before debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2554,
+        "name": "Baroness Noakes",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2554/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2554/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4687,
+        "name": "Lord Vaux of Harrowden",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4687/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4687/contact",
+        "memberFrom": "Excepted Hereditary"
+      }
+    ]
+  }
+]

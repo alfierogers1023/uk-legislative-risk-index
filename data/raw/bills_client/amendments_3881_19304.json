@@ -1,0 +1,491 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 2, at end insert\u2014",
+      "\u201c(5A) The Commissioner must\u2014"
+    ],
+    "amendmentId": 10017049,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hoc8",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 2, at end insert\u2014",
+      "\u201c(5A) The Commissioner shall operate independently from \u2013"
+    ],
+    "amendmentId": 10017039,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hoc9",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1444,
+        "name": "Mr Mark Francois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1444/contact",
+        "memberFrom": "Rayleigh and Wickford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 10, at end insert\u2014",
+      "\u201c(5) The Secretary of State will, within 6 months of the passing of this Act, publish an intended timeframe for\u2014"
+    ],
+    "amendmentId": 10017041,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 10,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "hoc7",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 8, leave out lines 15 and 16 and insert\u2014",
+      "\u201c3\u2007 A relevant Parliamentary select committee will hold a pre-appointment hearing with the Secretary of State\u2019s preferred candidate for Commissioner."
+    ],
+    "amendmentId": 10017048,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 8,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hoc6",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 9, line 34, at end insert\u2014",
+      "\u201c(1A) The Commissioner\u2019s staff must include a King\u2019s Counsel, with responsibility for providing the Commissioner with advice on legal issues arising in the course of the Commissioner\u2019s work of promoting and investigating general service welfare.\u201d"
+    ],
+    "amendmentId": 10017043,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 9,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hoc11",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1444,
+        "name": "Mr Mark Francois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1444/contact",
+        "memberFrom": "Rayleigh and Wickford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 10, line 33, at end insert\u2014",
+      "\u201c(1A) Financial assistance provided to the Commissioner by the Secretary of State must increase annually by a measure determined by the increase in the Consumer Prices Index 12-month rate published by the Office for National Statistics.\u201d"
+    ],
+    "amendmentId": 10017051,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 10,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hoc12",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1444,
+        "name": "Mr Mark Francois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1444/contact",
+        "memberFrom": "Rayleigh and Wickford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 10, line 39, at end insert\u2014",
+      "\u201c(3) The Secretary of State must ensure that the financial and practical assistance provided to the Commissioner is appropriate and sufficient to allow the Commissioner to carry out their functions.\u201d"
+    ],
+    "amendmentId": 10017040,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 10,
+    "lineNumber": 39,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hoc4",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 2, line 15, at end insert\u2014",
+      "\u201c(2) Once the functions of the Service Complaints Ombudsman become functions of the Commissioner, the Commissioner will investigate individual service complaints in the same manner as they were previously investigated by the Service Complaints Ombudsman.\u201d"
+    ],
+    "amendmentId": 10017046,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "11",
+    "dNum": "hoc13",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1444,
+        "name": "Mr Mark Francois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1444/contact",
+        "memberFrom": "Rayleigh and Wickford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 2, line 35, at end insert\u2014",
+      "\u201c(2A) A \u201cgeneral service welfare matter\u201d may include issues relating to the provision of pensions and other related benefits to serving and former members of the armed forces.\u201d"
+    ],
+    "amendmentId": 10017047,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "hoc14",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1444,
+        "name": "Mr Mark Francois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1444/contact",
+        "memberFrom": "Rayleigh and Wickford"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 31, after \u201cmeans\u201d insert \u201ckinship carers and the family members of deceased service personnel as well as other\u201d"
+    ],
+    "amendmentId": 10017044,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hoc2",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 3, line 35, at end insert\u2014",
+      "<b>\u201c340IAA</b> <b>Commissioner support for minority groups within service personnel</b>"
+    ],
+    "amendmentId": 10017050,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hoc3",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 6, line 2, at end insert\u2014",
+      "\u201c(4A) After section 340O (annual report on system for dealing with service complaints), insert\u2014"
+    ],
+    "amendmentId": 10017042,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hoc5",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cApplicability to prospective recruits</b>"
+    ],
+    "amendmentId": 10017045,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC1",
+    "dNum": "hoc1",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5336,
+        "name": "Helen Maguire",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5336/contact",
+        "memberFrom": "Epsom and Ewell"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "To move the following Clause\u2014",
+      "<b>\u201cCommissioner\u2019s interaction with Veterans Commissioners</b>"
+    ],
+    "amendmentId": 10017038,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": null,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "NC2",
+    "dNum": "hoc10",
+    "id": 0,
+    "billId": 3881,
+    "billStageId": 19304,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1444,
+        "name": "Mr Mark Francois",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Commons",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1444/contact",
+        "memberFrom": "Rayleigh and Wickford"
+      }
+    ]
+  }
+]

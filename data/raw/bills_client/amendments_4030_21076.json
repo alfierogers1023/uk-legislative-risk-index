@@ -1,0 +1,1312 @@
+[
+  {
+    "summaryText": [
+      "Clause 3, page 3, line 12, at end insert\u2014",
+      "\u201c(4A) Great British Railways must, when exercising its statutory functions, seek to increase passenger traffic on railways."
+    ],
+    "amendmentId": 10036937,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol11",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 14, insert the following new Clause\u2014",
+      "<b>\u201cThe Great British Railways Board</b>"
+    ],
+    "amendmentId": 10036936,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 14,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol10",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 15, page 9, line 9, at end insert\u2014",
+      "<span class=\"wrapped\">\u201cfor the next 30 years.\u201d</span>"
+    ],
+    "amendmentId": 10036951,
+    "amendmentType": "EditBillBody",
+    "clause": 15,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol9",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 15, page 9, line 9, at end insert\u2014",
+      "\u201c(1A) The strategy must include measures to reduce the carbon footprint of the rail network and to identify sections of the network vulnerable to extreme weather and related climate risks, including drought, soil moisture deficit, flooding, heat and cold.\u201d"
+    ],
+    "amendmentId": 10037322,
+    "amendmentType": "EditBillBody",
+    "clause": 15,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol40",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4983,
+        "name": "Earl Russell",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4983/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 15, page 9, line 20, after \u201cMinisters\u201d insert \u201c, the London Transport Users\u2019 Committee,\u201d"
+    ],
+    "amendmentId": 10037191,
+    "amendmentType": "EditBillBody",
+    "clause": 15,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol27",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 17, page 10, line 16, leave out \u201chave regard\u201d and insert \u201cgive significant weight\u201d"
+    ],
+    "amendmentId": 10036942,
+    "amendmentType": "EditBillBody",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 16,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 17, insert the following new Clause\u2014",
+      "<b>\u201cRail passenger target</b>"
+    ],
+    "amendmentId": 10036946,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 17, insert the following new Clause\u2014",
+      "<b>\u201cGreat British Railways: environmental targets</b>"
+    ],
+    "amendmentId": 10037198,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol34",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4983,
+        "name": "Earl Russell",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4983/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 34, page 19, line 4, at end insert\u2014",
+      "\u201c(1A) The Secretary of State must provide a scheme, to be known as \u201cRail Miles\u201d, to provide discounted rail fares for passengers frequently using Great British Railways services.\u201d"
+    ],
+    "amendmentId": 10036948,
+    "amendmentType": "EditBillBody",
+    "clause": 34,
+    "schedule": null,
+    "pageNumber": 19,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cPassengers\u2019 Charter</b>"
+    ],
+    "amendmentId": 10036947,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cReview of passenger safety</b>"
+    ],
+    "amendmentId": 10036940,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cAutomatic delay repay compensation</b>"
+    ],
+    "amendmentId": 10036980,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5444,
+        "name": "Baroness Leaman",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5444/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cConsultation about railway passenger services and station services</b>"
+    ],
+    "amendmentId": 10037192,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol28",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 58, insert the following new Clause\u2014",
+      "<b>\u201cSafety and security of passengers</b>"
+    ],
+    "amendmentId": 10037298,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 58,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol35",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4027,
+        "name": "Baroness Morgan of Cotes",
+        "party": "Non-affiliated",
+        "partyColour": null,
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4027/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4027/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 62, insert the following new Clause\u2014",
+      "<b>\u201cGreat British Railways timetable</b>"
+    ],
+    "amendmentId": 10036978,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 62,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 513,
+        "name": "Lord Beith",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/513/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/513/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 63, page 36, line 25, at end insert\u2014",
+      "\u201c(c) the achievement of the rail freight target set out in section 17.\u201d"
+    ],
+    "amendmentId": 10036941,
+    "amendmentType": "EditBillBody",
+    "clause": 63,
+    "schedule": null,
+    "pageNumber": 36,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 73, page 43, line 19, leave out subsection (2)"
+    ],
+    "amendmentId": 10037206,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 73,
+    "schedule": null,
+    "pageNumber": 43,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol36",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3609,
+        "name": "Baroness Finlay of Llandaff",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3609/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3609/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 84, page 52, line 9, after \u201cLondon\u201d insert \u201cand the London Transport Users\u2019 Committee\u201d"
+    ],
+    "amendmentId": 10037193,
+    "amendmentType": "EditBillBody",
+    "clause": 84,
+    "schedule": null,
+    "pageNumber": 52,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol29",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 84, page 52, line 21, after \u201cLondon\u201d insert \u201cand the London Transport Users\u2019 Committee\u201d"
+    ],
+    "amendmentId": 10037194,
+    "amendmentType": "EditBillBody",
+    "clause": 84,
+    "schedule": null,
+    "pageNumber": 52,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol30",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Leave out Clause 94, and insert the following new Clause\u2014",
+      "<b>\u201cLicensing of drivers on intercontinental routes</b>"
+    ],
+    "amendmentId": 10036979,
+    "amendmentType": "EditBillBody",
+    "clause": 94,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2483,
+        "name": "Lord Bradshaw",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2483/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 95, insert the following new Clause\u2014",
+      "<b>\u201cFund for future railway improvements</b>"
+    ],
+    "amendmentId": 10036949,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 95,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 95, insert the following new Clause\u2014",
+      "<b>\u201cRestoring Your Railway Fund: review</b>"
+    ],
+    "amendmentId": 10036950,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 95,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol8",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 95, insert the following new Clause\u2014",
+      "<b>\u201cAnti-social noise</b>"
+    ],
+    "amendmentId": 10036981,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 95,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol24",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5444,
+        "name": "Baroness Leaman",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5444/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 95, insert the following new Clause\u2014",
+      "<b>\u201cRails to Trails programme</b>"
+    ],
+    "amendmentId": 10037190,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 95,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5444,
+        "name": "Baroness Leaman",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5444/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 95, insert the following new Clause\u2014",
+      "<b>\u201cRail climate resilience and decarbonisation framework</b>"
+    ],
+    "amendmentId": 10037197,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 95,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "",
+    "dNum": "hol33",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4983,
+        "name": "Earl Russell",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4983/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4983/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 98, page 61, line 19, at end insert\u2014",
+      "\u201c(aa) regulations under section (<i>Automatic delay repay compensation</i>);\u201d"
+    ],
+    "amendmentId": 10036982,
+    "amendmentType": "EditBillBody",
+    "clause": 98,
+    "schedule": null,
+    "pageNumber": 61,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol25",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5444,
+        "name": "Baroness Leaman",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5444/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 98, page 61, line 23, at end insert\u2014",
+      "\u201c(ea) regulations under section (<i>Anti-social noise</i>);\u201d"
+    ],
+    "amendmentId": 10036983,
+    "amendmentType": "EditBillBody",
+    "clause": 98,
+    "schedule": null,
+    "pageNumber": 61,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol26",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5444,
+        "name": "Baroness Leaman",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5444/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5444/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 64, line 11, after \u201cRoad\u201d insert \u201c, the London Transport Users\u2019 Committee,\u201d"
+    ],
+    "amendmentId": 10037195,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 64,
+    "lineNumber": 11,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol31",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 70, line 15, after \u201cservices\u201d insert \u201c, including passenger services,\u201d"
+    ],
+    "amendmentId": 10036939,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 70,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 70, line 17, at end insert\u2014",
+      "<span class=\"sub-para subparagraph sub-para-indented\"><span class=\"sub-para-num\">(1A)</span><span class=\"sub-para-text\">The objectives set out under sub-paragraph (1)(a) must include objectives relating to passenger rail services.\u201d</span></span>"
+    ],
+    "amendmentId": 10036938,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 70,
+    "lineNumber": 17,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol12",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 70, line 23, at end insert \u201c, save as already provided for under sub-paragraph (1A)\u201d"
+    ],
+    "amendmentId": 10036943,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 70,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 72, line 21, after \u201cORR\u201d insert \u201c, the London Transport Users\u2019 Committee,\u201d"
+    ],
+    "amendmentId": 10037196,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 72,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol32",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 5366,
+        "name": "Baroness Pidgeon",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/5366/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/5366/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 73, line 27, at end insert\u2014",
+      "\u201c(b) notify the ORR of the proposed variation, and"
+    ],
+    "amendmentId": 10036935,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 73,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2483,
+        "name": "Lord Bradshaw",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2483/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 73, line 28, leave out sub-paragraph (4)"
+    ],
+    "amendmentId": 10036944,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 73,
+    "lineNumber": 28,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2483,
+        "name": "Lord Bradshaw",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2483/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 74, line 4, at end insert\u2014",
+      "<span class=\"sub-para subparagraph sub-para-indented\"><span class=\"sub-para-num\">(6)</span><span class=\"sub-para-text\">If the Secretary of State decides to vary the financial assistance provided under paragraph 6, the ORR must produce and publish an independent assessment of the impact on the rail system of the decision, including the ability of Great British Railways to deliver on its business plan.\u201d</span></span>"
+    ],
+    "amendmentId": 10036945,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 74,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2483,
+        "name": "Lord Bradshaw",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2483/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 74, line 4, at end insert\u2014",
+      "<i class=\"text-centre\">\u201cReferral of proposed reductions in financial assistance</i>"
+    ],
+    "amendmentId": 10037302,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 74,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol37",
+    "id": 0,
+    "billId": 4030,
+    "billStageId": 21076,
+    "statusIndicator": null,
+    "decision": "NoDecision",
+    "decisionExplanation": "The House has not considered this amendment.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 2483,
+        "name": "Lord Bradshaw",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/2483/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/2483/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4883,
+        "name": "Lord Moylan",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4883/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4883/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

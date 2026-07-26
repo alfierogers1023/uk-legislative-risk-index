@@ -1,0 +1,4574 @@
+[
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 5, at end insert\u2014",
+      "\u201c(1A) The purchaser must advise the supplier how the supplier should submit notice as set out in subsection (1)."
+    ],
+    "amendmentId": 10036300,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 5,
+    "amendmentPosition": "",
+    "marshalledListText": "1",
+    "dNum": "hol48",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, leave out lines 8 and 9 and insert \u201c30 days\u201d"
+    ],
+    "amendmentId": 10036432,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "2",
+    "dNum": "hol53",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 8, leave out \u201c30\u201d and insert \u201c35\u201d"
+    ],
+    "amendmentId": 10037208,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "3",
+    "dNum": "hol75",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 8, at end insert\u2014",
+      "\u201c(aa) where the purchaser is a nationalised body, 30 days;\u201d"
+    ],
+    "amendmentId": 10037294,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "4",
+    "dNum": "hol88",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 2, line 9, leave out \u201c60\u201d and insert \u201c65\u201d"
+    ],
+    "amendmentId": 10037209,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 2,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "5",
+    "dNum": "hol76",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 2, leave out \u201c(implied payment terms in certain public contracts)\u201d"
+    ],
+    "amendmentId": 10037175,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "6",
+    "dNum": "opc31",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 4, leave out from \u201cmeans\u201d to end of line 8 and insert \u201cthe point at which the supplier has unequivocal and unencumbered use of cleared funds remitted by the buyer.\u201d"
+    ],
+    "amendmentId": 10036430,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "7",
+    "dNum": "hol49",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 8, at end insert\u2014",
+      "\u201c(11) In this Act\u2014"
+    ],
+    "amendmentId": 10037295,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 8,
+    "amendmentPosition": "",
+    "marshalledListText": "8",
+    "dNum": "hol89",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 38, at end insert\u2014",
+      "\u201c(8) Where a pre-existing trading relationship exists between the parties, and a new contract is issued after the day on which the Commercial Payments Act 2026 is passed to update or replace the contract in force prior to the day on which the Commercial Payments Act 2026 is passed, any new clause or variance to the old contract that has the effect of increasing the required verification period is to be deemed null and void."
+    ],
+    "amendmentId": 10036301,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 38,
+    "amendmentPosition": "",
+    "marshalledListText": "9",
+    "dNum": "hol50",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 1, page 3, line 38, at end insert\u2014",
+      "<b>\u201c2CA</b> <b>Payments collected by intermediaries</b>"
+    ],
+    "amendmentId": 10035841,
+    "amendmentType": "EditBillBody",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": 3,
+    "lineNumber": 38,
+    "amendmentPosition": "",
+    "marshalledListText": "10",
+    "dNum": "hol5",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 1, insert the following new Clause\u2014",
+      "<b>\u201cReview of maximum payment period for non-public authority purchasers</b>"
+    ],
+    "amendmentId": 10035840,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 1,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "11",
+    "dNum": "hol3",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 12, leave out \u201c68 or 88\u201d and insert \u201c68A or 88A\u201d"
+    ],
+    "amendmentId": 10037163,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "12",
+    "dNum": "opc19",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 13, leave out \u201c(implied payment terms in certain public contracts)\u201d"
+    ],
+    "amendmentId": 10037176,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "13",
+    "dNum": "opc32",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, line 20, at end insert \u201c; and see sections 68A and 88A of the Procurement Act 2023 regarding the final date for payment in certain contracts to which that Act applies\u201d"
+    ],
+    "amendmentId": 10037160,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "14",
+    "dNum": "opc15",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 5, leave out lines 23 to 33 and insert\u2014",
+      "\u201c(3A) Subsection (3AA) applies if\u2014"
+    ],
+    "amendmentId": 10037183,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 5,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "15",
+    "dNum": "opc8",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, line 9, at end insert \u201c; and see sections 68A and 88A of the Procurement Act 2023 regarding the final date for payment in certain contracts to which that Act applies\u201d"
+    ],
+    "amendmentId": 10037161,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "16",
+    "dNum": "opc16",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 2, page 6, leave out lines 12 to 22 and insert\u2014",
+      "\u201c(3A) Paragraph (3AA) applies if\u2014"
+    ],
+    "amendmentId": 10037184,
+    "amendmentType": "EditBillBody",
+    "clause": 2,
+    "schedule": null,
+    "pageNumber": 6,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "17",
+    "dNum": "opc9",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 7, leave out lines 3 to 16"
+    ],
+    "amendmentId": 10035823,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "18",
+    "dNum": "hol13",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 7, line 23, at end insert \u201csave that the Secretary of State must not specify in regulations which have or will continue to have effect after 1 April 2029 any contract of a description which relates to\u2014",
+      "(a) the supply of any goods or services by a person in the United Kingdom to any person for use outside of the United Kingdom, or"
+    ],
+    "amendmentId": 10036455,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 7,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "19",
+    "dNum": "hol64",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4309,
+        "name": "Lord Thomas of Cwmgiedd",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4309/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4309/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 8, leave out lines 1 to 8 and insert\u2014",
+      "\u201c(7) In subsections (2) and (3)\u2014"
+    ],
+    "amendmentId": 10036499,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 1,
+    "amendmentPosition": "",
+    "marshalledListText": "20",
+    "dNum": "hol69",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 8, leave out lines 17 to 28"
+    ],
+    "amendmentId": 10036500,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 17,
+    "amendmentPosition": "",
+    "marshalledListText": "21",
+    "dNum": "hol70",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 8, line 28, at end insert\u2014",
+      "\u201c(9A) Regulations under subsection (7) must not specify criteria of undertakings that differ from\u2014"
+    ],
+    "amendmentId": 10035824,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 28,
+    "amendmentPosition": "",
+    "marshalledListText": "22",
+    "dNum": "hol14",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 3, page 8, line 29, leave out from \u201cmeans\u201d to end of line 30 and insert \u201c\u2014",
+      "(a) a person carrying on one or more businesses;"
+    ],
+    "amendmentId": 10036501,
+    "amendmentType": "EditBillBody",
+    "clause": 3,
+    "schedule": null,
+    "pageNumber": 8,
+    "lineNumber": 29,
+    "amendmentPosition": "",
+    "marshalledListText": "23",
+    "dNum": "hol71",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 9, line 2, at end insert\u2014",
+      "\u201c(3) Statutory interest is to be remitted to the supplier within five working days of payment of the invoices."
+    ],
+    "amendmentId": 10036431,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "24",
+    "dNum": "hol52",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 4, page 9, line 2, at end insert\u2014",
+      "\u201c(3) Qualifying debt created by this contract does not carry simple interest should it result from a delayed payment caused by a public holiday.\u201d"
+    ],
+    "amendmentId": 10037211,
+    "amendmentType": "EditBillBody",
+    "clause": 4,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "25",
+    "dNum": "hol78",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 9, line 37, leave out from second \u201cto\u201d to end of line 5 on page 10 and insert \u201c\u2014",
+      "(a) the day that has effect under provision agreed by the parties to the contract as the last day for payment to be made, or"
+    ],
+    "amendmentId": 10037170,
+    "amendmentType": "EditBillBody",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 9,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "26",
+    "dNum": "opc26",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 10, line 6, leave out \u201c(9) or\u201d"
+    ],
+    "amendmentId": 10037166,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 6,
+    "amendmentPosition": "",
+    "marshalledListText": "27",
+    "dNum": "opc21",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 10, line 9, leave out \u201cday\u201d and insert \u201cdate\u201d"
+    ],
+    "amendmentId": 10037171,
+    "amendmentType": "EditBillBody",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 9,
+    "amendmentPosition": "",
+    "marshalledListText": "28",
+    "dNum": "opc28",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 10, line 12, leave out \u201cday\u201d and insert \u201cdate\u201d"
+    ],
+    "amendmentId": 10037172,
+    "amendmentType": "EditBillBody",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "29",
+    "dNum": "opc29",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 10, line 13, leave out \u201cthe relevant Construction Scheme provision (see section 15A)\u201d and insert \u201cthe implied term described in (as the case may be)\u2014",
+      "(i) the relevant Construction Scheme provision (see sections 2D(6) and 15A);"
+    ],
+    "amendmentId": 10037162,
+    "amendmentType": "EditBillBody",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "30",
+    "dNum": "opc17",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 10, leave out lines 15 to 26"
+    ],
+    "amendmentId": 10037165,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "31",
+    "dNum": "opc20",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 10, line 40, leave out \u201cthat Act\u201d and insert \u201cthe Procurement Act 2023\u201d"
+    ],
+    "amendmentId": 10037156,
+    "amendmentType": "EditBillBody",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 10,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "32",
+    "dNum": "opc11",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 11, leave out lines 4 to 7"
+    ],
+    "amendmentId": 10037181,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 11,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "33",
+    "dNum": "opc6",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 5, page 11, leave out lines 20 and 21"
+    ],
+    "amendmentId": 10037167,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 5,
+    "schedule": null,
+    "pageNumber": 11,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "34",
+    "dNum": "opc22",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 14, line 19, leave out \u201c110(3)\u201d and insert \u201c110(4)\u201d"
+    ],
+    "amendmentId": 10037168,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "35",
+    "dNum": "opc23",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 8, page 14, line 23, leave out \u201c9(3)\u201d and insert \u201c9(4)\u201d"
+    ],
+    "amendmentId": 10037169,
+    "amendmentType": "EditBillBody",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "36",
+    "dNum": "opc24",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 8, insert the following new Clause\u2014",
+      "<b>\u201cAgreements relating to copyright and other intellectual property</b>"
+    ],
+    "amendmentId": 10035842,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 8,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "37",
+    "dNum": "hol7",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 9, page 14, line 35, leave out \u201cin connection with provision\u201d and insert \u201cin consequence of the amendments of the CPILPA 1998\u201d"
+    ],
+    "amendmentId": 10037182,
+    "amendmentType": "EditBillBody",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "38",
+    "dNum": "opc7",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 9, page 14, line 36, at end insert\u2014",
+      "\u201c(c) Part 3 amends the Procurement Act 2023 in connection with provision made by this Chapter.\u201d"
+    ],
+    "amendmentId": 10037173,
+    "amendmentType": "EditBillBody",
+    "clause": 9,
+    "schedule": null,
+    "pageNumber": 14,
+    "lineNumber": 36,
+    "amendmentPosition": "",
+    "marshalledListText": "39",
+    "dNum": "opc3",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 46, leave out lines 25 to 36 and insert\u2014",
+      "\u201c(a) a reference to a contract to which section 68 or 88 of the Procurement Act 2023 applies includes a contract into which the terms in section 68(2) to (5) or section 88(2) to (5) of that Act are (to any extent) implied as a result of section 68A, 73, 88A or 88C of that Act (sub-contracts etc);"
+    ],
+    "amendmentId": 10037157,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 46,
+    "lineNumber": 25,
+    "amendmentPosition": "",
+    "marshalledListText": "40",
+    "dNum": "opc12",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 1, page 47, line 32, at end insert\u2014",
+      "\u201cPart 3"
+    ],
+    "amendmentId": 10037164,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 1,
+    "pageNumber": 47,
+    "lineNumber": 32,
+    "amendmentPosition": "",
+    "marshalledListText": "41",
+    "dNum": "opc2",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 10, insert the following new Clause\u2014",
+      "<b>\u201cSpecial administration: continuity of payment obligations</b>"
+    ],
+    "amendmentId": 10037213,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 10,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "42",
+    "dNum": "hol80",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 10, insert the following new Clause\u2014",
+      "<b>\u201cSpecial administration: sums owed to suppliers required to continue supply</b>"
+    ],
+    "amendmentId": 10037214,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 10,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "43",
+    "dNum": "hol81",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 11, page 15, line 19, at end insert\u2014",
+      "\u201c(1A) Sections 113B to 113E apply only where B is not a micro, small or medium-sized undertaking according to the regulations made under section 2E(7)(a) (exempted contracts: no restriction on payment terms) of the Commercial Payments and Interest on Late Payment Act 1998.\u201d"
+    ],
+    "amendmentId": 10036477,
+    "amendmentType": "EditBillBody",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": 15,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "44",
+    "dNum": "hol65",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 123,
+        "name": "Lord Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 11, page 15, leave out lines 27 and 28"
+    ],
+    "amendmentId": 10036478,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": 15,
+    "lineNumber": 27,
+    "amendmentPosition": "",
+    "marshalledListText": "45",
+    "dNum": "hol66",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 123,
+        "name": "Lord Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 11, page 15, line 34, at end insert\u2014",
+      "\u201c(3) A party to a construction contract is not precluded from engaging with a third party in the transference of money to another party to the construction contract under subsection (1).\u201d"
+    ],
+    "amendmentId": 10035826,
+    "amendmentType": "EditBillBody",
+    "clause": 11,
+    "schedule": null,
+    "pageNumber": 15,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "46",
+    "dNum": "hol16",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 12, page 17, line 30, leave out from \u201cmeans\u201d to end of line 32 and insert \u201c\u2014",
+      "(a) the last day of the period of two years beginning with the day on which this section comes into force, where the payer is a public authority, or"
+    ],
+    "amendmentId": 10035827,
+    "amendmentType": "EditBillBody",
+    "clause": 12,
+    "schedule": null,
+    "pageNumber": 17,
+    "lineNumber": 30,
+    "amendmentPosition": "",
+    "marshalledListText": "47",
+    "dNum": "hol17",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 13, page 18, line 15, at end insert\u2014",
+      "\u201c(2A) This section does not apply in respect of a retention clause of less than 2 per cent of the value of the contract, which is retained during an agreed period during which any defects are to be made good.\u201d"
+    ],
+    "amendmentId": 10036479,
+    "amendmentType": "EditBillBody",
+    "clause": 13,
+    "schedule": null,
+    "pageNumber": 18,
+    "lineNumber": 15,
+    "amendmentPosition": "",
+    "marshalledListText": "48",
+    "dNum": "hol67",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 123,
+        "name": "Lord Lansley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/123/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/123/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 13, page 18, line 22, at end insert\u2014",
+      "\u201c(4A) A party to a construction contract is not precluded from staging payments to another party to the construction contract under this section.\u201d"
+    ],
+    "amendmentId": 10037212,
+    "amendmentType": "EditBillBody",
+    "clause": 13,
+    "schedule": null,
+    "pageNumber": 18,
+    "lineNumber": 22,
+    "amendmentPosition": "",
+    "marshalledListText": "49",
+    "dNum": "hol79",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 17, insert the following new Clause\u2014",
+      "<b>\u201cExempted contracts: resident-run or resident-owned properties</b>"
+    ],
+    "amendmentId": 10037210,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "50",
+    "dNum": "hol77",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 17, insert the following new Clause\u2014",
+      "<b>\u201cProhibition of forced payment methods</b>"
+    ],
+    "amendmentId": 10037293,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "51",
+    "dNum": "hol87",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 17, insert the following new Clause\u2014",
+      "<b>\u201cRight to periodic or stage payments for small undertakings</b>"
+    ],
+    "amendmentId": 10037296,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 17,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "52",
+    "dNum": "hol90",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4562,
+        "name": "Baroness Bowles of Berkhamsted",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4562/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4562/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 48, line 6, at end insert\u2014",
+      "\u201c1A In section 110 (dates for payment)\u2014"
+    ],
+    "amendmentId": 10037158,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 48,
+    "lineNumber": 6,
+    "amendmentPosition": "",
+    "marshalledListText": "53",
+    "dNum": "opc13",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 2, page 49, line 4, at end insert\u2014",
+      "\u201c6A In Article 9 (dates for payment)\u2014"
+    ],
+    "amendmentId": 10037159,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 2,
+    "pageNumber": 49,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "54",
+    "dNum": "opc14",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 21, line 23, leave out \u201c(but no other type of person)\u201d and insert \u201cor consumer\u201d"
+    ],
+    "amendmentId": 10035829,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "55",
+    "dNum": "hol19",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 21, line 29, leave out \u201clarger\u201d"
+    ],
+    "amendmentId": 10035828,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 29,
+    "amendmentPosition": "",
+    "marshalledListText": "56",
+    "dNum": "hol18",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 21, line 31, after \u201capplies\u201d insert \u201cor by a small business to a consumer under an express or implied term of a contract\u201d"
+    ],
+    "amendmentId": 10035830,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 21,
+    "lineNumber": 31,
+    "amendmentPosition": "",
+    "marshalledListText": "57",
+    "dNum": "hol20",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 22, line 26, at end insert\u2014",
+      "\u201c(1A) It is not a defence for the larger business to claim that payment was withheld due to the small business not complying with non-statutory environmental, social and governance requirements that are not included in the terms of the contract.\u201d"
+    ],
+    "amendmentId": 10036437,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 22,
+    "lineNumber": 26,
+    "amendmentPosition": "",
+    "marshalledListText": "58",
+    "dNum": "hol62",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 22, line 35, insert\u2014",
+      "\u201c(5A) The adjudicator must reach a decision determining a relevant payment dispute before the end of the period of 60 days beginning with the day on which the dispute is referred to adjudication under the scheme."
+    ],
+    "amendmentId": 10035795,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 22,
+    "lineNumber": 35,
+    "amendmentPosition": "",
+    "marshalledListText": "59",
+    "dNum": "hol2",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 23, line 6, leave out from \u201cWales,\u201d to end of line 7 and insert \u201cas if it were payable under an order of the county court;\u201d"
+    ],
+    "amendmentId": 10037177,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 23,
+    "lineNumber": 6,
+    "amendmentPosition": "",
+    "marshalledListText": "60",
+    "dNum": "opc33",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 23, line 11, leave out from \u201cNorthern Ireland,\u201d to end of line 12 and insert \u201cas if it were payable under an order of a county court.\u201d"
+    ],
+    "amendmentId": 10037178,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 23,
+    "lineNumber": 11,
+    "amendmentPosition": "",
+    "marshalledListText": "61",
+    "dNum": "opc34",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 24, line 5, at end insert\u2014",
+      "\u201c(3A) The Commissioner must give written reasons for the decision to decline to adjudicate a relevant payment dispute under subsection (3).\u201d"
+    ],
+    "amendmentId": 10036435,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 24,
+    "lineNumber": 5,
+    "amendmentPosition": "",
+    "marshalledListText": "62",
+    "dNum": "hol58",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, line 4, at end insert\u2014",
+      "<b>\u201c2FA</b> <b>Protection of small businesses from detriment</b>"
+    ],
+    "amendmentId": 10035794,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 4,
+    "amendmentPosition": "",
+    "marshalledListText": "63",
+    "dNum": "hol1",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, leave out lines 12 and 13"
+    ],
+    "amendmentId": 10035832,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "64",
+    "dNum": "hol22",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, leave out lines 14 and 15"
+    ],
+    "amendmentId": 10035833,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 14,
+    "amendmentPosition": "",
+    "marshalledListText": "65",
+    "dNum": "hol23",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, line 19, after \u201cadjudication\u201d insert \u201c(but see subsection (2A))\u201d"
+    ],
+    "amendmentId": 10035839,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 19,
+    "amendmentPosition": "",
+    "marshalledListText": "66",
+    "dNum": "hol29",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, line 21, after \u201ccircumstances\u201d insert \u201csubject to the agreement of both parties\u201d"
+    ],
+    "amendmentId": 10035835,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 21,
+    "amendmentPosition": "",
+    "marshalledListText": "67",
+    "dNum": "hol25",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, leave out lines 33 to 35"
+    ],
+    "amendmentId": 10035836,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 33,
+    "amendmentPosition": "",
+    "marshalledListText": "68",
+    "dNum": "hol26",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, leave out lines 37 and 38"
+    ],
+    "amendmentId": 10035837,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "69",
+    "dNum": "hol27",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, line 38, at end insert\u2014",
+      "\u201c(2A) In paragraph (2)(a), \u201csteps\u201d include but are not limited to\u2014"
+    ],
+    "amendmentId": 10035831,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 38,
+    "amendmentPosition": "",
+    "marshalledListText": "70",
+    "dNum": "hol21",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 25, line 38, at end insert\u2014",
+      "\u201c(2A) Regulations under this section must provide for an adjudicator to determine a dispute within 28 days of referral, subject to such extensions as may be agreed by the parties.\u201d"
+    ],
+    "amendmentId": 10035834,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 25,
+    "lineNumber": 38,
+    "amendmentPosition": "",
+    "marshalledListText": "71",
+    "dNum": "hol24",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 18, page 26, line 3, at end insert\u2014",
+      "\u201c(5) A statutory instrument containing regulations under this section must not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.\u201d"
+    ],
+    "amendmentId": 10035838,
+    "amendmentType": "EditBillBody",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": 26,
+    "lineNumber": 3,
+    "amendmentPosition": "",
+    "marshalledListText": "72",
+    "dNum": "hol28",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 18, insert the following new Clause\u2014",
+      "<b>\u201cDigital access to SBC adjudication scheme</b>"
+    ],
+    "amendmentId": 10036121,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 18,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "73",
+    "dNum": "hol33",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 19, page 26, leave out lines 36 and 37"
+    ],
+    "amendmentId": 10036436,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": 26,
+    "lineNumber": 36,
+    "amendmentPosition": "",
+    "marshalledListText": "74",
+    "dNum": "hol60",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 19, page 27, line 7, at end insert\u2014",
+      "\u201c(6A) In subsection (4) \u201ca sufficient number of occasions\u201d must be defined by the Commissioner within six months of the day on which the Commercial Payments Act 2026 is passed.\u201d"
+    ],
+    "amendmentId": 10036454,
+    "amendmentType": "EditBillBody",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": 27,
+    "lineNumber": 7,
+    "amendmentPosition": "",
+    "marshalledListText": "75",
+    "dNum": "hol61",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 19, page 32, line 20, leave out from \u201cbusiness\u201d to \u201cwhere\u201d in line 21"
+    ],
+    "amendmentId": 10037155,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": 32,
+    "lineNumber": 20,
+    "amendmentPosition": "",
+    "marshalledListText": "76",
+    "dNum": "opc10",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 19, page 32, line 23, at end insert\u2014",
+      "\u201c(2A) In subsection (2), the reference to the costs of an investigation includes the costs of\u2014"
+    ],
+    "amendmentId": 10037179,
+    "amendmentType": "EditBillBody",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": 32,
+    "lineNumber": 23,
+    "amendmentPosition": "",
+    "marshalledListText": "77",
+    "dNum": "opc4",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cAlgorithmic accountability</b>"
+    ],
+    "amendmentId": 10036119,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "78",
+    "dNum": "hol31",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cTime limits for investigations</b>"
+    ],
+    "amendmentId": 10036124,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "79",
+    "dNum": "hol36",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cEqualities monitoring of payment disputes and investigations</b>"
+    ],
+    "amendmentId": 10036127,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "80",
+    "dNum": "hol39",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 19, insert the following new Clause\u2014",
+      "<b>\u201cSmall Business Commissioner Office of the Whistleblower</b>"
+    ],
+    "amendmentId": 10036512,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 19,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "81",
+    "dNum": "hol47",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 1557,
+        "name": "Baroness Kramer",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/1557/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/1557/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 3, page 52, line 12, at end insert\u2014",
+      "\u201c(3) Before making regulations under sub-paragraph (1), the Secretary of State must consult the Commissioner and such other persons as the Secretary of State considers appropriate.\u201d"
+    ],
+    "amendmentId": 10037180,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 3,
+    "pageNumber": 52,
+    "lineNumber": 12,
+    "amendmentPosition": "",
+    "marshalledListText": "82",
+    "dNum": "opc5",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 21, insert the following new Clause\u2014",
+      "<b>\u201cSmall Business Payments Charter</b>"
+    ],
+    "amendmentId": 10036125,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 21,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "83",
+    "dNum": "hol37",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 21, insert the following new Clause\u2014",
+      "<b>\u201cTargeted support for under-served small businesses</b>"
+    ],
+    "amendmentId": 10036128,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 21,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "84",
+    "dNum": "hol40",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 21, insert the following new Clause\u2014",
+      "<b>\u201cDigital accessibility requirements</b>"
+    ],
+    "amendmentId": 10036129,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 21,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "85",
+    "dNum": "hol41",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 21, insert the following new Clause\u2014",
+      "<b>\u201cEmployment Rights Act 2025: review of impact on payment practices</b>"
+    ],
+    "amendmentId": 10036433,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 21,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "86",
+    "dNum": "hol54",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 21, insert the following new Clause\u2014",
+      "<b>\u201cChanges in employment law: duty to review</b>"
+    ],
+    "amendmentId": 10036434,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 21,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "87",
+    "dNum": "hol55",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 24, page 37, line 34, leave out \u201cin the United Kingdom\u201d"
+    ],
+    "amendmentId": 10037289,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": 37,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "88",
+    "dNum": "hol83",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 24, page 37, line 37, leave out \u201cin the United Kingdom\u201d"
+    ],
+    "amendmentId": 10037290,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": 37,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "89",
+    "dNum": "hol84",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 24, page 37, line 40, leave out \u201cin the United Kingdom\u201d"
+    ],
+    "amendmentId": 10037291,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": 37,
+    "lineNumber": 40,
+    "amendmentPosition": "",
+    "marshalledListText": "90",
+    "dNum": "hol85",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "[<i>Withdrawn</i>]",
+      "Clause 24, page 37, line 41, at end insert\u2014"
+    ],
+    "amendmentId": 10035797,
+    "amendmentType": "EditBillBody",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": 37,
+    "lineNumber": 41,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol6",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "WithdrawnBeforeDebate",
+    "decisionExplanation": "The amendment was withdrawn before debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 24, page 38, line 13, at end insert\u2014",
+      "\u201c(2A) In this section, references to the \u201cturnover\u201d of a company include\u2014"
+    ],
+    "amendmentId": 10037292,
+    "amendmentType": "EditBillBody",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": 38,
+    "lineNumber": 13,
+    "amendmentPosition": "",
+    "marshalledListText": "91",
+    "dNum": "hol86",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 24, insert the following new Clause\u2014",
+      "<b>\u201cAI-assisted payment monitoring</b>"
+    ],
+    "amendmentId": 10036118,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 24,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "92",
+    "dNum": "hol30",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cFunding of the Small Business Commissioner: statement to Parliament</b>"
+    ],
+    "amendmentId": 10035796,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "93",
+    "dNum": "hol4",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4322,
+        "name": "Lord Fox",
+        "party": "Liberal Democrat",
+        "partyColour": "fc7d0b",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4322/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4322/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 4,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cOpen payment data register</b>"
+    ],
+    "amendmentId": 10036120,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "94",
+    "dNum": "hol32",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cBlockchain pilot for construction retention records</b>"
+    ],
+    "amendmentId": 10036122,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "95",
+    "dNum": "hol34",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cCyber security and post-quantum cryptographic standards</b>"
+    ],
+    "amendmentId": 10036123,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "96",
+    "dNum": "hol35",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cSupply chain payment sustainability reporting</b>"
+    ],
+    "amendmentId": 10036126,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "97",
+    "dNum": "hol38",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cESG framework for payment practices</b>"
+    ],
+    "amendmentId": 10036130,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "98",
+    "dNum": "hol42",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cDatabase of different-sized businesses</b>"
+    ],
+    "amendmentId": 10037207,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "99",
+    "dNum": "hol74",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "After Clause 25, insert the following new Clause\u2014",
+      "<b>\u201cReview: payment terms and statutory insolvency moratoria</b>"
+    ],
+    "amendmentId": 10037215,
+    "amendmentType": "AddClauseOrSchedule",
+    "clause": 25,
+    "schedule": null,
+    "pageNumber": null,
+    "lineNumber": null,
+    "amendmentPosition": "After",
+    "marshalledListText": "100",
+    "dNum": "hol82",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4295,
+        "name": "Lord Leigh of Hurley",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4295/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4295/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Schedule 4, page 52, line 34, after \u201cfunctions),\u201d insert\u2014",
+      "\u201c(a) in subsection (1), for paragraphs (a) to (c) substitute\u2014"
+    ],
+    "amendmentId": 10036498,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 4,
+    "pageNumber": 52,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "101",
+    "dNum": "hol68",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "NotMoved",
+    "decisionExplanation": "The amendment was not moved. The House was not invited to take a decision on it (though it may have been debated with other amendments).",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "[<i>Withdrawn</i>]",
+      "Schedule 4, page 59, line 2, leave out paragraph 15"
+    ],
+    "amendmentId": 10036719,
+    "amendmentType": "EditBillBody",
+    "clause": null,
+    "schedule": 4,
+    "pageNumber": 59,
+    "lineNumber": 2,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol73",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "WithdrawnBeforeDebate",
+    "decisionExplanation": "The amendment was withdrawn before debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4098,
+        "name": "Baroness Coffey",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4098/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4098/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 28, page 40, line 11, after \u201cState\u201d insert \u201cor the Chancellor of the Duchy of Lancaster\u201d"
+    ],
+    "amendmentId": 10037174,
+    "amendmentType": "EditBillBody",
+    "clause": 28,
+    "schedule": null,
+    "pageNumber": 40,
+    "lineNumber": 11,
+    "amendmentPosition": "",
+    "marshalledListText": "102",
+    "dNum": "opc30",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 4959,
+        "name": "Lord Leong",
+        "party": "Labour",
+        "partyColour": "d50000",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4959/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4959/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  },
+  {
+    "summaryText": [
+      "Clause 31, page 41, line 34, at end insert\u2014",
+      "\u201c(2A) Section 4 comes into force on the day after the last day of the period of 12 months beginning with the day on which this Act is passed.\u201d"
+    ],
+    "amendmentId": 10035825,
+    "amendmentType": "EditBillBody",
+    "clause": 31,
+    "schedule": null,
+    "pageNumber": 41,
+    "lineNumber": 34,
+    "amendmentPosition": "",
+    "marshalledListText": "103",
+    "dNum": "hol15",
+    "id": 0,
+    "billId": 4128,
+    "billStageId": 20799,
+    "statusIndicator": null,
+    "decision": "Withdrawn",
+    "decisionExplanation": "The amendment was withdrawn after debate and no decision was taken on it.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 994,
+        "name": "Lord Hunt of Wirral",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/994/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/994/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 2,
+        "memberId": 4888,
+        "name": "Lord Sharpe of Epsom",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4888/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4888/contact",
+        "memberFrom": "Life peer"
+      },
+      {
+        "isLead": false,
+        "sortOrder": 3,
+        "memberId": 4294,
+        "name": "Lord Holmes of Richmond",
+        "party": "Conservative",
+        "partyColour": "0063ba",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/4294/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/4294/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

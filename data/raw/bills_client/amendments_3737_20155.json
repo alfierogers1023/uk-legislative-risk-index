@@ -1,0 +1,36 @@
+[
+  {
+    "summaryText": [
+      "Clause 162, page 163, line 37, leave out paragraph (b)"
+    ],
+    "amendmentId": 10026092,
+    "amendmentType": "DeleteClauseOrSchedule",
+    "clause": 162,
+    "schedule": null,
+    "pageNumber": 163,
+    "lineNumber": 37,
+    "amendmentPosition": "",
+    "marshalledListText": "",
+    "dNum": "hol945",
+    "id": 0,
+    "billId": 3737,
+    "billStageId": 20155,
+    "statusIndicator": null,
+    "decision": "Agreed",
+    "decisionExplanation": "This amendment was agreed to. Where a member has given notice of their intention to oppose a Clause/Schedule standing part of a Bill, 'agreed' indicates that the Clause/Schedule was removed from the Bill.",
+    "sponsors": [
+      {
+        "isLead": true,
+        "sortOrder": 1,
+        "memberId": 3351,
+        "name": "Lord Burns",
+        "party": "Crossbench",
+        "partyColour": "C0C0C0",
+        "house": "Lords",
+        "memberPhoto": "https://members-api.parliament.uk/api/Members/3351/Thumbnail",
+        "memberPage": "https://members.parliament.uk/member/3351/contact",
+        "memberFrom": "Life peer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 18860,
+    "stageId": 1,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15948,
+        "stageId": 1,
+        "billStageId": 18860,
+        "billId": 3733,
+        "date": "2024-07-18T00:00:00"
+      }
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": 18861,
+    "stageId": 2,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15953,
+        "stageId": 2,
+        "billStageId": 18861,
+        "billId": 3733,
+        "date": "2024-07-30T00:00:00"
+      }
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": 18911,
+    "stageId": 3,
+    "sessionId": 39,
+    "description": "Committee stage",
+    "abbreviation": "CS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 15997,
+        "stageId": 3,
+        "billStageId": 18911,
+        "billId": 3733,
+        "date": "2024-09-11T00:00:00"
+      }
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": 18979,
+    "stageId": 4,
+    "sessionId": 39,
+    "description": "Report stage",
+    "abbreviation": "RS",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16068,
+        "stageId": 4,
+        "billStageId": 18979,
+        "billId": 3733,
+        "date": "2024-10-30T00:00:00"
+      }
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": 19009,
+    "stageId": 5,
+    "sessionId": 39,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Lords",
+    "stageSittings": [
+      {
+        "id": 16084,
+        "stageId": 5,
+        "billStageId": 19009,
+        "billId": 3733,
+        "date": "2024-11-06T00:00:00"
+      }
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": 19265,
+    "stageId": 6,
+    "sessionId": 39,
+    "description": "1st reading",
+    "abbreviation": "1R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16352,
+        "stageId": 6,
+        "billStageId": 19265,
+        "billId": 3733,
+        "date": "2024-11-06T00:00:00"
+      }
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": 19458,
+    "stageId": 7,
+    "sessionId": 39,
+    "description": "2nd reading",
+    "abbreviation": "2R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16602,
+        "stageId": 7,
+        "billStageId": 19458,
+        "billId": 3733,
+        "date": "2025-01-29T00:00:00"
+      }
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": 19489,
+    "stageId": 14,
+    "sessionId": 39,
+    "description": "Programme motion",
+    "abbreviation": "PM",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16641,
+        "stageId": 14,
+        "billStageId": 19489,
+        "billId": 3733,
+        "date": "2025-01-29T00:00:00"
+      }
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": 19503,
+    "stageId": 49,
+    "sessionId": 39,
+    "description": "Committee of the whole House",
+    "abbreviation": "COTWH",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16663,
+        "stageId": 49,
+        "billStageId": 19503,
+        "billId": 3733,
+        "date": "2025-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": 19550,
+    "stageId": 10,
+    "sessionId": 39,
+    "description": "3rd reading",
+    "abbreviation": "3R",
+    "house": "Commons",
+    "stageSittings": [
+      {
+        "id": 16710,
+        "stageId": 10,
+        "billStageId": 19550,
+        "billId": 3733,
+        "date": "2025-02-11T00:00:00"
+      }
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": 19674,
+    "stageId": 11,
+    "sessionId": 39,
+    "description": "Royal Assent",
+    "abbreviation": "RA",
+    "house": "Unassigned",
+    "stageSittings": [
+      {
+        "id": 16727,
+        "stageId": 11,
+        "billStageId": 19674,
+        "billId": 3733,
+        "date": "2025-02-24T00:00:00"
+      }
+    ],
+    "sortOrder": 11
+  }
+]
